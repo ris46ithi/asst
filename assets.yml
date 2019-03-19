@@ -1,0 +1,2477 @@
+#
+# Status: Active, Defunct, Deleted
+#
+
+
+asset-types:
+  - type: &red-chair
+      name: Rolling Chair
+      description: >-
+        Rolling chair, red cushion cover, pneumatic lift for height
+        adjustment, reclinable, black arm rest.
+
+  - type: &grey-chair
+      name: Training Chair
+      description: >-
+        Chair, grey seat, with foldable writing pad.
+
+  - type: &small-chair
+      name: Small Rolling Chair
+      description: >-
+        Chair, red cushion cover, pneumatic lift for height
+        adjustment, non-reclinable, no arm rest.
+
+  - type: &red-black-chair
+      name: Ergonomic Rolling Chair
+      description: >-
+        Chair, red cover for back rest, black cushion cover, pneumatic
+        lift for height adjustment, reclinable, black arm rest.
+
+  - type: &monitor-nec
+      name: NEC LCD Monitor
+      description: >-
+       TBD
+
+  - type: &monitor-dell
+      name: Dell LCD Monitor
+      description: >-
+       TBD
+
+  - type: &digital-calculator
+      name: Casio Calculator
+      description: >-
+       TBD
+
+  - type: &monitor-samsung
+      name: Samsung LCD Monitor
+      description: >-
+        TBD
+
+  - type: &pc
+      name: Desktop Computers
+      description: >-
+        TBD
+
+  - type: &keyboard-rapoo
+      name: RAPOO Keyboard
+      description: >-
+        TBD
+
+  - type: &mouse-rapoo
+      name: RAPOO Mouse
+      description: >-
+        TBD
+
+  - type: &keyboard-dell
+      name: Keyboard Dell
+      description: >-
+        TBD
+
+  - type: &mouse-dell
+      name: Mouse Dell
+      description: >-
+        TBD
+
+  - type: &wireless-router
+      name: Wireless Router
+      description: >-
+        TBD
+
+  - type: &keyboard-logitech
+      name: Logitech Keyboard
+      description: >-
+        TBD
+
+  - type: &mouse-logitech
+      name: Logitech Mouse
+      description: >-
+        TBD
+
+  - type: &keyboard-hp
+      name: HP Keyboard
+      description: >-
+        TBD
+
+  - type: &mouse-hp
+      name: HP Mouse
+      descrition: >-
+        TBD
+
+  - type: &monitor-philips
+      name: Philips Monitor
+      description: >-
+        TBD
+
+  - type: &usb-ms-transcend
+      name: Transcend USB
+      description: >-
+        TBD
+
+  - type: &pc-mini
+      name: Mini pc dell
+      description: >-
+        TBD
+
+  - type: &wireless-router-big
+      name: Netgear wireless router
+      description: >-
+        TBD
+
+  - type: &wifi-antenna
+      name: Netgear wireless router
+      description: >-
+        TBD
+
+locations:
+  LOCAT:BmugwtyQRIGsXM0ZKgHzjQ:
+    name: Mini-conference room
+    facility: Corporate Headquarters
+
+  LOCAT:uDCbnZUeRxmqW9khBO1Ung:
+    name: Classroom
+    facility: Corporate Headquarters
+
+  LOCAT:UO0m58WiS9i05oT2aVT2jQ:
+    name: Lab
+    facility: Corporate Headquarters
+
+  LOCAT:#SEk#ne1TbKoUbCMsA6YSg:
+    name: Reception
+    facility: Corporate Headquarters
+
+  LOCAT:FQhURk0mT5uBaG5x9AymAw:
+    name: Workplace
+    facility: Corporate Headquarters
+
+  LOCAT:FoW@a0kJQ8Sf1Mois4pngg:
+    name: "Director's Office"
+    facility: Corporate Headquarters
+
+  LOCAT:gPCZTvdHRv2btZmkpkLZgg:
+    name: Entrance hall
+    facility: Innovation Center
+
+  LOCAT:ododE5YUSRqQFm-4YLb85Q:
+    name: Room-1
+    facility: Innovation Center
+
+  LOCAT:PaCxpwA8TNWTi-9LGquzKw:
+    name: HW Room
+    facility: Innovation Center
+
+  LOCAT:a73X3XSGT3mlu6F0B-oScw:
+    name: HR room
+    facility: Innovation Center
+
+  LOCAT:oMB862m0QsuhgwndzeGKSA:
+    name: storage
+    facility: Innovation center
+
+  LOCAT:tsEXwGdKT4#2NNTV4NtCFQ:
+    name: Class room mini
+    facility: Innovation center
+
+  LOCAT:g8cF7qNGTHWb1kaIwjb9pA:
+    name: Conference Room
+    facility: Innovation center
+
+  LOCAT:DMKUccrCSk69IrivogaeFw:
+    name: Room-2
+    facility: Innovation center
+
+assets:
+  "ASSET:h0BUk05uSSufpHIHcsaeCw":
+    type: *red-chair
+
+  "ASSET:nxjdDOO3Tk6MW6TV@HpBhg":
+    type: *digital-calculator
+
+  "ASSET:czhenT93TGWGL@QXowO2pQ":
+    type: *red-chair
+
+  "ASSET:Tqo6XdxKRSaT14di8RF6LA":
+    type: *red-chair
+
+  "ASSET:VlmfdEd2QX6auhKLXlRCxQ":
+    type: *red-chair
+
+  "ASSET:CYAYEmHpRSioK7t6Gj1QdQ":
+    type: *red-chair
+
+  "ASSET:NoSHHOb@Teip2gQQqG5Oeg":
+    type: *red-chair
+
+  "ASSET:OJ4oNrP0TNKUVixrHFJU3g":
+    type: *red-chair
+
+  "ASSET:j#mWUbZfTBa9rW4NKjT6WA":
+    type: *monitor-dell
+    staus: Defunct
+
+  "ASSET:TWhp5wqpRf6QuEHy3jV8HA":
+    type: *monitor-dell
+    status: Defunct
+
+  "ASSET:ZB2yPSDGSpicnhNweVkSgA":
+    type: *monitor-dell
+    status: Defunct
+
+  "ASSET:C8ecLTiyS8Ws9gyAjN4EcQ":
+    type: *monitor-dell
+    status: Defunct
+
+  "ASSET:ALnInskgQtyP24JC4T@zrw":
+    type: *monitor-dell
+    status: Defunct
+
+  "ASSET:JweQzcYbRP#8PhQbYuoqOA":
+    type: *monitor-dell
+    status: Defunct
+
+  "ASSET:hHJdBY@eRkWXnB@HRQhtrQ":
+    type: *monitor-samsung
+    status: Defunct
+
+  "ASSET:pTZ#f2woS5qvtd86fpaRwA":
+    type: *pc
+    status: Defunct
+
+  "ASSET:AyGRcuudSdKdU3u@ZW4c#A":
+    type: *pc
+    status: Defunct
+
+  "ASSET:BhWEaFXQQESli1ODfEAdMg":
+    type: *pc
+
+  "ASSET:t5U44V56QcKEisY#8j6@IQ":
+    type: *pc
+    status: Defunct
+
+  "ASSET:xVp6yWgUTbmBnI8v4z#sbg":
+    type: *pc
+
+  "ASSET:AB@Rpt0jQueWJbFMsG7lPA":
+    type: *pc
+    status: Defunct
+
+  "ASSET:KM5N7D14R3S7SotD8UaSBA":
+    type: *pc
+    status: Defunct
+
+  "ASSET:lDScZ9mmQjen62bwnqbIaA":
+    type: *keyboard-dell
+
+  "ASSET:EAA@vIMmQd2uyqip28RltA":
+    type: *keyboard-dell
+
+  "ASSET:3F767t4iSn#CvfMQB47Ggg":
+    type: *keyboard-dell
+
+  "ASSET:C6RCc9n0QZqXPRot8u#nMA":
+    type: *keyboard-logitech
+
+  "ASSET:0B50t9fkQ2q9V4zRtKXQSQ":
+    type: *keyboard-logitech
+
+  "ASSET:OQ8gzOb6R#mCDCVFwg1@sA":
+    type: *keyboard-logitech
+
+  "ASSET:J0npzpofQmmzO1PO0Wz9EQ":
+    type: *keyboard-hp
+
+  "ASSET:APhTK9AFQWijlPxljMeM#w":
+    type: *mouse-hp
+
+  "ASSET:gl2IqghoQQC4L6C7bBxNEA":
+    type: *mouse-dell
+
+  "ASSET:7CwJGk@lTjeWXZuhhM9mnw":
+    type: *mouse-dell
+
+  "ASSET:#5ar7hPnTpaEuG7R4rboBA":
+    type: *mouse-hp
+
+  "ASSET:0p8PvPIRQXqTWmOu0HJ7vQ":
+    type: *mouse-logitech
+
+  "ASSET:zbJNbig2S@WVGGXYR7b57A":
+    type: *mouse-logitech
+
+  "ASSET:tT7@ijDVQ0Kg6@PXf7m2xQ":
+    type: *mouse-dell
+
+  "ASSET:Ncbn4@UkRSaJDg9qMX5Vpg":
+    type: *small-chair
+
+  "ASSET:WLET2HoTRjix7EXGuAD##Q":
+    type: *small-chair
+
+  "ASSET:2bUOkFqkTBCmKx9UdRrVVg":
+    type: *small-chair
+
+  "ASSET:jCSawTKXRKqqUFgb2gHcpQ":
+    type: *small-chair
+
+  "ASSET:#J4W9eDNTE#uqPXl#FAHOQ":
+    type: *small-chair
+
+  "ASSET:fTUDpYyQQ9mJtPydk2gevg":
+    type: *small-chair
+
+  "ASSET:xOXoyjChRXiSy8So4qr5gg":
+    type: *small-chair
+
+  "ASSET:e2UhBl4FR46MWUjDih5zZA":
+    type: *grey-chair
+
+  "ASSET:hBu1nRvySjibIvhtTLFYWg":
+    type: *grey-chair
+
+  "ASSET:LHpAn3NJTRCTZjd7b1wIlA":
+    type: *grey-chair
+
+  "ASSET:rLy9SyZOT@aTY#wUxVAtVg":
+    type: *grey-chair
+
+  "ASSET:Z8EBbnttTW2xyncpxDlTBQ":
+    type: *grey-chair
+
+  "ASSET:HfN21HfiSEOUZWYVDBu6Wg":
+    type: *grey-chair
+
+  "ASSET:myhaXVtwQDWWFXID90shBQ":
+    type: *grey-chair
+
+  "ASSET:LWP@FC4jTYuJoM63Gcqyvw":
+    type: *grey-chair
+
+  "ASSET:h6KkG9MzQjGnTv17alFJKQ":
+    type: *grey-chair
+
+  "ASSET:gUTf3ZcnSmeL6OCv3MFfow":
+    type: *grey-chair
+
+  "ASSET:Fq33vRxVRiqd8f6MfrzGQQ":
+    type: *grey-chair
+
+  "ASSET:mt@L6MUXRVyqDziJeVzVUg":
+    type: *grey-chair
+
+  "ASSET:q9MIDEKOS3CcIB#xBxd4xA":
+    type: *grey-chair
+
+  "ASSET:JiIwnQprSSmJ9ZsOWf9IZA":
+    type: *grey-chair
+
+  "ASSET:Dw@ocXfsRU64BLyCcDOEuQ":
+    type: *grey-chair
+
+  "ASSET:bT9ntFjlRgKjKe0aHdfJwQ":
+    type: *grey-chair
+
+  "ASSET:tTVKkK@MSdWsGPUu984HwA":
+    type: *grey-chair
+
+  "ASSET:DFFI4PSHQr6I1tqebNhyTA":
+    type: *grey-chair
+
+  "ASSET:o##ZV8xgQgmdV5nMm3y#yA":
+    type: *grey-chair
+
+  "ASSET:VfYdLzHJSiix7uj@ZgXZ@g":
+    type: *monitor-dell
+
+  "ASSET:53#i@S3BTuSjMIyhgOsImw":
+    type: *monitor-dell
+
+  "ASSET:Cy90tg#BQkyHTbtCE3J17g":
+    type: *pc
+
+  "ASSET:SPePUH#uT@St88PVoYzqkw":
+    type: *pc
+    status: Defunct
+
+  "ASSET:Yq9ucSstTkeILoZobYfudg":
+    type: *keyboard-rapoo
+
+  "ASSET:wtwKoTuvSYWcLxvqBr#urw":
+    type: *keyboard-rapoo
+
+  "ASSET:wczqLmC4RZqRH9TC3ri7TA":
+    type: *mouse-rapoo
+
+  "ASSET:fdNi0UhqQiGGv1LfLI124w":
+    type: *mouse-rapoo
+
+  "ASSET:gd6riCCHRcGh8b1KkIwjng":
+    type: *monitor-dell
+
+  "ASSET:KxyfoK8AT6qlSKaWXEYFcA":
+    type: *monitor-dell
+
+  "ASSET:PNcQQw9vRtGrteHQZwWSaw":
+    type: *monitor-dell
+
+  "ASSET:27bdbFBIQ0acCRC0qz5HTQ":
+    type: *monitor-dell
+    status: Defunct
+
+  "ASSET:U65aKiOYQMqW2L0kOr5lHA":
+    type: *monitor-dell
+
+  "ASSET:ozsrAvD@SvaU@IpoH94zZw":
+    type: *monitor-dell
+
+  "ASSET:uCl30VPbSo#62TzpZrjbFQ":
+    type: *monitor-dell
+
+  "ASSET:GbzjXLUyTfCn15VoRDiS8A":
+    type: *monitor-philips
+
+  "ASSET:KlgjCN2zQDqYvzkWN4VqGw":
+    type: *monitor-philips
+
+  "ASSET:PWciKGR4Rwqh63ixAolKnA":
+    type: *monitor-philips
+
+  "ASSET:0PhmI93LRYe@u9coGRwoHw":
+    type: *monitor-dell
+
+  "ASSET:KlNfdMfXSCqxbKN4calpYg":
+    type: *monitor-dell
+
+  "ASSET:0@MM#GHoRNaywJNAktt1PA":
+    type: *monitor-dell
+    status: Defunct
+
+  "ASSET:a6E2e3qYSYWIODVuhSUBIQ":
+    type: *monitor-dell
+
+  "ASSET:#OM7YYcDSUmNafTsKT#7ew":
+    type: *monitor-dell
+
+  "ASSET:BDQcXJ7IQNmiUvwnWAxJ1w":
+    type: *pc
+    status: Defunct
+
+  "ASSET:rH3hvMnDSG6kLsEcHllkSQ":
+    type: *pc
+    status: Defunct
+
+  "ASSET:VEaPcJgyQROCTbYpgJiNbA":
+    type: *pc
+
+  "ASSET:#CnuNyFCSg#VuKP0oWbRdg":
+    type: *pc
+    status: Defunct
+
+  "ASSET:3ivwXf1rTdOZD47RWjRp0g":
+    type: *pc
+    status: Defunct
+
+  "ASSET:@vdDczTRSqe3O9yeKe9IQQ":
+    type: *pc
+
+  "ASSET:b@Ppu5GnSWSirVEjcGtm7g":
+    type: *pc
+
+  "ASSET:dtXyXF31QL#TfXX0nbR0Kg":
+    type: *pc
+
+  "ASSET:HJmSKkeDTqulDO1UkBeAHA":
+    type: *pc
+
+  "ASSET:Mgc8AW7xSTuoECoXFoQ#sg":
+    type: *pc
+
+  "ASSET:tvfkuPL0TMym#bfVK#l8Uw":
+    type: *pc
+
+  "ASSET:mSc4rgVPTuaIF862QH3igw":
+    type: *pc
+    status: Defunct
+
+  "ASSET:9h6RsWrnSqml9UukSEGimQ":
+    type: *pc
+    status: Defunct
+
+  "ASSET:sVf@1P1FQl6k#qOAjJqIsA":
+    type: *pc
+
+  "ASSET:0QcoLeoJQ3asi4yhu#FySg":
+    type: *pc
+    status: Defunct
+
+  "ASSET:iEPxrQmnSMq5QKD8fhnUfw":
+    type: *pc
+    status: Defunct
+
+  "ASSET:@0uj1acJRZ#IC8mt7T4I9A":
+    type: *keyboard-dell
+
+  "ASSET:6bg5HNXeQEGyZzxqM6xBNg":
+    type: *keyboard-dell
+
+  "ASSET:GhvkNUJTS8Sw7tuaHXLcFg":
+    type: *keyboard-dell
+
+  "ASSET:5@8sq1TETVa6g90FkgxQqg":
+    type: *keyboard-logitech
+
+  "ASSET:hxsskR@0RZWsYsIYe5j4GA":
+    type: *keyboard-dell
+
+  "ASSET:4E1zB7i3TuW96Fc1RkBHMg":
+    type: *keyboard-dell
+
+  "ASSET:n@Izu6QaTw6J6snBvYh7Uw":
+    type: *keyboard-dell
+
+  "ASSET:i#XzjxWoTDShudIhYJydrQ":
+    type: *keyboard-dell
+
+  "ASSET:TOmlnqJhQcK@n1qTBa#s#g":
+    type: *keyboard-dell
+
+  "ASSET:ycfHbdaISFC@gTd74fSWNA":
+    type: *keyboard-dell
+
+  "ASSET:FwUIXqFSQ46dCRMdCgngeQ":
+    type: *keyboard-dell
+
+  "ASSET:IY7iMg9DT6aKC@YkVagV2g":
+    type: *keyboard-dell
+
+  "ASSET:qv0KVcs0Rj#sVNzEOSiCtg":
+    type: *keyboard-logitech
+
+  "ASSET:#S54@D6QQ7ysDpJi#XLpiw":
+    type: *mouse-dell
+
+  "ASSET:evcMdIhsS9SSn2chQn0Chg":
+    type: *mouse-dell
+
+  "ASSET:jFIGPOynSfOlgHdfkXp8Hg":
+    type: *mouse-dell
+
+  "ASSET:3DdbPFNZSFSM69nqdSRuCg":
+    type: *mouse-dell
+
+  "ASSET:nPciHaOlSBaHYCuqMh0YQA":
+    type: *mouse-dell
+
+  "ASSET:EUX6Ag9jQGm4fWgLf5BFYg":
+    type: *mouse-dell
+
+  "ASSET:Rw4P7YyMSqi3vvFzBEoYng":
+    type: *mouse-dell
+
+  "ASSET:fgoqyvYhRyKU8MaO9GlaOg":
+    type: *mouse-dell
+
+  "ASSET:8@VE6yqPTwWsxdROvBrMUw":
+    type: *mouse-dell
+
+  "ASSET:Ui0w2nStT12mllnaRebETw":
+    type: *mouse-dell
+
+  "ASSET:FWMyk255SOW7Tgsqn@GYUA":
+    type: *mouse-dell
+
+  "ASSET:qLEho9hNQmCyzZ7LTOHmPQ":
+    type: *mouse-dell
+
+  "ASSET:N@WgV@KeS5WCUQg1BbhPIA":
+    type: *mouse-dell
+
+  "ASSET:UfEqJxZrTWSHEypkjrXShw":
+    type: *red-chair
+
+  "ASSET:3U9UKI2gT@addy58jD2iQQ":
+    type: *red-chair
+
+  "ASSET:1jN9wR#TR3aKD#VWIpVK7w":
+    type: *red-chair
+
+  "ASSET:adgEXEtJSwu@bTTQ9OBE4Q":
+    type: *red-chair
+
+  "ASSET:56jCK@raSBaUpuN7gq1ELA":
+    type: *red-chair
+
+  "ASSET:OgbqdD7ZQ2#NCBPM31zByQ":
+    type: *red-chair
+
+  "ASSET:1#Voqt7YQ@qzRQsMD39bMQ":
+    type: *red-chair
+
+  "ASSET:e8xiKCZZSeCTMCei#Bs2sg":
+    type: *red-chair
+
+  "ASSET:d8wb#essTsq2PeGdgRAb7w":
+    type: *red-chair
+
+  "ASSET:qjIW0mtATfqJ4oL8vw#oCA":
+    type: *red-chair
+
+  "ASSET:P5RRyKXoQGec8NfkPpsF4w":
+    type: *red-chair
+
+  "ASSET:tze784RQQdylYGxP8aekkQ":
+    type: *red-chair
+
+  "ASSET:clZaPSY7RnShPxoGeWLGzA":
+    type: *red-chair
+
+  "ASSET:xDoo19zsSr2jLqE4QAMSHQ":
+    type: *red-chair
+
+  "ASSET:T0iOsv95QUigEVeTQh3sXQ":
+    type: *small-chair
+
+  "ASSET:683LIkNlSUuV2lPOfapW3Q":
+    type: *red-black-chair
+
+  "ASSET:GQXAGcjZS2uU1jshiEikqA":
+    type: *red-black-chair
+
+  "ASSET:VuutSsi6RIaeIPuSd1YDIA":
+    type: *red-black-chair
+
+  "ASSET:keQqKRsbQfSZ3NPPTBDxLg":
+    type: *red-chair
+
+  "ASSET:qsD1TQ9OSJKdu1GJ5PneWw":
+    type: *red-chair
+
+  "ASSET:IWONuEUoTwCZSU8cgDn#dQ":
+    type: *red-chair
+
+  "ASSET:1Pn0ZuI5QlWgcvPvvNDzPA":
+    type: *keyboard-dell
+
+  "ASSET:YTzIpNHmSdSTms3rurhIRQ":
+    type: *keyboard-dell
+
+  "ASSET:4D#ehrShRCOFMKRbSiRqoA":
+    type: *mouse-dell
+
+  "ASSET:fUsXMUZDS12kQFXmcBJZ0A":
+    type: *mouse-dell
+
+  "ASSET:aPRITG8ZRgqpC2hEK2sNSQ":
+    type: *monitor-dell
+
+  "ASSET:S48Pg#ktRQCsjEWuScjbBw":
+    type: *monitor-dell
+
+  "ASSET:T6swVJr@StOov@bd1xidoA":
+    type: *pc
+
+  "ASSET:LDRPoTzHSMCx5a3riU9qGA":
+    type: *pc
+
+  "ASSET:IZEfb6IZRrK0MKEEAj#xnw":
+    type: *keyboard-dell
+
+  "ASSET:ZaTwOM@WTMGpunxPmJ53yQ":
+    type: *keyboard-dell
+
+  "ASSET:1F#K2LuNRfOn1#Tn075kIQ":
+    type: *mouse-dell
+
+  "ASSET:rMoGB03rR8WmmgKxyFfrXw":
+    type: *mouse-dell
+
+  "ASSET:d7@lzIqzSEGe6EYZfKI@qw":
+    type: *monitor-dell
+
+  "ASSET:9KZ6Nu##R3mSUqQiuk88Zw":
+    type: *monitor-dell
+
+  "ASSET:ebUjRwwCQ5a8W1YwmqsntQ":
+    type: *pc
+
+  "ASSET:D1856XHbSVy5NLx9O7HiwQ":
+    type: *pc
+
+  "ASSET:zkIueUpRR1yljLmyU9NUTA":
+    type: *wireless-router
+
+  "ASSET:05skGnugRKyO3zjLSsY61A":
+    type: *wireless-router
+
+  "ASSET:slbdSldAS9aTzq8136tCFg":
+    type: *pc
+    status: Defunct
+
+  "ASSET:nlMek3r9QNem70zkFaEalA":
+    type: *mouse-dell
+
+  "ASSET:WlWtboroRrSohMB10i7fMw":
+    type: *keyboard-dell
+
+  "ASSET:XknQTvlKRD#k6bfqaYHJbg":
+    type:
+    status: Defunct
+    name: HP LaserJet Printer
+    description: >-
+      TBD
+
+  "ASSET:NxFpU2GPRMSiFiSvVgMBSg":
+    type: *pc
+    status: Defunct
+
+  "ASSET:xlTk75o#QDe@IJ275AYDQw":
+    type:
+      name: LCD Projector
+      description: >-
+        TBD
+
+  "ASSET:MgFL@zekQCaTo9Yz2ItZYQ":
+    type: *mouse-dell
+
+  "ASSET:t2MxF50zQQGw4xh@1rdrNA":
+    type: *keyboard-logitech
+
+  "ASSET:qjhBSsfARBGfVdSR2hc8pA":
+    type: *pc
+
+  "ASSET:qO#3HlQcTQOW6nBcZVeo1g":
+    type: *pc
+
+  "ASSET:Bfeb#S9@ROW4eaZXiJFG@A":
+    type: *red-chair
+
+  "ASSET:IkhgrBFlSFS4SWybOWvH0g":
+    type:
+      name: Lexmark Printer
+      description: >-
+        TBD
+
+  "ASSET:y5zMJaeCR52eGyAdSkHC4g":
+    type: *pc
+    status: Defunct
+
+  "ASSET:l@iLuOLuRn2fbCZWtQap7w":
+    type:
+      name: USB Printer
+      description: >-
+        TBD
+
+  "ASSET:KfICkE3XSbS@H0dUQI6gKw":
+    type: *monitor-dell
+
+  "ASSET:o1pG6D7jQEC0k-eaYERDEg":
+    type:  *red-chair
+
+  "ASSET:b0dZnVR_SjqXttKVgdwGXA":
+    type:  *red-chair
+
+  "ASSET:shYIwG8wQO-Yws9n53jcBg":
+    type:  *red-chair
+
+  "ASSET:Z7Nf5cuzRPO3kG5Oo78LyA":
+    type:  *red-chair
+    status: Defunct
+
+  "ASSET:NQb7PmUNTFSU9KSPEcDAhg":
+    type:  *red-chair
+
+  "ASSET:7PcIXl0VR8G1jIU6Zp6b1Q":
+    type:  *red-chair
+
+  "ASSET:uPdzWwWGSPSKVM3NFSMRMA":
+    type:  *red-chair
+
+  "ASSET:dI32e1IvTwW1xvZo0cJyuQ":
+    type:  *red-chair
+
+  "ASSET:w6bOfQFBQIGu0o6CwgjMMw":
+    type:  *red-chair
+
+  "ASSET:RD5CeAjaR3avbEmjTn_iBQ":
+    type:  *red-chair
+
+  "ASSET:P9o1Y1PsSk#sQcfknn2n7w":
+    type:  *red-chair
+
+  "ASSET:7VY86Ah-S82PcTzpkc-svg":
+    type:  *red-chair
+
+  "ASSET:Y3Of@Bg6RS2IcxdXHnPYYg":
+    type:  *red-chair
+
+  "ASSET:c_64zYApS1ag-NGwHo0MxA":
+    type:  *red-black-chair
+
+  "ASSET:uHMu9ICGRV#gNah@WdA#Qg":
+    type:  *red-black-chair
+
+  "ASSET:jhgopN9dRSesiu2kDi5YIw":
+    type:  *red-black-chair
+
+  "ASSET:Dkujff4wTIWU--aUmyqMJQ":
+    type:  *red-black-chair
+
+  "ASSET:rK8hTqUsTQ2NU-2YJXRh0A":
+    type:  *red-black-chair
+
+  "ASSET:oYjLEOh_TnyU-SlAw1Xh7A":
+    type:  *red-black-chair
+
+  "ASSET:oNTXrc0jTxyUS7q0RxX57w":
+    type:  *red-black-chair
+
+  "ASSET:TYPZqVCKTgatg2c2M5fnxw":
+    type:  *red-black-chair
+
+  "ASSET:zkIueUpRR1yljLmyU9NUTA":
+    type:  *wireless-router
+
+  "ASSET:05skGnugRKyO3zjLSsY61A":
+    type:  *wireless-router
+
+  "ASSET:lC4EBwR_QR-4Do9gn004Yw":
+    type:  *wireless-router
+
+  "ASSET:yXtSlOS1Saqfeuyz9dQ5Bw":
+    type:  *wireless-router
+
+  "ASSET:Pqjtp@TjQzmRgKyJEaYEGQ":
+    type:  *wireless-router
+
+  "ASSET:yeGDLw4kSICvax@gOxyb4Q":
+    type:  *wireless-router
+
+  "ASSET:NtV1afB1RuWHryVZqcmyyQ":
+    type:  *wireless-router
+
+  "ASSET:wECVyTLvRbiO0myNig6EKg":
+    type:  *wireless-router
+
+  "ASSET:DhD9M#YoQ0SkDrH4HVWH#w":
+    type:  *wireless-router
+
+  "ASSET:VDMdydl0Tl2@OeTqU2JqQQ":
+    type:  *wireless-router
+
+  "ASSET:y@vPPwXjR0ewRIoALyilmQ":
+    type:  *wireless-router
+
+  "ASSET:GJ7tp9#yQYeSXELdnEuJow":
+    type:  *wireless-router
+
+  "ASSET:ebUjRwwCQ5a8W1YwmqsntQ":
+    type: *pc
+
+  "ASSET:D1856XHbSVy5NLx9O7HiwQ":
+    type: *pc
+
+  "ASSET:H_Td9XTBTMezDBeag9blvg":
+    type: *pc
+
+  "ASSET:Bhp7qloKSXuWOrS5avOwuQ":
+    type: *pc
+
+  "ASSET:h4I8wZ#WQkGknB17cKnz1w":
+    type: *pc
+
+  "ASSET:lFnUZFKfS7iQLD8L4F5a9A":
+    type: *pc
+
+  "ASSET:BSXUtaIVSi6-R6HVVSlclg":
+    type: *pc
+
+  "ASSET:f9PCXgHRSyCl2prxQSmF9g":
+    type: *pc
+
+  "ASSET:3vJ1a5b0Qlq2Gxp_DzigIg":
+    type: *pc
+
+  "ASSET:ljIuo0kRSHq4g4G-k6Gy8A":
+    type: *pc
+
+  "ASSET:7veeimgGRb20JYYPndjMXA":
+    type: *pc
+
+  "ASSET:A7ULhlOxQqWL2d2kupp6YQ":
+    type: *pc
+
+  "ASSET:N4iQYh0aTUuCvaARax8V5Q":
+    type: *monitor-nec
+    status: Defunct
+
+  "ASSET:d7@lzIqzSEGe6EYZfKI@qw":
+    type: *monitor-dell
+
+  "ASSET:9KZ6Nu##R3mSUqQiuk88Zw":
+    type: *monitor-dell
+
+  "ASSET:9mRqxUX6Q#OmqZ@@PfyG1w":
+    type: *monitor-dell
+
+  "ASSET:AOFtSbbRT3yhkXsjcB485g":
+    type: *monitor-dell
+
+  "ASSET:eeB96Hy5QzSY@TkX15ud1g":
+    type: *monitor-dell
+
+  "ASSET:0qevAf67QD2MfHBUvkv72w":
+    type: *monitor-dell
+
+  "ASSET:fiv-91PqSbmFsC_6928aPQ":
+    type: *monitor-dell
+
+  "ASSET:rjVJSH0aSuuNrwtQ7yETwA":
+    type: *monitor-dell
+
+  "ASSET:hcuiCMvSSnmjuirH5uhNeA":
+    type: *monitor-dell
+
+  "ASSET:QaO5NT1dRV6JcTqfGg7vSA":
+    type: *monitor-dell
+
+  "ASSET:nh3tc4pXTOSgXLpmNAl7mA":
+    type: *monitor-dell
+    comment: "Given to Deva's family"
+    status: Deleted
+
+  "ASSET:QiGf6ldGSLWagB4YXPobCw":
+    type: *monitor-dell
+
+  "ASSET:KUsOQWYESd2155YrQ971vQ":
+    type: *monitor-dell
+
+  "ASSET:eL3DQEUHQNaq45Abz2Nn1A":
+    type: *monitor-philips
+
+  "ASSET:IZEfb6IZRrK0MKEEAj#xnw":
+    type: *keyboard-dell
+
+  "ASSET:ZaTwOM@WTMGpunxPmJ53yQ":
+    type: *keyboard-dell
+
+  "ASSET:dF4KkAPrTHauCUh5z_V9PQ":
+    type: *keyboard-dell
+
+  "ASSET:3TibaQjeSH68L73eTxrTQQ":
+    type: *keyboard-dell
+
+  "ASSET:jPq7HTOqS@Own#0aazZ#tg":
+    type: *keyboard-dell
+
+  "ASSET:Faw68LFkQNSc4TJr6ZHQ8A":
+    type: *keyboard-dell
+
+  "ASSET:MrvfqO4mS0yUegKajpgUcg":
+    type: *keyboard-dell
+
+  "ASSET:on7_PZ1eT7GFvOkNMYglQg":
+    type: *keyboard-dell
+
+  "ASSET:GoTm473uQLq47ywKVYmPYg":
+    type: *keyboard-dell
+
+  "ASSET:7XwOcroTRjisSPmzdBqQPA":
+    type: *keyboard-dell
+
+  "ASSET:8liZXj3vR@2ce8ecgmDJaQ":
+    type: *keyboard-dell
+
+  "ASSET:jBdWRUHPT02tXq1XUOuNGA":
+    type: *keyboard-dell
+
+  "ASSET:0T73yg6MRiiNGww7Q8ZePw":
+    type: *keyboard-dell
+
+  "ASSET:1F#K2LuNRfOn1#Tn075kIQ":
+    type: *mouse-dell
+
+  "ASSET:rMoGB03rR8WmmgKxyFfrXw":
+    type: *mouse-dell
+
+  "ASSET:jxwl6UpJQPOp5ND6-uTydw":
+    type: *mouse-dell
+
+  "ASSET:2UCWxXluQc2NbJRV_XOvag":
+    type: *mouse-dell
+
+  "ASSET:JAhXzjVgTb2TPENEahMLhw":
+    type: *mouse-dell
+
+  "ASSET:swLknpuRS6SMcc431JQFKg":
+    type: *mouse-dell
+
+  "ASSET:SPqUA1SMR9ayt10TWUG57g":
+    type: *mouse-dell
+
+  "ASSET:x1zdY9DLRhiAb-9cQ6uORw":
+    type: *mouse-dell
+
+  "ASSET:eRqJv5E9TQ6orBYz8WYviw":
+    type: *mouse-dell
+
+  "ASSET:te3wYKYxTKaC3sfu#90@zg":
+    type: *mouse-dell
+
+  "ASSET:91dI70qsSWGro2pyhObneg":
+    type: *mouse-dell
+
+  "ASSET:GOF71KjsRSaCwDX1Y49q7Q":
+    type: *mouse-dell
+
+  "ASSET:0FR-krKAQwumgj3HvS2bqw":
+    type: *mouse-dell
+
+  "ASSET:GS8XKoPsRSqs9Q0aZf7nLg":
+    type: *mouse-dell
+
+  "ASSET:lDUJ0yirQ7qPPEs@H3YcKg":
+    type: *mouse-dell
+
+  "ASSET:i20f798RSryQscgam2Jtgw":
+    type:
+      name: USB Printer
+      description: >-
+        TBD
+
+  "ASSET:bOnalX6ES9ChSDJwCmJlzQ":
+    type: *usb-ms-transcend
+
+  "ASSET:hzA3wZIzQ7Czbvf9lofISw":
+    type: *mouse-dell
+
+  "ASSET:Loca8PI4RzCRDN8c86de9g":
+    type: *keyboard-dell
+
+  "ASSET:T6nZpT0JRqKPhaNGrD8xFg":
+    type: *keyboard-dell
+
+  "ASSET:CSQJ4x6RSKmBIDhjF7WUKQ":
+    type: *keyboard-dell
+
+  "ASSET:db1tpiH0Q6ORWZn6f8wdvA":
+    type: *keyboard-dell
+
+  "ASSET:yOzrEGP9TnycbVXDjnXWew":
+    type: *keyboard-dell
+
+  "ASSET:qjJ7jCI4S260DtQqQTSUQw":
+    type: *keyboard-dell
+
+  "ASSET:N44IBAcUQ5ugezuFczCwLw":
+    type: *keyboard-dell
+
+  "ASSET:7FX6gf59STSqJFqRQX0Xfg":
+    type: *red-chair
+
+  "ASSET:FmZBfeWWQjGoLZmylvVLYA":
+    type: *red-chair
+
+  "ASSET:MSLnqxKiRRGz7JI1HG9IUw":
+    type: *red-chair
+
+  "ASSET:Abg3zziwSqiCVqNxrAR@uw":
+    type: *red-chair
+
+  "ASSET:EfPPu3M0QFa2ipZ85j6Big":
+    type: *red-chair
+
+  "ASSET:Hx0H4YdCRSGNmkaUCVQEKg":
+    type: *red-chair
+
+  "ASSET:jW7fO9uBRwuPWmb3FL4mkg":
+    type: *red-chair
+
+  "ASSET:5xPQqBbJT5mTb1zweNRKmQ":
+    type: *red-chair
+
+  "ASSET:@omWDDtdRSCxqupVCL7UAQ":
+    type: *mouse-dell
+
+  "ASSET:jN3YFTlHRMemXREtAgVQYA":
+    type: *mouse-dell
+
+  "ASSET:5aZ7SsPmTCiOsmTivtUpjQ":
+    type: *mouse-dell
+
+  "ASSET:1NqvvoPfTYi03h#dGXwX0w":
+    type: *mouse-dell
+
+  "ASSET:lq3jyOPoScWtxqm3QIs7rA":
+    type: *mouse-dell
+
+  "ASSET:pI8AmnfPRiGw9SmLLGQOiw":
+    type: *mouse-dell
+
+  "ASSET:OE7ZMqbMQBuv9SjFjeJREw":
+    type:  *wireless-router
+
+  "ASSET:3hANyNfzRky6aEl#8lNswQ":
+    type:  *wireless-router
+
+  "ASSET:SED6alObQFyOWP1DU4eqIw":
+    type:  *wireless-router
+
+  "ASSET:LSRM3WzSS0WSbmBmHW7tkw":
+    type:  *wireless-router
+
+  "ASSET:wm6aKMkYRDC00Wtf6mS@ig":
+    type: *monitor-dell
+
+  "ASSET:0sgtJWxnTvKZPsUwd6aTOw":
+    type: *monitor-dell
+
+  "ASSET:hp7hkySbRKGdMqaIvbYTsw":
+    type: *monitor-dell
+
+  "ASSET:fssSxkwOTHaTnOH6LmSOwQ":
+    type: *monitor-dell
+
+  "ASSET:I6BoOauITHSooRDIoTQo0Q":
+    type: *monitor-dell
+
+  "ASSET:MvRhzwwqRgmNMF7638vegg":
+    type: *pc
+
+  "ASSET:LfKPRW@9Swu1@tbPMEEMcg":
+    type: *pc
+
+  "ASSET:pjP@1vtdSUK6A7eIgwkXmA":
+    type: *pc
+
+  "ASSET:7p6DvuKUTKa3nMatDlzn#g":
+    type: *pc
+
+  "ASSET:JyVxCvlfRGWlx5VGpXKaYg":
+    type: *pc
+
+  "ASSET:hsZDybJmR9#fnbS1oP#hwg":
+    type: *keyboard-dell
+
+  "ASSET:5qMGIlyxQ9CeYSA3Dt57RQ":
+    type: *keyboard-dell
+
+  "ASSET:C#CDP2ghQxiyAC69MHnmsQ":
+    type: *keyboard-dell
+
+  "ASSET:dX@Y7QadSmqQi3zLxWigLA":
+    type: *keyboard-dell
+
+  "ASSET:Y@By7lXPTba4mvhihrn9xQ":
+    type: *keyboard-dell
+
+  "ASSET:sv7lJ1DOQDmu8LZi0Wk6ow":
+    type: *keyboard-dell
+
+  "ASSET:j7sZKKjuRRaPgHaxVaBiGQ":
+    type: *keyboard-dell
+
+  "ASSET:wGrsBGMUQMqiMs80wsz79w":
+    type: *mouse-dell
+
+  "ASSET:riyQ1dV9THWbIdQ0X4Z@ig":
+    type: *mouse-dell
+
+  "ASSET:Ym#Z4#cLSK#@PsY4lKkkuw":
+    type: *mouse-dell
+
+  "ASSET:ygsTR05gS2OFFjgNG8C6Pw":
+    type: *mouse-dell
+
+  "ASSET:Py51gZCzTTGMYFK1WpuPyw":
+    type: *mouse-dell
+
+  "ASSET:mQfo1gU9S7G6cES9iMtsAg":
+    type: *mouse-dell
+
+  "ASSET:5h@ExN2tSv#NQT3fzdt8jQ":
+    type: *mouse-dell
+
+  "ASSET:PEHEkYglTuqdaKDj6diuKw":
+    type:  *wireless-router
+
+  "ASSET:MluV90kpSsy3tkfmIGAuYg":
+    type:  *wireless-router
+
+  "ASSET:oDDthtV5SiSwtCjXyL8Vzg":
+    type:  *wireless-router
+
+  "ASSET:zengTWDZTwiO5vg0ehkEAg":
+    type:  *wireless-router
+
+  "ASSET:ox73Z6FnQ@u8o@3a1QFPLg":
+    type:  *wireless-router
+
+  "ASSET:RpsIrPdpT5#eq2ePBkZBZQ":
+    type:  *wireless-router
+
+  "ASSET:YNf##ZlFTJWq4O59W0um#Q":
+    type:  *wireless-router
+
+  "ASSET:e9UbVW2HTGuun3vST0LXoQ":
+    type:  *wireless-router
+
+  "ASSET:quPC@sYTSzK2CQ1qIbxYJA":
+    type: *monitor-dell
+
+  "ASSET:SCux7JQ0ScaLrM#gvu2zRw":
+    type: *monitor-dell
+
+  "ASSET:R@TvfUMtTs#XYp6#aq2Bgw":
+    type: *monitor-dell
+
+  "ASSET:PbyN5LiyTG63Rc1TQKsQkw":
+    type: *monitor-dell
+
+  "ASSET:IzPi8DzPScqzbO8S1Bvshw":
+    type: *monitor-dell
+
+  "ASSET:Djdh13eNQmi6QoKLaxVEPg":
+    type: *monitor-dell
+
+  "ASSET:SUzQX4uMQGWd7cpelQ5GEg":
+    type: *monitor-dell
+
+  "ASSET:J0CqtijMTU#jGJQi@cY1ow":
+    type: *monitor-dell
+
+  "ASSET:H7T7CtXzQGCdoJvELc6HCQ":
+    type: *pc
+
+  "ASSET:loioknmETb26FaPr#Nk9Zw":
+    type: *pc
+
+  "ASSET:vCTWsOCNSdKk1lFsCy3Epg":
+    type: *pc
+
+  "ASSET:j8LTpB7gRpSIZyZ0@97YbQ":
+    type: *pc
+
+  "ASSET:cwhSjFToRDG#TiPzWj6Rmg":
+    type: *pc
+
+  "ASSET:zhBv6bomTfWDPas1nB2dKA":
+    type: *pc
+
+  "ASSET:Dl2Pijn8QsazhgIzPMr6Uw":
+    type: *grey-chair
+
+  "ASSET:Kc#JOSxDQs2oznkXpUDraA":
+    type: *grey-chair
+
+  "ASSET:3MexAQ3pSFGCIUfVceyP0A":
+    type: *grey-chair
+
+  "ASSET:ZSddmx1vQaCmJXcUZ1@jJw":
+    type: *grey-chair
+
+  "ASSET:iZEDNWS#S02NJNA2AOJzmw":
+    type: *grey-chair
+
+  "ASSET:PejKSy6iQkSkT217b8KRxQ":
+    type: *grey-chair
+
+  "ASSET:xaUwbVj7TuKdfKFrmOF2CA":
+    type: *grey-chair
+
+  "ASSET:VswJJ49MRZadYdFKZZ7KnQ":
+    type: *grey-chair
+
+  "ASSET:Ml0M3lRxQ7i5SIVlwSjZyw":
+    type: *grey-chair
+
+  "ASSET:TpnD3cG7QI#t8N#wz15PDA":
+    type: *pc
+
+  "ASSET:dRnhmtKiRQuid6JkzYc4Vw":
+    type: *mouse-dell
+
+  "ASSET:iVw2M1rNSwaNsmdfsl1lcg":
+    type: *keyboard-dell
+
+  "ASSET:R6Vu3wQMQhOBznowgAu8HQ":
+    type: *pc-mini
+
+  "ASSET:0SHKAoH6Rluz1sIt9u8@oQ":
+    type: *pc-mini
+
+  "ASSET:vFDk2mWpTYK2jPjPA86E6A":
+    type:  *wireless-router-big
+
+  "ASSET:YHdtdGDpSNeoIIirxJAi#g":
+    type:  *wireless-router-big
+
+  "ASSET:rJHGuMcuQ1KL5NeyW3#54Q":
+    type: *pc-mini
+
+  "ASSET:R6Vu3wQMQhOBznowgAu8HQ":
+    type: *pc-mini
+
+  "ASSET:0SHKAoH6Rluz1sIt9u8@oQ":
+    type: *pc-mini
+
+  "ASSET:vFDk2mWpTYK2jPjPA86E6A":
+    type:  *wireless-router-big
+
+  "ASSET:YHdtdGDpSNeoIIirxJAi#g":
+    type:  *wireless-router-big
+
+  "ASSET:rJHGuMcuQ1KL5NeyW3#54Q":
+    type: *pc-mini
+
+  "ASSET:Mnz8R1UETyOLckWJYftpsA":
+    type: *mouse-dell
+
+  "ASSET:5eC7uGBVQBm3Y3TZ0KSaww":
+    type: *mouse-dell
+
+  "ASSET:PqW38Fk5Ttabik0RxgHCWw":
+    type: *monitor-dell
+
+  "ASSET:riBnOfmXR5STRgagSBeLzg":
+    type: *red-chair
+
+  "ASSET:SHpvuXwYTpeo4bb31iWbZA":
+    type: *red-chair
+
+  "ASSET:cLr5VyMmQD#1eMDLhlXPpg":
+    type: *pc
+
+  "ASSET:QSsdH@smS0GI2gW1KsMBoA":
+    type: *mouse-dell
+
+  "ASSET:zpVbYNALQ4KBt#1orveV9w":
+    type: *red-chair
+
+  "ASSET:Y2SY0edmTHWxpCEhK2HmJA":
+    type: *red-chair
+
+  "ASSET:F36kadG2SbCm2d1@XPcuCQ":
+    type: *keyboard-dell
+
+  "ASSET:dHM2DSqGTFisLfj7cqAIWw":
+    type: *keyboard-dell
+
+  "ASSET:pZl5bttgRCSxe2VmQE5wzg":
+    type: *keyboard-dell
+
+  "ASSET:4fN@K@qYQNeJTReiQWqNVA":
+    type: *keyboard-dell
+
+  "ASSET:zP5TQrDTQISbPSwm2dKN9A":
+    type: *pc
+
+  "ASSET:7jiSsMGbSNua@Pj21NFF9g":
+    type: *pc
+
+  "ASSET:gnQf0E@AQnGtFID7bozzuw":
+    type: *pc
+
+  "ASSET:NkluVk4jTPivRwIHPsPu0Q":
+    type: *pc
+
+  "ASSET:LjVco1PCTde#EdS9Wuqskg":
+    type:  *wireless-router
+
+  "ASSET:cEICW7hQTVmhmszFfNpkyA":
+    type:  *wireless-router
+
+  "ASSET:qpyM8jpSQjGeivOQhe6NnA":
+    type:  *wireless-router
+
+  "ASSET:lsl7cuAOQjOHWkKLOd4Srg":
+    type:  *wireless-router
+
+  "ASSET:LOP9aM7SSqKIGeyxhEyfng":
+    type: *mouse-dell
+
+  "ASSET:3bjDpGqYTvi1W4qKFayKfQ":
+    type: *keyboard-dell
+
+  "ASSET:zJWuzoCiRgWCtjL5nS1cBw":
+    type: *pc
+
+  "ASSET:a1bwS2K1TiqHh79AhR#Ajg":
+    type:  *wireless-router
+
+  "ASSET:n9ZRhU9wRhO3hsydgWn8BQ":
+    type: *red-chair
+
+  "ASSET:pFtj9JRESy6vJ#RuYOkVIg":
+    type: *red-chair
+
+  "ASSET:rXkPYgpdTtGzbI4pskda6Q":
+    type: *mouse-dell
+
+  "ASSET:FhqPI4T3TN6sWudnk2qQxw":
+    type: *mouse-dell
+
+  "ASSET:Mnz8R1UETyOLckWJYftpsA":
+    type: *mouse-dell
+
+  "ASSET:5eC7uGBVQBm3Y3TZ0KSaww":
+    type: *mouse-dell
+
+  "ASSET:PqW38Fk5Ttabik0RxgHCWw":
+    type: *monitor-dell
+
+  "ASSET:EtlCu8W4QWiMGl9bAHGmyg":
+    type: *red-chair
+
+  "ASSET:3cMkI9ZcT4#UG5hPTp@AuQ":
+    type: *red-chair
+
+  "ASSET:NDQz3ORFQ3WXRVx0DwFxaw":
+    type: *red-chair
+
+  "ASSET:aFtE51yESU#VEXhowrcpsw":
+    type: *red-chair
+
+  "ASSET:GR0JZTUgSeyMLwAtMlXH6Q":
+    type: *red-chair
+
+  "ASSET:saRQNFpLTWCG5AKFWY7vCA":
+    type: *red-chair
+
+  "ASSET:LERq4gZNRRW022bPLT7hzA":
+    type: *red-chair
+
+  "ASSET:1QlzfNEHTyWughGbL6AhuA":
+    type: *red-chair
+
+  "ASSET:iogy1@kzSeu#KDOTfdYDtQ":
+    type: *red-chair
+
+  "ASSET:s0dgmbntQ0GBckrSK9llxQ":
+    type: *red-chair
+
+  "ASSET:U3ZqRBlDR2OLFA1cUBnFtg":
+    type: *red-chair
+
+  "ASSET:RXp8UxjCSZ6amJqo1vfSGA":
+    type: *red-chair
+
+  "ASSET:KIDTG6wvTzWTvx2DTYZrFQ":
+    type: *red-chair
+
+  "ASSET:LFWrN6rMQ4Gp4tSLzskOLg":
+    type: *red-chair
+
+  "ASSET:fNNdw1c4Qf2fx4HeXGN5Ig":
+    type: *red-chair
+
+  "ASSET:URkuZnGOR@mCuh@AWQ3XjQ":
+    type: *red-chair
+
+  "ASSET:yIBhK1N6R4W4euN#HOZd@w":
+    type: *pc-mini
+
+  "ASSET:Y72gOo8rTuuTxbwkt3YMRQ":
+    type: *pc-mini
+
+  "ASSET:6eXOa1vkQhyqlU5J@@Z5hA":
+    type: *pc-mini
+
+  "ASSET:w51cYlZ1TY#7rcbLc7Pjrg":
+    type: *pc-mini
+
+  "ASSET:xfXhVNpwSS2sBAmy2eXNRg":
+    type: *pc-mini
+
+  "ASSET:zgBo5CgfT#y8ki5biOoodQ":
+    type: *pc-mini
+
+  "ASSET:tpU#bGevSQ#GvOKxWD9#Sw":
+    type: *pc-mini
+
+  "ASSET:bs0WGmA0R8y3hYkSXoyb9A":
+    type: *pc-mini
+
+  "ASSET:dyueS@WRRPqZQt1LQsjjww":
+    type: *monitor-dell
+
+  "ASSET:uY7mFhh0SP2axlEL4jasfg":
+    type: *monitor-dell
+
+  "ASSET:qIp@HNBRR8iv#2qd@6BIxg":
+    type: *monitor-dell
+
+  "ASSET:@fQ8On4FT9uCZFWIJAq9Sw":
+    type: *monitor-dell
+
+  "ASSET:t7ND7osVS0uB2PFkYK1YUg":
+    type: *monitor-dell
+
+  "ASSET:#VamRzTYQSyRy9RdAz08Gw":
+    type: *monitor-dell
+
+  "ASSET:3#4b1yJlQgKwiC1FP6SX7g":
+    type: *monitor-dell
+
+  "ASSET:ZAd#6paSRmKhD71YTOVdwg":
+    type: *monitor-dell
+
+  "ASSET:0v1d8OWCRkWGqQq@32yLJw":
+    type:  *wireless-router
+
+  "ASSET:q0oIX43QRIy9YHJuL9POEA":
+    type:  *wireless-router
+
+  "ASSET:IGH3e2stQP2ZRA7vXP5MxQ":
+    type:  *wireless-router
+
+  "ASSET:3IgN7ArBTvOSsVBRifZ8iw":
+    type:  *wireless-router
+
+  "ASSET:1nBygHhYQ82voTssnoJ4#A":
+    type:  *wireless-router
+
+  "ASSET:olgIZpv4RsCENLmLuN2lHQ":
+    type:  *wireless-router
+
+  "ASSET:ADUPOwy8TT6@u3AsNRo1YQ":
+    type:  *wireless-router
+
+  "ASSET:hHGBRopkQGaSjnuDKKOoYg":
+    type:  *wireless-router
+
+  "ASSET:CzYyUrb3RCem2ML#GIw3RA":
+    type: *mouse-dell
+
+  "ASSET:atjkDMZ5SE684lr1#Qg0wQ":
+    type: *mouse-dell
+
+  "ASSET:e#mukdbPSty4owVVR6pqug":
+    type: *mouse-dell
+
+  "ASSET:XBlfO6TOQP#T0w4O1#MzQg":
+    type: *mouse-dell
+
+  "ASSET:jJqA3eufSP2mWMbzs8oTxA":
+    type: *mouse-dell
+
+  "ASSET:G1jqZwgaSweSOxO0xiW35A":
+    type: *mouse-dell
+
+  "ASSET:zyym8OlKTLi7CkEz5XVkCw":
+    type: *mouse-dell
+
+  "ASSET:7uyfaoJ1STW9KLI2xi6STQ":
+    type: *mouse-dell
+
+  "ASSET:Ni9@z#nCSS20hb6Id5d66A":
+    type: *keyboard-dell
+
+  "ASSET:3cnc8KkaSFOoMbRrojsxig":
+    type: *keyboard-dell
+
+  "ASSET:nbF@1eJNR2umGtcN5wD7LA":
+    type: *keyboard-dell
+
+  "ASSET:5p#zMnTxSCCGQZKRCSLyLg":
+    type: *keyboard-dell
+
+  "ASSET:JLzL6siqRlqrH99iJ256mQ":
+    type: *keyboard-dell
+
+  "ASSET:d3DGPYauRxKMYOYz@7SdHA":
+    type: *keyboard-dell
+
+  "ASSET:6q2@938SQLKqUwD@LiU1UA":
+    type: *keyboard-dell
+
+  "ASSET:3bdghK#yRx2DLPb42mC6fQ":
+    type: *keyboard-dell
+
+  "ASSET:h99epj4NQueyWK5#BvDiOA":
+    type: *red-chair
+
+  "ASSET:ssfK2TwgT16OHiAxOnnnRQ":
+    type: *red-chair
+
+  "ASSET:fdNi0UhqQiGGv1LfLI124w":
+    type: *red-chair
+
+  "ASSET:cU1Q@exZTiea2UNVMwLnNQ":
+    type: *red-chair
+
+  "ASSET:qEITQWkfQnCSDj6zyqYmrg":
+    type: *red-chair
+
+  "ASSET:NzFiylBWQpmDl4pKaPl9nQ":
+    type: *red-chair
+
+  "ASSET:Z0kISTeFSG6T12Ntpn32fw":
+    type: *red-chair
+
+  "ASSET:FGzcESX8R72l5hemzfTNVg":
+    type: *red-chair
+
+  "ASSET:rwuobpSLTgKLlOe9bIY5mw":
+    type: *red-chair
+
+  "ASSET:1DcnhadgSxKMHJN4t@CxOA":
+    type: *red-chair
+
+  "ASSET:MC#oLSBhR7Ghx21NSGYVsg":
+    type: *red-chair
+
+  "ASSET:i3DPvXIaRQWKv57Uhhx93Q":
+     type: *monitor-dell
+
+  "ASSET:yUDAC6OOTL6QsLeszXtA#A":
+     type: *pc-mini
+
+  "ASSET:zP3n9liaSJeoXcEfxpCrwQ":
+    type: *pc-mini
+
+  "ASSET:KQqMo#o1SFi46XcIvbSAFA":
+    type: *keyboard-dell
+
+  "ASSET:fNc8mHUOTn6RuhTcJUjAAg":
+    type: *keyboard-dell
+
+  "ASSET:@hDBzVKiTViZ5K3rSbogaQ":
+    type: *mouse-dell
+
+  "ASSET:jQXR2rtpQP685lpAcp3pLg":
+    type: *mouse-dell
+
+  "ASSET:JtcpLQScS7#OLGlJCppvhA":
+    type: *wireless-router
+
+  "ASSET:A0Ao2hsLRpai@D5t@jYn8Q":
+    type: *wireless-router
+
+  "ASSET:LBggxZLRTYSDF0qUTe8tmw":
+    type:
+      name: HP Laserjet Printer
+      description: >-
+        TBD
+
+  "ASSET:IjkzAZU1R9yITI7X8pDhBA":
+    type: *mouse-dell
+
+  "ASSET:ao@ztRLKQiSbnCx3D@4j6g":
+    type: *mouse-dell
+
+  "ASSET:o@m1SbCxTXK1pzswuh9e1A":
+    type: *mouse-dell
+
+  "ASSET:QMRa7OnpQ7GpAsb3lVpTKQ":
+    type: *mouse-dell
+
+  "ASSET:4Dd#rtCjQyKH@Td@er41YQ":
+    type: *monitor-dell
+
+  "ASSET:WhWhfI0vRRyIjj9ldaRqjQ":
+    type: *monitor-dell
+
+  "ASSET:SBCKo@inTsadRUGqcelXFQ":
+    type: *monitor-dell
+
+  "ASSET:uPBNYohpTFOBUpou6P5MGA":
+    type: *pc-mini
+
+  "ASSET:Opd2NjaeTaauxxTFMRaFgg":
+    type: *monitor-dell
+
+  "ASSET:fcL-c6hzSJib1fn0jrHwMg":
+    type: *keyboard-dell
+
+  "ASSET:0iCj87EmSSSfBjy@svVRMg":
+    type: *mouse-dell
+
+  "ASSET:uD0S7NF4Rs2YLtDOZOOFhg":
+    type: *wireless-router
+
+  "ASSET:I6BoOauITHSooRDIoTQo0Q":
+     type: *monitor-dell
+
+  "ASSET:P2cgbstnSXe9Aj6shq2nXg":
+    type: *monitor-dell
+
+  "ASSET:1rvwJ8K2QUqbhwy0GZamgg":
+    type: *monitor-dell
+
+  "ASSET:fssSxkwOTHaTnOH6LmSOwQ":
+    type: *monitor-dell
+
+  "ASSET:0sgtJWxnTvKZPsUwd6aTOw":
+    type: *monitor-dell
+
+  "ASSET:rjVJSH0aSuuNrwtQ7yETwA":
+    type: *monitor-dell
+
+  "ASSET:KGT43XH4QWyxwdkuCgyzfA":
+    type: *monitor-dell
+
+  "ASSET:ZhvSzz#kQVmURMfe9SaeMw":
+    type: *monitor-dell
+
+  "ASSET:wm6aKMkYRDC00Wtf6mS@ig":
+    type: *monitor-dell
+
+  "ASSET:LCRd9E@hSmGcBKquMsYfyw":
+    type: *monitor-dell
+
+  "ASSET:R@TvfUMtTs#XYp6#aq2Bgw":
+    type: *monitor-dell
+
+  "ASSET:tffY1gNxTE#bt95tPjLbPA":
+    type: *monitor-dell
+
+  "ASSET:doZetbnKQMKUliNJdYdlgQ":
+    type: *monitor-dell
+
+  "ASSET:swLknpuRS6SMcc431JQFKg":
+    type: *monitor-dell
+
+  "ASSET:0qevAf67QD2MfHBUvkv72w":
+    type: *monitor-dell
+
+  "ASSET:hcuiCMvSSnmjuirH5uhNeA":
+    type: *monitor-dell
+
+  "ASSET:hp7hkySbRKGdMqaIvbYTsw":
+    type: *monitor-dell
+
+  "ASSET:IzPi8DzPScqzbO8S1Bvshw":
+    type: *monitor-dell
+
+  "ASSET:Opd2NjaeTaauxxTFMRaFgg":
+    type: *monitor-dell
+
+  "ASSET:WhWhfI0vRRyIjj9ldaRqjQ":
+    type: *monitor-dell
+
+  "ASSET:qIp@HNBRR8iv#2qd@6BIxg":
+    type: *monitor-dell
+
+  "ASSET:AOFtSbbRT3yhkXsjcB485g":
+    type: *monitor-dell
+
+  "ASSET:9mRqxUX6Q#OmqZ@@PfyG1w":
+    type: *monitor-dell
+
+  "ASSET:eeB96Hy5QzSY@TkX15ud1g":
+    type: *monitor-dell
+
+  "ASSET:SUzQX4uMQGWd7cpelQ5GEg":
+    type: *monitor-dell
+
+  "ASSET:i2OKICqKS6GsQmopOLsjFg":
+    type: *monitor-dell
+
+  "ASSET:3RFlu#obRgeo6C8CDhWeIg":
+    type: *monitor-dell
+
+  "ASSET:zgqSQodLRJm1MVIZexK1jg":
+    type: *monitor-dell
+
+  "ASSET:Djdh13eNQmi6QoKLaxVEPg":
+    type: *monitor-dell
+
+  "ASSET:#VamRzTYQSyRy9RdAz08Gw":
+    type: *monitor-dell
+
+  "ASSET:uY7mFhh0SP2axlEL4jasfg":
+    type: *monitor-dell
+
+  "ASSET:3#4b1yJlQgKwiC1FP6SX7g":
+    type: *monitor-dell
+
+  "ASSET:@fQ8On4FT9uCZFWIJAq9Sw":
+    type: *monitor-dell
+
+  "ASSET:SCux7JQ0ScaLrM#gvu2zRw":
+    type: *monitor-dell
+
+  "ASSET:t7ND7osVS0uB2PFkYK1YUg":
+    type: *monitor-dell
+
+  "ASSET:E#MIdjNKRtWrUVK#jrTwXw":
+    type: *pc
+
+  "ASSET:cwhSjFToRDG#TiPzWj6Rmg":
+    type: *pc
+
+  "ASSET:xfXhVNpwSS2sBAmy2eXNRg":
+    type: *pc
+
+  "ASSET:w51cYlZ1TY#7rcbLc7Pjrg":
+    type: *pc
+
+  "ASSET:bs0WGmA0R8y3hYkSXoyb9A":
+    type: *pc
+
+  "ASSET:H7T7CtXzQGCdoJvELc6HCQ":
+    type: *pc
+
+  "ASSET:7p6DvuKUTKa3nMatDlzn#g":
+    type: *pc
+
+  "ASSET:X5#fKIkYQIKQjTNuHap7Vw":
+    type: *pc
+
+  "ASSET:tpU#bGevSQ#GvOKxWD9#Sw":
+    type: *pc
+
+  "ASSET:uWZkrmKHRSaDckgfM@nyvQ":
+    type: *pc
+
+  "ASSET:ebUjRwwCQ5a8W1YwmqsntQ":
+    type: *pc
+
+  "ASSET:so5@2#RfS4#qEoMRvvq4sA":
+    type: *pc
+
+  "ASSET:h4I8wZ#WQkGknB17cKnz1w":
+    type: *pc
+
+  "ASSET:zhBv6bomTfWDPas1nB2dKA":
+    type: *pc
+
+  "ASSET:ljIuo0kRSHq4g4G-k6Gy8A":
+    type: *pc
+
+  "ASSET:eCFZsBXRSeuSvbPMKsa40Q":
+    type: *pc
+
+  "ASSET:0SvS6DZeS#Wu@i20UKODdw":
+    type: *pc
+
+  "ASSET:nOsrfvazQzyANePTUdqxbQ":
+    type: *pc
+
+  "ASSET:8ZhrJdL2QP2KDiGlTBgSjw":
+    type: *pc
+
+  "ASSET:yIBhK1N6R4W4euN#HOZd@w":
+    type: *pc
+
+  "ASSET:2SbNOrEzSNaAtUB#0ifkYA":
+    type: *pc
+
+  "ASSET:H_Td9XTBTMezDBeag9blvg":
+    type: *pc
+
+  "ASSET:j8LTpB7gRpSIZyZ0@97YbQ":
+    type: *pc
+
+  "ASSET:7veeimgGRb20JYYPndjMXA":
+    type: *pc
+
+  "ASSET:zJWuzoCiRgWCtjL5nS1cBw":
+    type: *pc
+
+  "ASSET:pjP@1vtdSUK6A7eIgwkXmA":
+    type: *pc
+
+  "ASSET:vCTWsOCNSdKk1lFsCy3Epg":
+    type: *pc
+
+  "ASSET:JyVxCvlfRGWlx5VGpXKaYg":
+    type: *pc
+
+  "ASSET:f9PCXgHRSyCl2prxQSmF9g":
+    type: *pc
+
+  "ASSET:loioknmETb26FaPr#Nk9Zw":
+    type: *pc
+
+  "ASSET:STYpFfYeTKO#8JVqyE4l0g":
+    type: *pc
+
+  "ASSET:LfKPRW@9Swu1@tbPMEEMcg":
+    type: *pc
+
+  "ASSET:zgBo5CgfT#y8ki5biOoodQ":
+    type: *pc
+
+  "ASSET:uPBNYohpTFOBUpou6P5MGA":
+    type: *pc
+
+  "ASSET:MvRhzwwqRgmNMF7638vegg":
+    type: *pc
+
+  "ASSET:QlQY@kywR7O5KVTRCtRSFQ":
+    type: *keyboard-dell
+
+  "ASSET:kp39GzRgTRKU7SMBFSPQSQ":
+    type: *keyboard-dell
+
+  "ASSET:QlQY@kywR7O5KVTRCtRSFQ":
+    type: *keyboard-dell
+
+  "ASSET:5qMGIlyxQ9CeYSA3Dt57RQ":
+    type: *keyboard-dell
+
+  "ASSET:9A#tRqztQRCWhuKt4NzZZg":
+    type: *keyboard-dell
+
+  "ASSET:Ni9@z#nCSS20hb6Id5d66A":
+    type: *keyboard-dell
+
+  "ASSET:nbF@1eJNR2umGtcN5wD7LA":
+    type: *keyboard-dell
+
+  "ASSET:JLzL6siqRlqrH99iJ256mQ":
+    type: *keyboard-dell
+
+  "ASSET:d3DGPYauRxKMYOYz@7SdHA":
+   type: *keyboard-dell
+
+  "ASSET:6q2@938SQLKqUwD@LiU1UA":
+    type: *keyboard-dell
+
+  "ASSET:dF4KkAPrTHauCUh5z_V9PQ":
+    type: *keyboard-dell
+
+  "ASSET:Py51gZCzTTGMYFK1WpuPyw":
+    type: *keyboard-dell
+
+  "ASSET:jPq7HTOqS@Own#0aazZ#tg":
+    type: *keyboard-dell
+
+  "ASSET:IZEfb6IZRrK0MKEEAj#xnw":
+    type: *keyboard-dell
+
+  "ASSET:dX@Y7QadSmqQi3zLxWigLA":
+    type: *keyboard-dell
+
+  "ASSET:db1tpiH0Q6ORWZn6f8wdvA":
+    type: *keyboard-dell
+
+  "ASSET:Y@By7lXPTba4mvhihrn9xQ":
+    type: *keyboard-dell
+
+  "ASSET:T6nZpT0JRqKPhaNGrD8xFg":
+    type: *keyboard-dell
+
+  "ASSET:ceRUWblHRdKKKu3@W0@c0Q":
+    type: *keyboard-dell
+
+  "ASSET:3bdghK#yRx2DLPb42mC6fQ":
+    type: *keyboard-dell
+
+  "ASSET:L2BKPj#YRASLga0YnhqlOw":
+    type: *keyboard-dell
+
+  "ASSET:fcL-c6hzSJib1fn0jrHwMg":
+    type: *keyboard-dell
+
+  "ASSET:GoTm473uQLq47ywKVYmPYg":
+    type: *keyboard-dell
+
+  "ASSET:N44IBAcUQ5ugezuFczCwLw":
+    type: *keyboard-dell
+
+  "ASSET:3bjDpGqYTvi1W4qKFayKfQ":
+    type: *keyboard-dell
+
+  "ASSET:yOzrEGP9TnycbVXDjnXWew":
+    type: *keyboard-dell
+
+  "ASSET:0T73yg6MRiiNGww7Q8ZePw":
+    type: *keyboard-dell
+
+  "ASSET:gsASlQDYQM#PqP5nuTqetA":
+    type: *keyboard-dell
+
+  "ASSET:@0uj1acJRZ#IC8mt7T4I9A":
+    type: *keyboard-dell
+
+  "ASSET:3cnc8KkaSFOoMbRrojsxig":
+    type: *keyboard-dell
+
+  "ASSET:8YBIbMVWRbm#nYOOwz4VRg":
+    type: *keyboard-dell
+
+  "ASSET:qjJ7jCI4S260DtQqQTSUQw":
+    type: *keyboard-dell
+
+  "ASSET:MrvfqO4mS0yUegKajpgUcg":
+    type: *keyboard-dell
+
+  "ASSET:IyYsZBgnQI6p4DR6@0QM2w":
+    type: *keyboard-dell
+
+  "ASSET:j7sZKKjuRRaPgHaxVaBiGQ":
+    type: *keyboard-dell
+
+  "ASSET:lq3jyOPoScWtxqm3QIs7rA":
+    type: *mouse-dell
+
+  "ASSET:tWCFJ470TX2Xe4MpIGyc4A":
+    type: *mouse-dell
+
+  "ASSET:@omWDDtdRSCxqupVCL7UAQ":
+    type: *mouse-dell
+
+  "ASSET:aQvmUjrCS7#ISm3WOzqhEQ":
+    type: *mouse-dell
+
+  "ASSET:zKUHvRyyS7#5fpsds0Ye1A":
+    type: *mouse-dell
+
+  "ASSET:0iCj87EmSSSfBjy@svVRMg":
+    type: *mouse-dell
+
+  "ASSET:dRnhmtKiRQuid6JkzYc4Vw":
+    type: *mouse-dell
+
+  "ASSET:jN3YFTlHRMemXREtAgVQYA":
+    type: *mouse-dell
+
+  "ASSET:N44IBAcUQ5ugezuFczCwLw":
+    type: *mouse-dell
+
+  "ASSET:mQfo1gU9S7G6cES9iMtsAg":
+    type: *mouse-dell
+
+  "ASSET:JAhXzjVgTb2TPENEahMLhw":
+    type: *mouse-dell
+
+  "ASSET:eogdPcz0R1aG1kCQSkYSrw":
+    type: *mouse-dell
+
+  "ASSET:Py51gZCzTTGMYFK1WpuPyw":
+    type: *mouse-dell
+
+  "ASSET:riyQ1dV9THWbIdQ0X4Z@ig":
+    type: *mouse-dell
+
+  "ASSET:QSsdH@smS0GI2gW1KsMBoA":
+    type: *mouse-dell
+
+  "ASSET:jxwl6UpJQPOp5ND6-uTydw":
+    type: *mouse-dell
+
+  "ASSET:4D#ehrShRCOFMKRbSiRqoA":
+    type: *mouse-dell
+
+  "ASSET:e#mukdbPSty4owVVR6pqug":
+    type: *mouse-dell
+
+  "ASSET:FhqPI4T3TN6sWudnk2qQxw":
+    type: *mouse-dell
+
+  "ASSET:5aZ7SsPmTCiOsmTivtUpjQ":
+    type: *mouse-dell
+
+  "ASSET:pI8AmnfPRiGw9SmLLGQOiw":
+    type: *mouse-dell
+
+  "ASSET:nPciHaOlSBaHYCuqMh0YQA":
+    type: *mouse-dell
+
+  "ASSET:HZ2J6tS4SNOC8BaDf1ZHWA":
+    type: *mouse-dell
+
+  "ASSET:aPRITG8ZRgqpC2hEK2sNSQ":
+    type: *mouse-dell
+
+  "ASSET:C8ye3kjRRc6@jWwTUjpSIg":
+    type: *mouse-dell
+
+  "ASSET:ca@pZTYkQBioMHOxbgPkoQ":
+    type: *mouse-dell
+
+  "ASSET:ocCVlf2xR56uwMVkRRf0vA":
+    type: *mouse-dell
+
+  "ASSET:5qha9WQ#Qxy05fnWXilrQA":
+    type: *mouse-dell
+
+  "ASSET:NO3@@bDjQomUeLtZQ2QP@A":
+    type: *mouse-dell
+
+  "ASSET:T9iHePyeSemrwVCSQc0RtA":
+    type: *mouse-dell
+
+  "ASSET:l2nRfYZ2SKGyi3TI#KahwQ":
+    type: *mouse-dell
+
+  "ASSET:E31upJyrRiOe0fIspN8wrw":
+    type: *mouse-dell
+
+  "ASSET:z4gLBG@bSdG4fzCFuEgnPA":
+    type: *mouse-dell
+
+  "ASSET:j0X1YCSKSIi0ggz#q0ioQQ":
+    type: *mouse-dell
+
+  "ASSET:6EFPsnPCRmeXZcF58TjThw":
+    type: *mouse-dell
+
+  "ASSET:ugZsnIawSzqYErVypmdyNg":
+    type: *monitor-dell
+
+  "ASSET:8mEWT@zuQOmqb75DAkPUPQ":
+    type: *monitor-dell
+
+  "ASSET:7YFlOOh8SEOkb@Boi#tEhQ":
+    type: *monitor-dell
+
+  "ASSET:TySXqhONScCsPSO1n7jW5w":
+    type: *monitor-dell
+
+  "ASSET:NQ0qbGfgQXqGPCXqE1I1Wg":
+    type: *monitor-dell
+
+  "ASSET:@lVoe0YfSZaEf8#GrQeHxA":
+    type: *monitor-dell
+
+  "ASSET:bSuGwjQBQSOhRnmsRK6f9g":
+    type: *monitor-dell
+
+  "ASSET:vRrTKt#2TKy1XH1Dl1Ek0w":
+    type: *monitor-dell
+
+  "ASSET:SPzSrMOUQhSTOFDiJJdUmw":
+     type: *monitor-dell
+
+  "ASSET:OgGUEs#jQUa6V94K9iFc7Q":
+    type: *monitor-dell
+
+  "ASSET:DjbEIuNTTJiyQE9Wgc3hAQ":
+    type: *keyboard-dell
+
+  "ASSET:jJCIc7crQtOsM@qMakN6zg":
+    type: *keyboard-dell
+
+  "ASSET:vLAVgbV9R9unhHUlZpvr8g":
+    type: *keyboard-dell
+
+  "ASSET:ehp1#oWTSiaeS2InBqid5g":
+    type: *keyboard-dell
+
+  "ASSET:ULChDlCvQEa9RenvelNFkQ":
+    type: *keyboard-dell
+
+  "ASSET:3HWFh4AnSuWdERKmprPxwQ":
+    type: *keyboard-dell
+
+  "ASSET:SBhD5UOLRdmfzrBJrEzS6A":
+    type: *keyboard-dell
+
+  "ASSET:H30WKKbqRPymYr2v6RFFHQ":
+    type: *keyboard-dell
+
+  "ASSET:cr5vp6nITbWNYcP0rGhzFQ":
+    type: *keyboard-dell
+
+  "ASSET:oXt0BzQSRTCVtIYmlbpWCw":
+    type: *keyboard-dell
+
+  "ASSET:E8yEusVGSkirW7pbIjneHA":
+    type: *pc
+
+  "ASSET:39itJtggQgWlE4va9UncCg":
+    type: *pc
+
+  "ASSET:y#F6@ZjqRf2M8Cqliil0Bg":
+    type: *pc
+
+  "ASSET:3IrrdtbbTXKy0JTjbH39xw":
+    type: *pc
+
+  "ASSET:G8o73DftSZS1KzmmXbunzg":
+    type: *pc
+
+  "ASSET:B8eFvyriQsm0hNNg5WwXOw":
+    type: *pc
+
+  "ASSET:LvIWQK@BR5GmqkXVDqy4Xw":
+    type: *pc
+
+  "ASSET:g3yWz9fXTEa1myXBq1TvNQ":
+    type: *pc
+
+  "ASSET:OBIAqEh@Tomlevf3khAz3w":
+     type: *pc
+
+  "ASSET:ArgTLykYTjCIa@i#c2eCCA":
+    type: *pc
+
+  "ASSET:G1jqZwgaSweSOxO0xiW35A":
+    type: *mouse-dell
+
+  "ASSET:7uyfaoJ1STW9KLI2xi6STQ":
+    type: *mouse-dell
+
+  "ASSET:9A#tRqztQRCWhuKt4NzZZg":
+    type: *mouse-dell
+
+  "ASSET:CzYyUrb3RCem2ML#GIw3RA":
+     type: *mouse-dell
+
+  "ASSET:XBlfO6TOQP#T0w4O1#MzQg":
+    type : *mouse-dell
+
+  "ASSET:jJqA3eufSP2mWMbzs8oTxA":
+    type: *mouse-dell
+
+  "ASSET:atjkDMZ5SE684lr1#Qg0wQ":
+    type: *mouse-dell
+
+  "ASSET:PbyN5LiyTG63Rc1TQKsQkw":
+    type: *monitor-dell
+
+  "ASSET:i3DPvXIaRQWKv57Uhhx93Q":
+    type: *monitor-dell
+
+  "ASSET:QiGf6ldGSLWagB4YXPobCw":
+    type: *monitor-dell
+
+  "ASSET:dyueS@WRRPqZQt1LQsjjww":
+    type: *monitor-dell
+
+  "ASSET:yUDAC6OOTL6QsLeszXtA#A":
+    type: *pc
+
+  "ASSET:cLr5VyMmQD#1eMDLhlXPpg":
+    type: *pc
+
+  "ASSET:zP3n9liaSJeoXcEfxpCrwQ":
+    type: *pc
+
+  "ASSET:Y72gOo8rTuuTxbwkt3YMRQ":
+    type: *pc
+
+  "ASSET:LSRM3WzSS0WSbmBmHW7tkw":
+    type: *wifi-antenna
+
+  "ASSET:LSRM3WzSS0WSbmBmHW7tkw":
+    type: *wifi-antenna
+
+  "ASSET:jYXkYM3oRqSzoeyIH3iEGA":
+    type: *wifi-antenna
+
+  "ASSET:OE7ZMqbMQBuv9SjFjeJREw":
+    type: *wifi-antenna
+
+  "ASSET:yXtSlOS1Saqfeuyz9dQ5Bw":
+    type: *wifi-antenna
+
+  "ASSET:RpsIrPdpT5#eq2ePBkZBZQ":
+    type: *wifi-antenna
+
+  "ASSET:Gclw#vjrQN6f#N6X@8zm1Q":
+    type: *wifi-antenna
+
+  "ASSET:0v1d8OWCRkWGqQq@32yLJw":
+    type: *wifi-antenna
+
+  "ASSET:yMJgYhV2TC2GzRSZcjDoMQ":
+    type: *wifi-antenna
+
+  "ASSET:TgNKUPwuSSKzbozV0bF6zw":
+    type: *wifi-antenna
+
+  "ASSET:a1bwS2K1TiqHh79AhR#Ajg":
+    type: *wifi-antenna
+
+  "ASSET:GJ7tp9#yQYeSXELdnEuJow":
+    type: *wifi-antenna
+
+  "ASSET:VDMdydl0Tl2@OeTqU2JqQQ":
+    type: *wifi-antenna
+
+  "ASSET:wECVyTLvRbiO0myNig6EKg":
+    type: *wifi-antenna
+
+  "ASSET:05skGnugRKyO3zjLSsY61A":
+    type: *wifi-antenna
+
+  "ASSET:ox73Z6FnQ@u8o@3a1QFPLg":
+    type: *wifi-antenna
+
+  "ASSET:2lcDr2PrS4mLvZBhhF35hA":
+    type: *red-chair
+
+  "ASSET:Y3Of@Bg6RS2IcxdXHnPYYg":
+    type: *red-chair
+
+  "ASSET:uPdzWwWGSPSKVM3NFSMRMA":
+    type: *red-chair
+
+  "ASSET:7FX6gf59STSqJFqRQX0Xfg":
+    type: *red-chair
+
+  "ASSET:EfPPu3M0QFa2ipZ85j6Big":
+    type: *red-chair
+
+  "ASSET:Abg3zziwSqiCVqNxrAR@uw":
+    type: *red-chair
+
+  "ASSET:b0dZnVR_SjqXttKVgdwGXA":
+    type: *red-chair
+
+  "ASSET:7VY86Ah-S82PcTzpkc-svg":
+    type: *red-chair
+
+  "ASSET:1#Voqt7YQ@qzRQsMD39bMQ":
+    type: *red-chair
+
+  "ASSET:o1pG6D7jQEC0k-eaYERDEg":
+    type: *red-chair
+
+  "ASSET:shYIwG8wQO-Yws9n53jcBg":
+    type: *red-chair
+
+  "ASSET:TYPZqVCKTgatg2c2M5fnxw":
+    type: *red-chair
+
+  "ASSET:RD5CeAjaR3avbEmjTn_iBQ":
+    type: *red-chair
+
+  "ASSET:oNTXrc0jTxyUS7q0RxX57w":
+    type: *red-chair
+
+  "ASSET:Hx0H4YdCRSGNmkaUCVQEKg":
+    type: *red-chair
+
+  "ASSET:Y2SY0edmTHWxpCEhK2HmJA":
+    type: *red-chair
+
+  "ASSET:dI32e1IvTwW1xvZo0cJyuQ":
+    type: *red-chair
+
+  "ASSET:w6bOfQFBQIGu0o6CwgjMMw":
+    type: *red-chair
+
+  "ASSET:jW7fO9uBRwuPWmb3FL4mkg":
+    type: *red-chair
+
+  "ASSET:P3IZQdnHQGmm51rBNLkkHA":
+    type: *red-chair
+
+  "ASSET:56jCK@raSBaUpuN7gq1ELA":
+    type: *red-chair
+
+  "ASSET:5xPQqBbJT5mTb1zweNRKmQ":
+    type: *red-chair
+
+  "ASSET:riBnOfmXR5STRgagSBeLzg":
+    type: *red-chair
+
+  "ASSET:P9o1Y1PsSk#sQcfknn2n7w":
+    type: *red-chair
+
+  "ASSET:xDoo19zsSr2jLqE4QAMSHQ":
+    type: *red-chair
+
+  "ASSET:3cMkI9ZcT4#UG5hPTp@AuQ":
+    type: *red-chair
+
+  "ASSET:keQqKRsbQfSZ3NPPTBDxLg":
+    type: *red-chair
+
+  "ASSET:NoSHHOb@Teip2gQQqG5Oeg":
+    type: *red-chair
+
+  "ASSET:tze784RQQdylYGxP8aekkQ":
+    type: *red-chair
+
+  "ASSET:h0BUk05uSSufpHIHcsaeCw":
+    type: *red-chair
+
+  "ASSET:adgEXEtJSwu@bTTQ9OBE4Q":
+    type: *red-chair
+
+  "ASSET:IWONuEUoTwCZSU8cgDn#dQ":
+    type: *red-chair
+
+  "ASSET:CYAYEmHpRSioK7t6Gj1QdQ":
+    type: *red-chair
+
+  "ASSET:OgbqdD7ZQ2#NCBPM31zByQ":
+    type: *red-chair
+
+  "ASSET:3U9UKI2gT@addy58jD2iQQ":
+    type: *red-chair
+
+  "ASSET:qjIW0mtATfqJ4oL8vw#oCA":
+    type: *red-chair
+
+  "ASSET:qsD1TQ9OSJKdu1GJ5PneWw":
+    type: *red-chair
+
+  "ASSET:P5RRyKXoQGec8NfkPpsF4w":
+    type: *red-chair
+
+  "ASSET:VlmfdEd2QX6auhKLXlRCxQ":
+    type: *red-chair
+
+  "ASSET:d8wb#essTsq2PeGdgRAb7w":
+    type: *red-chair
+
+  "ASSET:OJ4oNrP0TNKUVixrHFJU3g":
+    type: *red-chair
+
+  "ASSET:Bfeb#S9@ROW4eaZXiJFG@A":
+    type: *red-chair
+
+  "ASSET:czhenT93TGWGL@QXowO2pQ":
+    type: *red-chair
+
+  "ASSET:0PhmI93LRYe@u9coGRwoHw":
+    type: *monitor-dell
+
+  "ASSET:DEGT9#CaQeOD6#3AFPQaLQ":
+    type: *monitor-dell
+
+  "ASSET:PqW38Fk5Ttabik0RxgHCWw":
+    type: *monitor-dell
+
+  "ASSET:QTel3KdeRuaeXt45erR4wg":
+    type: *monitor-dell
+
+  "ASSET:#VRuLUIiRMeDyuqW@E92Sg":
+    type: *monitor-dell
+
+  "ASSET:#OM7YYcDSUmNafTsKT#7ew":
+    type: *monitor-dell
+
+  "ASSET:PWciKGR4Rwqh63ixAolKnA":
+    type: *monitor-dell
+
+  "ASSET:KlgjCN2zQDqYvzkWN4VqGw":
+    type: *monitor-dell
+
+  "ASSET:4Dd#rtCjQyKH@Td@er41YQ":
+    type: *monitor-dell
+
+  "ASSET:l@iLuOLuRn2fbCZWtQap7w":
+    type: *monitor-dell
+
+  "ASSET:A7ULhlOxQqWL2d2kupp6YQ":
+    type: *pc
+
+  "ASSET:7jiSsMGbSNua@Pj21NFF9g":
+    type: *pc
+
+  "ASSET:gnQf0E@AQnGtFID7bozzuw":
+    type: *pc
+
+  "ASSET:NkluVk4jTPivRwIHPsPu0Q":
+    type: *pc
+
+  "ASSET:zP5TQrDTQISbPSwm2dKN9A":
+    type: *pc
+
+  "ASSET:@vdDczTRSqe3O9yeKe9IQQ":
+    type: *pc
+
+  "ASSET:T6swVJr@StOov@bd1xidoA":
+    type: *pc
+
+  "ASSET:sVf@1P1FQl6k#qOAjJqIsA":
+    type: *pc
+
+  "ASSET:Cy90tg#BQkyHTbtCE3J17g":
+    type: *pc

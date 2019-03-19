@@ -1,0 +1,2477 @@
+= Asset Report
+:toc:
+
+== Assets by Location
+=== Location: Innovation Center:Entrance hall
+[role="table table-striped",options="header",cols="40%,10%,50%asciidoc"]
+|======
+| Asset Type | Count | Asset IDs
+| Rolling Chair | 12
+|
+    * `ASSET:2lcDr2PrS4mLvZBhhF35hA`
+    * `ASSET:2lcDr2PrS4mLvZBhhF35hA`
+    * `ASSET:Y3Of@Bg6RS2IcxdXHnPYYg`
+    * `ASSET:uPdzWwWGSPSKVM3NFSMRMA`
+    * `ASSET:zpVbYNALQ4KBt#1orveV9w`
+    * `ASSET:7FX6gf59STSqJFqRQX0Xfg`
+    * `ASSET:EfPPu3M0QFa2ipZ85j6Big`
+    * `ASSET:Abg3zziwSqiCVqNxrAR@uw`
+    * `ASSET:b0dZnVR_SjqXttKVgdwGXA`
+    * `ASSET:7VY86Ah-S82PcTzpkc-svg`
+    * `ASSET:1#Voqt7YQ@qzRQsMD39bMQ`
+    * `ASSET:o1pG6D7jQEC0k-eaYERDEg`
+
+| Keyboard Dell | 11
+|
+    * `ASSET:db1tpiH0Q6ORWZn6f8wdvA`
+    * `ASSET:Y@By7lXPTba4mvhihrn9xQ`
+    * `ASSET:T6nZpT0JRqKPhaNGrD8xFg`
+    * `ASSET:ceRUWblHRdKKKu3@W0@c0Q`
+    * `ASSET:3bdghK#yRx2DLPb42mC6fQ`
+    * `ASSET:L2BKPj#YRASLga0YnhqlOw`
+    * `ASSET:fcL-c6hzSJib1fn0jrHwMg`
+    * `ASSET:GoTm473uQLq47ywKVYmPYg`
+    * `ASSET:3bjDpGqYTvi1W4qKFayKfQ`
+    * `ASSET:yOzrEGP9TnycbVXDjnXWew`
+    * `ASSET:0T73yg6MRiiNGww7Q8ZePw`
+
+| Netgear wireless router | 13
+|
+    * `ASSET:vFDk2mWpTYK2jPjPA86E6A`
+    * `ASSET:LSRM3WzSS0WSbmBmHW7tkw`
+    * `ASSET:LSRM3WzSS0WSbmBmHW7tkw`
+    * `ASSET:jYXkYM3oRqSzoeyIH3iEGA`
+    * `ASSET:OE7ZMqbMQBuv9SjFjeJREw`
+    * `ASSET:yXtSlOS1Saqfeuyz9dQ5Bw`
+    * `ASSET:RpsIrPdpT5#eq2ePBkZBZQ`
+    * `ASSET:Gclw#vjrQN6f#N6X@8zm1Q`
+    * `ASSET:0v1d8OWCRkWGqQq@32yLJw`
+    * `ASSET:yMJgYhV2TC2GzRSZcjDoMQ`
+    * `ASSET:TgNKUPwuSSKzbozV0bF6zw`
+    * `ASSET:a1bwS2K1TiqHh79AhR#Ajg`
+    * `ASSET:GJ7tp9#yQYeSXELdnEuJow`
+
+| Mouse Dell | 13
+|
+    * `ASSET:lq3jyOPoScWtxqm3QIs7rA`
+    * `ASSET:tWCFJ470TX2Xe4MpIGyc4A`
+    * `ASSET:@omWDDtdRSCxqupVCL7UAQ`
+    * `ASSET:aQvmUjrCS7#ISm3WOzqhEQ`
+    * `ASSET:zKUHvRyyS7#5fpsds0Ye1A`
+    * `ASSET:0iCj87EmSSSfBjy@svVRMg`
+    * `ASSET:dRnhmtKiRQuid6JkzYc4Vw`
+    * `ASSET:jN3YFTlHRMemXREtAgVQYA`
+    * `ASSET:N44IBAcUQ5ugezuFczCwLw`
+    * `ASSET:mQfo1gU9S7G6cES9iMtsAg`
+    * `ASSET:JAhXzjVgTb2TPENEahMLhw`
+    * `ASSET:eogdPcz0R1aG1kCQSkYSrw`
+    * `ASSET:N44IBAcUQ5ugezuFczCwLw`
+
+| Unknown | 1
+|
+    * `ASSET:waFQzuSGS6uhDkdEyTRj3A`
+
+| Dell LCD Monitor | 12
+|
+    * `ASSET:wm6aKMkYRDC00Wtf6mS@ig`
+    * `ASSET:LCRd9E@hSmGcBKquMsYfyw`
+    * `ASSET:R@TvfUMtTs#XYp6#aq2Bgw`
+    * `ASSET:tffY1gNxTE#bt95tPjLbPA`
+    * `ASSET:doZetbnKQMKUliNJdYdlgQ`
+    * `ASSET:swLknpuRS6SMcc431JQFKg`
+    * `ASSET:0qevAf67QD2MfHBUvkv72w`
+    * `ASSET:hcuiCMvSSnmjuirH5uhNeA`
+    * `ASSET:hp7hkySbRKGdMqaIvbYTsw`
+    * `ASSET:IzPi8DzPScqzbO8S1Bvshw`
+    * `ASSET:Opd2NjaeTaauxxTFMRaFgg`
+    * `ASSET:WhWhfI0vRRyIjj9ldaRqjQ`
+
+| Small Rolling Chair | 1
+|
+    * `ASSET:2bUOkFqkTBCmKx9UdRrVVg`
+
+|======
+=== Location: Innovation center:Room-2
+[role="table table-striped",options="header",cols="40%,10%,50%asciidoc"]
+|======
+| Asset Type | Count | Asset IDs
+| Unknown | 2
+|
+    * `ASSET:HXhwyydzRPGdPfgxwILJ#w`
+    * `ASSET:jJ9tzo8hS4SU97FXO3mjpQ`
+
+| Mouse Dell | 8
+|
+    * `ASSET:9A#tRqztQRCWhuKt4NzZZg`
+    * `ASSET:G1jqZwgaSweSOxO0xiW35A`
+    * `ASSET:7uyfaoJ1STW9KLI2xi6STQ`
+    * `ASSET:9A#tRqztQRCWhuKt4NzZZg`
+    * `ASSET:CzYyUrb3RCem2ML#GIw3RA`
+    * `ASSET:XBlfO6TOQP#T0w4O1#MzQg`
+    * `ASSET:jJqA3eufSP2mWMbzs8oTxA`
+    * `ASSET:atjkDMZ5SE684lr1#Qg0wQ`
+
+| Keyboard Dell | 9
+|
+    * `ASSET:QlQY@kywR7O5KVTRCtRSFQ`
+    * `ASSET:kp39GzRgTRKU7SMBFSPQSQ`
+    * `ASSET:QlQY@kywR7O5KVTRCtRSFQ`
+    * `ASSET:5qMGIlyxQ9CeYSA3Dt57RQ`
+    * `ASSET:Ni9@z#nCSS20hb6Id5d66A`
+    * `ASSET:nbF@1eJNR2umGtcN5wD7LA`
+    * `ASSET:JLzL6siqRlqrH99iJ256mQ`
+    * `ASSET:d3DGPYauRxKMYOYz@7SdHA`
+    * `ASSET:6q2@938SQLKqUwD@LiU1UA`
+
+| Dell LCD Monitor | 10
+|
+    * `ASSET:i2OKICqKS6GsQmopOLsjFg`
+    * `ASSET:3RFlu#obRgeo6C8CDhWeIg`
+    * `ASSET:zgqSQodLRJm1MVIZexK1jg`
+    * `ASSET:Djdh13eNQmi6QoKLaxVEPg`
+    * `ASSET:#VamRzTYQSyRy9RdAz08Gw`
+    * `ASSET:uY7mFhh0SP2axlEL4jasfg`
+    * `ASSET:3#4b1yJlQgKwiC1FP6SX7g`
+    * `ASSET:@fQ8On4FT9uCZFWIJAq9Sw`
+    * `ASSET:SCux7JQ0ScaLrM#gvu2zRw`
+    * `ASSET:t7ND7osVS0uB2PFkYK1YUg`
+
+| Desktop Computers | 10
+|
+    * `ASSET:E#MIdjNKRtWrUVK#jrTwXw`
+    * `ASSET:cwhSjFToRDG#TiPzWj6Rmg`
+    * `ASSET:xfXhVNpwSS2sBAmy2eXNRg`
+    * `ASSET:w51cYlZ1TY#7rcbLc7Pjrg`
+    * `ASSET:bs0WGmA0R8y3hYkSXoyb9A`
+    * `ASSET:H7T7CtXzQGCdoJvELc6HCQ`
+    * `ASSET:7p6DvuKUTKa3nMatDlzn#g`
+    * `ASSET:X5#fKIkYQIKQjTNuHap7Vw`
+    * `ASSET:tpU#bGevSQ#GvOKxWD9#Sw`
+    * `ASSET:uWZkrmKHRSaDckgfM@nyvQ`
+
+|======
+=== Location: Corporate Headquarters:Workplace
+[role="table table-striped",options="header",cols="40%,10%,50%asciidoc"]
+|======
+| Asset Type | Count | Asset IDs
+| Lexmark Printer | 1
+|
+    * `ASSET:IkhgrBFlSFS4SWybOWvH0g`
+
+| Keyboard Dell | 9
+|
+    * `ASSET:hxsskR@0RZWsYsIYe5j4GA`
+    * `ASSET:i#XzjxWoTDShudIhYJydrQ`
+    * `ASSET:pZl5bttgRCSxe2VmQE5wzg`
+    * `ASSET:dHM2DSqGTFisLfj7cqAIWw`
+    * `ASSET:jBdWRUHPT02tXq1XUOuNGA`
+    * `ASSET:n@Izu6QaTw6J6snBvYh7Uw`
+    * `ASSET:lDScZ9mmQjen62bwnqbIaA`
+    * `ASSET:GhvkNUJTS8Sw7tuaHXLcFg`
+    * `ASSET:Faw68LFkQNSc4TJr6ZHQ8A`
+
+| Mouse Dell | 3
+|
+    * `ASSET:QMRa7OnpQ7GpAsb3lVpTKQ`
+    * `ASSET:GOF71KjsRSaCwDX1Y49q7Q`
+    * `ASSET:5eC7uGBVQBm3Y3TZ0KSaww`
+
+| Wireless Router | 4
+|
+    * `ASSET:LjVco1PCTde#EdS9Wuqskg`
+    * `ASSET:lsl7cuAOQjOHWkKLOd4Srg`
+    * `ASSET:qpyM8jpSQjGeivOQhe6NnA`
+    * `ASSET:y@vPPwXjR0ewRIoALyilmQ`
+
+| Dell LCD Monitor | 11
+|
+    * `ASSET:#VRuLUIiRMeDyuqW@E92Sg`
+    * `ASSET:VfYdLzHJSiix7uj@ZgXZ@g`
+    * `ASSET:QTel3KdeRuaeXt45erR4wg`
+    * `ASSET:PqW38Fk5Ttabik0RxgHCWw`
+    * `ASSET:DEGT9#CaQeOD6#3AFPQaLQ`
+    * `ASSET:U65aKiOYQMqW2L0kOr5lHA`
+    * `ASSET:0PhmI93LRYe@u9coGRwoHw`
+    * `ASSET:53#i@S3BTuSjMIyhgOsImw`
+    * `ASSET:PWciKGR4Rwqh63ixAolKnA`
+    * `ASSET:KlgjCN2zQDqYvzkWN4VqGw`
+    * `ASSET:4Dd#rtCjQyKH@Td@er41YQ`
+
+| Desktop Computers | 7
+|
+    * `ASSET:zP5TQrDTQISbPSwm2dKN9A`
+    * `ASSET:NkluVk4jTPivRwIHPsPu0Q`
+    * `ASSET:gnQf0E@AQnGtFID7bozzuw`
+    * `ASSET:7jiSsMGbSNua@Pj21NFF9g`
+    * `ASSET:A7ULhlOxQqWL2d2kupp6YQ`
+    * `ASSET:b@Ppu5GnSWSirVEjcGtm7g`
+    * `ASSET:@vdDczTRSqe3O9yeKe9IQQ`
+
+|======
+=== Location: Unknown
+[role="table table-striped",options="header",cols="40%,10%,50%asciidoc"]
+|======
+| Asset Type | Count | Asset IDs
+| Keyboard Dell | 4
+|
+    * `ASSET:IY7iMg9DT6aKC@YkVagV2g`
+    * `ASSET:hsZDybJmR9#fnbS1oP#hwg`
+    * `ASSET:on7_PZ1eT7GFvOkNMYglQg`
+    * `ASSET:7XwOcroTRjisSPmzdBqQPA`
+
+| Mouse Dell | 5
+|
+    * `ASSET:eRqJv5E9TQ6orBYz8WYviw`
+    * `ASSET:1F#K2LuNRfOn1#Tn075kIQ`
+    * `ASSET:fUsXMUZDS12kQFXmcBJZ0A`
+    * `ASSET:1NqvvoPfTYi03h#dGXwX0w`
+    * `ASSET:1NqvvoPfTYi03h#dGXwX0w`
+
+| Wireless Router | 3
+|
+    * `ASSET:DhD9M#YoQ0SkDrH4HVWH#w`
+    * `ASSET:zkIueUpRR1yljLmyU9NUTA`
+    * `ASSET:yeGDLw4kSICvax@gOxyb4Q`
+
+| Mini pc dell | 1
+|
+    * `ASSET:6eXOa1vkQhyqlU5J@@Z5hA`
+
+| Dell LCD Monitor | 9
+|
+    * `ASSET:quPC@sYTSzK2CQ1qIbxYJA`
+    * `ASSET:quPC@sYTSzK2CQ1qIbxYJA`
+    * `ASSET:d7@lzIqzSEGe6EYZfKI@qw`
+    * `ASSET:ZAd#6paSRmKhD71YTOVdwg`
+    * `ASSET:9KZ6Nu##R3mSUqQiuk88Zw`
+    * `ASSET:ZAd#6paSRmKhD71YTOVdwg`
+    * `ASSET:QaO5NT1dRV6JcTqfGg7vSA`
+    * `ASSET:KlNfdMfXSCqxbKN4calpYg`
+    * `ASSET:fiv-91PqSbmFsC_6928aPQ`
+
+| Desktop Computers | 4
+|
+    * `ASSET:D1856XHbSVy5NLx9O7HiwQ`
+    * `ASSET:3vJ1a5b0Qlq2Gxp_DzigIg`
+    * `ASSET:BSXUtaIVSi6-R6HVVSlclg`
+    * `ASSET:Bhp7qloKSXuWOrS5avOwuQ`
+
+|======
+=== Location: Corporate Headquarters:Mini-conference room
+[role="table table-striped",options="header",cols="40%,10%,50%asciidoc"]
+|======
+| Asset Type | Count | Asset IDs
+| Keyboard Dell | 1
+|
+    * `ASSET:iVw2M1rNSwaNsmdfsl1lcg`
+
+| Mouse Dell | 1
+|
+    * `ASSET:N@WgV@KeS5WCUQg1BbhPIA`
+
+| Rolling Chair | 6
+|
+    * `ASSET:OJ4oNrP0TNKUVixrHFJU3g`
+    * `ASSET:Bfeb#S9@ROW4eaZXiJFG@A`
+    * `ASSET:czhenT93TGWGL@QXowO2pQ`
+    * `ASSET:P5RRyKXoQGec8NfkPpsF4w`
+    * `ASSET:VlmfdEd2QX6auhKLXlRCxQ`
+    * `ASSET:d8wb#essTsq2PeGdgRAb7w`
+
+|======
+=== Location: Corporate Headquarters:Director's Office
+[role="table table-striped",options="header",cols="40%,10%,50%asciidoc"]
+|======
+| Asset Type | Count | Asset IDs
+| Rolling Chair | 1
+|
+    * `ASSET:Tqo6XdxKRSaT14di8RF6LA`
+
+| Ergonomic Rolling Chair | 1
+|
+    * `ASSET:GQXAGcjZS2uU1jshiEikqA`
+
+| Keyboard Dell | 2
+|
+    * `ASSET:6bg5HNXeQEGyZzxqM6xBNg`
+    * `ASSET:YTzIpNHmSdSTms3rurhIRQ`
+
+| Mouse Dell | 1
+|
+    * `ASSET:EUX6Ag9jQGm4fWgLf5BFYg`
+
+| Dell LCD Monitor | 3
+|
+    * `ASSET:SBCKo@inTsadRUGqcelXFQ`
+    * `ASSET:SBCKo@inTsadRUGqcelXFQ`
+    * `ASSET:S48Pg#ktRQCsjEWuScjbBw`
+
+| Desktop Computers | 3
+|
+    * `ASSET:LDRPoTzHSMCx5a3riU9qGA`
+    * `ASSET:qO#3HlQcTQOW6nBcZVeo1g`
+    * `ASSET:TpnD3cG7QI#t8N#wz15PDA`
+
+|======
+=== Location: Innovation Center:HW Room
+[role="table table-striped",options="header",cols="40%,10%,50%asciidoc"]
+|======
+| Asset Type | Count | Asset IDs
+| Wireless Router | 5
+|
+    * `ASSET:uD0S7NF4Rs2YLtDOZOOFhg`
+    * `ASSET:3hANyNfzRky6aEl#8lNswQ`
+    * `ASSET:zengTWDZTwiO5vg0ehkEAg`
+    * `ASSET:e9UbVW2HTGuun3vST0LXoQ`
+    * `ASSET:SED6alObQFyOWP1DU4eqIw`
+
+| Mouse Dell | 1
+|
+    * `ASSET:x1zdY9DLRhiAb-9cQ6uORw`
+
+|======
+=== Location: Innovation Center:Room-1
+[role="table table-striped",options="header",cols="40%,10%,50%asciidoc"]
+|======
+| Asset Type | Count | Asset IDs
+| Keyboard Dell | 20
+|
+    * `ASSET:DjbEIuNTTJiyQE9Wgc3hAQ`
+    * `ASSET:jJCIc7crQtOsM@qMakN6zg`
+    * `ASSET:vLAVgbV9R9unhHUlZpvr8g`
+    * `ASSET:ehp1#oWTSiaeS2InBqid5g`
+    * `ASSET:ULChDlCvQEa9RenvelNFkQ`
+    * `ASSET:3HWFh4AnSuWdERKmprPxwQ`
+    * `ASSET:SBhD5UOLRdmfzrBJrEzS6A`
+    * `ASSET:H30WKKbqRPymYr2v6RFFHQ`
+    * `ASSET:cr5vp6nITbWNYcP0rGhzFQ`
+    * `ASSET:oXt0BzQSRTCVtIYmlbpWCw`
+    * `ASSET:DjbEIuNTTJiyQE9Wgc3hAQ`
+    * `ASSET:jJCIc7crQtOsM@qMakN6zg`
+    * `ASSET:vLAVgbV9R9unhHUlZpvr8g`
+    * `ASSET:ehp1#oWTSiaeS2InBqid5g`
+    * `ASSET:ULChDlCvQEa9RenvelNFkQ`
+    * `ASSET:3HWFh4AnSuWdERKmprPxwQ`
+    * `ASSET:SBhD5UOLRdmfzrBJrEzS6A`
+    * `ASSET:H30WKKbqRPymYr2v6RFFHQ`
+    * `ASSET:cr5vp6nITbWNYcP0rGhzFQ`
+    * `ASSET:oXt0BzQSRTCVtIYmlbpWCw`
+
+| Dell LCD Monitor | 10
+|
+    * `ASSET:ugZsnIawSzqYErVypmdyNg`
+    * `ASSET:8mEWT@zuQOmqb75DAkPUPQ`
+    * `ASSET:7YFlOOh8SEOkb@Boi#tEhQ`
+    * `ASSET:TySXqhONScCsPSO1n7jW5w`
+    * `ASSET:NQ0qbGfgQXqGPCXqE1I1Wg`
+    * `ASSET:@lVoe0YfSZaEf8#GrQeHxA`
+    * `ASSET:bSuGwjQBQSOhRnmsRK6f9g`
+    * `ASSET:vRrTKt#2TKy1XH1Dl1Ek0w`
+    * `ASSET:SPzSrMOUQhSTOFDiJJdUmw`
+    * `ASSET:OgGUEs#jQUa6V94K9iFc7Q`
+
+| Mouse Dell | 10
+|
+    * `ASSET:ca@pZTYkQBioMHOxbgPkoQ`
+    * `ASSET:ocCVlf2xR56uwMVkRRf0vA`
+    * `ASSET:5qha9WQ#Qxy05fnWXilrQA`
+    * `ASSET:NO3@@bDjQomUeLtZQ2QP@A`
+    * `ASSET:T9iHePyeSemrwVCSQc0RtA`
+    * `ASSET:l2nRfYZ2SKGyi3TI#KahwQ`
+    * `ASSET:E31upJyrRiOe0fIspN8wrw`
+    * `ASSET:z4gLBG@bSdG4fzCFuEgnPA`
+    * `ASSET:j0X1YCSKSIi0ggz#q0ioQQ`
+    * `ASSET:6EFPsnPCRmeXZcF58TjThw`
+
+| Rolling Chair | 10
+|
+    * `ASSET:shYIwG8wQO-Yws9n53jcBg`
+    * `ASSET:TYPZqVCKTgatg2c2M5fnxw`
+    * `ASSET:RD5CeAjaR3avbEmjTn_iBQ`
+    * `ASSET:oNTXrc0jTxyUS7q0RxX57w`
+    * `ASSET:Hx0H4YdCRSGNmkaUCVQEKg`
+    * `ASSET:Y2SY0edmTHWxpCEhK2HmJA`
+    * `ASSET:dI32e1IvTwW1xvZo0cJyuQ`
+    * `ASSET:w6bOfQFBQIGu0o6CwgjMMw`
+    * `ASSET:jW7fO9uBRwuPWmb3FL4mkg`
+    * `ASSET:P3IZQdnHQGmm51rBNLkkHA`
+
+|======
+=== Location: Corporate Headquarters:Lab
+[role="table table-striped",options="header",cols="40%,10%,50%asciidoc"]
+|======
+| Asset Type | Count | Asset IDs
+| Keyboard Dell | 1
+|
+    * `ASSET:WlWtboroRrSohMB10i7fMw`
+
+| Dell LCD Monitor | 2
+|
+    * `ASSET:gd6riCCHRcGh8b1KkIwjng`
+    * `ASSET:l@iLuOLuRn2fbCZWtQap7w`
+
+| Desktop Computers | 2
+|
+    * `ASSET:sVf@1P1FQl6k#qOAjJqIsA`
+    * `ASSET:T6swVJr@StOov@bd1xidoA`
+
+|======
+=== Location: Corporate Headquarters:Reception
+[role="table table-striped",options="header",cols="40%,10%,50%asciidoc"]
+|======
+| Asset Type | Count | Asset IDs
+| Mouse Dell | 1
+|
+    * `ASSET:hzA3wZIzQ7Czbvf9lofISw`
+
+| Dell LCD Monitor | 1
+|
+    * `ASSET:#OM7YYcDSUmNafTsKT#7ew`
+
+| Desktop Computers | 2
+|
+    * `ASSET:Cy90tg#BQkyHTbtCE3J17g`
+    * `ASSET:HJmSKkeDTqulDO1UkBeAHA`
+
+| Keyboard Dell | 1
+|
+    * `ASSET:Loca8PI4RzCRDN8c86de9g`
+
+|======
+=== Location: Innovation Center:HR room
+[role="table table-striped",options="header",cols="40%,10%,50%asciidoc"]
+|======
+| Asset Type | Count | Asset IDs
+| Unknown | 2
+|
+    * `ASSET:2vcqGDanQyeDMPrqGXhdQQ`
+    * `ASSET:xno2cqSZQiiXEN16DhZrZg`
+
+| Dell LCD Monitor | 4
+|
+    * `ASSET:PbyN5LiyTG63Rc1TQKsQkw`
+    * `ASSET:i3DPvXIaRQWKv57Uhhx93Q`
+    * `ASSET:QiGf6ldGSLWagB4YXPobCw`
+    * `ASSET:dyueS@WRRPqZQt1LQsjjww`
+
+| Desktop Computers | 4
+|
+    * `ASSET:yUDAC6OOTL6QsLeszXtA#A`
+    * `ASSET:cLr5VyMmQD#1eMDLhlXPpg`
+    * `ASSET:zP3n9liaSJeoXcEfxpCrwQ`
+    * `ASSET:Y72gOo8rTuuTxbwkt3YMRQ`
+
+|======
+=== Location: Corporate Headquarters:Classroom
+[role="table table-striped",options="header",cols="40%,10%,50%asciidoc"]
+|======
+| Asset Type | Count | Asset IDs
+| Rolling Chair | 8
+|
+    * `ASSET:qEITQWkfQnCSDj6zyqYmrg`
+    * `ASSET:1DcnhadgSxKMHJN4t@CxOA`
+    * `ASSET:Z0kISTeFSG6T12Ntpn32fw`
+    * `ASSET:FGzcESX8R72l5hemzfTNVg`
+    * `ASSET:1DcnhadgSxKMHJN4t@CxOA`
+    * `ASSET:NzFiylBWQpmDl4pKaPl9nQ`
+    * `ASSET:rwuobpSLTgKLlOe9bIY5mw`
+    * `ASSET:MC#oLSBhR7Ghx21NSGYVsg`
+
+| Training Chair | 16
+|
+    * `ASSET:q9MIDEKOS3CcIB#xBxd4xA`
+    * `ASSET:Fq33vRxVRiqd8f6MfrzGQQ`
+    * `ASSET:mt@L6MUXRVyqDziJeVzVUg`
+    * `ASSET:ZSddmx1vQaCmJXcUZ1@jJw`
+    * `ASSET:e2UhBl4FR46MWUjDih5zZA`
+    * `ASSET:iZEDNWS#S02NJNA2AOJzmw`
+    * `ASSET:rLy9SyZOT@aTY#wUxVAtVg`
+    * `ASSET:LWP@FC4jTYuJoM63Gcqyvw`
+    * `ASSET:gUTf3ZcnSmeL6OCv3MFfow`
+    * `ASSET:DFFI4PSHQr6I1tqebNhyTA`
+    * `ASSET:3MexAQ3pSFGCIUfVceyP0A`
+    * `ASSET:LHpAn3NJTRCTZjd7b1wIlA`
+    * `ASSET:tTVKkK@MSdWsGPUu984HwA`
+    * `ASSET:JiIwnQprSSmJ9ZsOWf9IZA`
+    * `ASSET:hBu1nRvySjibIvhtTLFYWg`
+    * `ASSET:HfN21HfiSEOUZWYVDBu6Wg`
+
+|======
+=== Location: Innovation center:storage
+[role="table table-striped",options="header",cols="40%,10%,50%asciidoc"]
+|======
+| Asset Type | Count | Asset IDs
+| Keyboard Dell | 10
+|
+    * `ASSET:F36kadG2SbCm2d1@XPcuCQ`
+    * `ASSET:EAA@vIMmQd2uyqip28RltA`
+    * `ASSET:3F767t4iSn#CvfMQB47Ggg`
+    * `ASSET:TOmlnqJhQcK@n1qTBa#s#g`
+    * `ASSET:4E1zB7i3TuW96Fc1RkBHMg`
+    * `ASSET:4E1zB7i3TuW96Fc1RkBHMg`
+    * `ASSET:ycfHbdaISFC@gTd74fSWNA`
+    * `ASSET:CSQJ4x6RSKmBIDhjF7WUKQ`
+    * `ASSET:FwUIXqFSQ46dCRMdCgngeQ`
+    * `ASSET:1Pn0ZuI5QlWgcvPvvNDzPA`
+
+| Philips Monitor | 1
+|
+    * `ASSET:eL3DQEUHQNaq45Abz2Nn1A`
+
+| HP Keyboard | 1
+|
+    * `ASSET:J0npzpofQmmzO1PO0Wz9EQ`
+
+| Mouse Dell | 10
+|
+    * `ASSET:7CwJGk@lTjeWXZuhhM9mnw`
+    * `ASSET:qLEho9hNQmCyzZ7LTOHmPQ`
+    * `ASSET:tT7@ijDVQ0Kg6@PXf7m2xQ`
+    * `ASSET:tT7@ijDVQ0Kg6@PXf7m2xQ`
+    * `ASSET:rMoGB03rR8WmmgKxyFfrXw`
+    * `ASSET:jFIGPOynSfOlgHdfkXp8Hg`
+    * `ASSET:3DdbPFNZSFSM69nqdSRuCg`
+    * `ASSET:MgFL@zekQCaTo9Yz2ItZYQ`
+    * `ASSET:te3wYKYxTKaC3sfu#90@zg`
+    * `ASSET:wGrsBGMUQMqiMs80wsz79w`
+
+| Logitech Keyboard | 5
+|
+    * `ASSET:OQ8gzOb6R#mCDCVFwg1@sA`
+    * `ASSET:0B50t9fkQ2q9V4zRtKXQSQ`
+    * `ASSET:5@8sq1TETVa6g90FkgxQqg`
+    * `ASSET:C6RCc9n0QZqXPRot8u#nMA`
+    * `ASSET:qv0KVcs0Rj#sVNzEOSiCtg`
+
+| USB Printer | 1
+|
+    * `ASSET:i20f798RSryQscgam2Jtgw`
+
+| HP Mouse | 2
+|
+    * `ASSET:#5ar7hPnTpaEuG7R4rboBA`
+    * `ASSET:APhTK9AFQWijlPxljMeM#w`
+
+| Logitech Mouse | 1
+|
+    * `ASSET:zbJNbig2S@WVGGXYR7b57A`
+
+| Dell LCD Monitor | 2
+|
+    * `ASSET:PNcQQw9vRtGrteHQZwWSaw`
+    * `ASSET:ozsrAvD@SvaU@IpoH94zZw`
+
+| Desktop Computers | 5
+|
+    * `ASSET:dtXyXF31QL#TfXX0nbR0Kg`
+    * `ASSET:xVp6yWgUTbmBnI8v4z#sbg`
+    * `ASSET:VEaPcJgyQROCTbYpgJiNbA`
+    * `ASSET:sVf@1P1FQl6k#qOAjJqIsA`
+    * `ASSET:BhWEaFXQQESli1ODfEAdMg`
+
+|======
+=== Location: Innovation center:Conference Room
+[role="table table-striped",options="header",cols="40%,10%,50%asciidoc"]
+|======
+| Asset Type | Count | Asset IDs
+| Rolling Chair | 1
+|
+    * `ASSET:GR0JZTUgSeyMLwAtMlXH6Q`
+
+| Keyboard Dell | 5
+|
+    * `ASSET:5p#zMnTxSCCGQZKRCSLyLg`
+    * `ASSET:dF4KkAPrTHauCUh5z_V9PQ`
+    * `ASSET:dX@Y7QadSmqQi3zLxWigLA`
+    * `ASSET:IZEfb6IZRrK0MKEEAj#xnw`
+    * `ASSET:jPq7HTOqS@Own#0aazZ#tg`
+
+| Netgear wireless router | 4
+|
+    * `ASSET:VDMdydl0Tl2@OeTqU2JqQQ`
+    * `ASSET:ox73Z6FnQ@u8o@3a1QFPLg`
+    * `ASSET:05skGnugRKyO3zjLSsY61A`
+    * `ASSET:wECVyTLvRbiO0myNig6EKg`
+
+| Mouse Dell | 5
+|
+    * `ASSET:Py51gZCzTTGMYFK1WpuPyw`
+    * `ASSET:riyQ1dV9THWbIdQ0X4Z@ig`
+    * `ASSET:4D#ehrShRCOFMKRbSiRqoA`
+    * `ASSET:jxwl6UpJQPOp5ND6-uTydw`
+    * `ASSET:QSsdH@smS0GI2gW1KsMBoA`
+
+| Unknown | 5
+|
+    * `ASSET:50s2AEGoQkyb5LJcdXLvkQ`
+    * `ASSET:zR7kPkZ9Rie5KTx@#Fao8Q`
+    * `ASSET:VRL3pNLyTxyYXsiSqG3JFw`
+    * `ASSET:TWhwxCuJQRWYjXhmi@4#HA`
+    * `ASSET:1AxJ57ONSnehDMKtSll9sg`
+
+| Dell LCD Monitor | 5
+|
+    * `ASSET:qIp@HNBRR8iv#2qd@6BIxg`
+    * `ASSET:AOFtSbbRT3yhkXsjcB485g`
+    * `ASSET:SUzQX4uMQGWd7cpelQ5GEg`
+    * `ASSET:eeB96Hy5QzSY@TkX15ud1g`
+    * `ASSET:9mRqxUX6Q#OmqZ@@PfyG1w`
+
+| Desktop Computers | 6
+|
+    * `ASSET:so5@2#RfS4#qEoMRvvq4sA`
+    * `ASSET:ebUjRwwCQ5a8W1YwmqsntQ`
+    * `ASSET:ljIuo0kRSHq4g4G-k6Gy8A`
+    * `ASSET:ljIuo0kRSHq4g4G-k6Gy8A`
+    * `ASSET:zhBv6bomTfWDPas1nB2dKA`
+    * `ASSET:h4I8wZ#WQkGknB17cKnz1w`
+
+|======
+== Asset Changes
+=== 11 Apr '15
+*Progress*:
+
+progress::42[color="yellow", caption="6 / 14 Locations"]
+*Missed Locations*: Innovation Center:Entrance hall, Innovation center:Room-2, Innovation center:storage, Innovation Center:HW Room, Innovation Center:Room-1, Innovation center:Class room mini, Innovation Center:HR room, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | Rolling Chair [`ASSET:tze784RQQdylYGxP8aekkQ`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Logitech Keyboard [`ASSET:5@8sq1TETVa6g90FkgxQqg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Small Rolling Chair [`ASSET:xOXoyjChRXiSy8So4qr5gg`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:j#mWUbZfTBa9rW4NKjT6WA`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Mouse Dell [`ASSET:N@WgV@KeS5WCUQg1BbhPIA`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Keyboard Dell [`ASSET:TOmlnqJhQcK@n1qTBa#s#g`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Ergonomic Rolling Chair [`ASSET:GQXAGcjZS2uU1jshiEikqA`] | Corporate Headquarters:Director's Office
+| [green]#New Asset# | Desktop Computers [`ASSET:3ivwXf1rTdOZD47RWjRp0g`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:U65aKiOYQMqW2L0kOr5lHA`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:SPePUH#uT@St88PVoYzqkw`] | Corporate Headquarters:Reception
+| [green]#New Asset# | Mouse Dell [`ASSET:gl2IqghoQQC4L6C7bBxNEA`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Desktop Computers [`ASSET:T6swVJr@StOov@bd1xidoA`] | Corporate Headquarters:Director's Office
+| [green]#New Asset# | Logitech Keyboard [`ASSET:OQ8gzOb6R#mCDCVFwg1@sA`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Keyboard Dell [`ASSET:@0uj1acJRZ#IC8mt7T4I9A`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:sVf@1P1FQl6k#qOAjJqIsA`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:KM5N7D14R3S7SotD8UaSBA`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Rolling Chair [`ASSET:3U9UKI2gT@addy58jD2iQQ`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Rolling Chair [`ASSET:d8wb#essTsq2PeGdgRAb7w`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Rolling Chair [`ASSET:clZaPSY7RnShPxoGeWLGzA`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Mouse Dell [`ASSET:EUX6Ag9jQGm4fWgLf5BFYg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:HJmSKkeDTqulDO1UkBeAHA`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Rolling Chair [`ASSET:UfEqJxZrTWSHEypkjrXShw`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:AyGRcuudSdKdU3u@ZW4c#A`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Mouse Dell [`ASSET:#S54@D6QQ7ysDpJi#XLpiw`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Small Rolling Chair [`ASSET:Ncbn4@UkRSaJDg9qMX5Vpg`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Desktop Computers [`ASSET:b@Ppu5GnSWSirVEjcGtm7g`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Keyboard Dell [`ASSET:YTzIpNHmSdSTms3rurhIRQ`] | Corporate Headquarters:Director's Office
+| [green]#New Asset# | Rolling Chair [`ASSET:56jCK@raSBaUpuN7gq1ELA`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:BDQcXJ7IQNmiUvwnWAxJ1w`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:xVp6yWgUTbmBnI8v4z#sbg`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Mouse Dell [`ASSET:7CwJGk@lTjeWXZuhhM9mnw`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Desktop Computers [`ASSET:@vdDczTRSqe3O9yeKe9IQQ`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:rH3hvMnDSG6kLsEcHllkSQ`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Rolling Chair [`ASSET:OJ4oNrP0TNKUVixrHFJU3g`] | Corporate Headquarters:Mini-conference room
+| [green]#New Asset# | Logitech Mouse [`ASSET:0p8PvPIRQXqTWmOu0HJ7vQ`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Rolling Chair [`ASSET:fdNi0UhqQiGGv1LfLI124w`] | Corporate Headquarters:Reception
+| [green]#New Asset# | Mouse Dell [`ASSET:4D#ehrShRCOFMKRbSiRqoA`] | Corporate Headquarters:Director's Office
+| [green]#New Asset# | Keyboard Dell [`ASSET:ycfHbdaISFC@gTd74fSWNA`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:JweQzcYbRP#8PhQbYuoqOA`] | Corporate Headquarters:Lab
+| [green]#New Asset# | RAPOO Mouse [`ASSET:wczqLmC4RZqRH9TC3ri7TA`] | Corporate Headquarters:Reception
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:VfYdLzHJSiix7uj@ZgXZ@g`] | Corporate Headquarters:Reception
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:ozsrAvD@SvaU@IpoH94zZw`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Rolling Chair [`ASSET:OgbqdD7ZQ2#NCBPM31zByQ`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Small Rolling Chair [`ASSET:T0iOsv95QUigEVeTQh3sXQ`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Mouse Dell [`ASSET:tT7@ijDVQ0Kg6@PXf7m2xQ`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Ergonomic Rolling Chair [`ASSET:VuutSsi6RIaeIPuSd1YDIA`] | Corporate Headquarters:Reception
+| [green]#New Asset# | HP Keyboard [`ASSET:J0npzpofQmmzO1PO0Wz9EQ`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Mouse Dell [`ASSET:Rw4P7YyMSqi3vvFzBEoYng`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Rolling Chair [`ASSET:qsD1TQ9OSJKdu1GJ5PneWw`] | Corporate Headquarters:Director's Office
+| [green]#New Asset# | Desktop Computers [`ASSET:Cy90tg#BQkyHTbtCE3J17g`] | Corporate Headquarters:Reception
+| [green]#New Asset# | Rolling Chair [`ASSET:P5RRyKXoQGec8NfkPpsF4w`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | HP Mouse [`ASSET:#5ar7hPnTpaEuG7R4rboBA`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Mouse Dell [`ASSET:Ui0w2nStT12mllnaRebETw`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:PWciKGR4Rwqh63ixAolKnA`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Logitech Keyboard [`ASSET:0B50t9fkQ2q9V4zRtKXQSQ`] | Corporate Headquarters:Lab
+| [green]#New Asset# | RAPOO Keyboard [`ASSET:wtwKoTuvSYWcLxvqBr#urw`] | Corporate Headquarters:Reception
+| [green]#New Asset# | Desktop Computers [`ASSET:VEaPcJgyQROCTbYpgJiNbA`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:dtXyXF31QL#TfXX0nbR0Kg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Philips Monitor [`ASSET:GbzjXLUyTfCn15VoRDiS8A`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:9h6RsWrnSqml9UukSEGimQ`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Small Rolling Chair [`ASSET:jCSawTKXRKqqUFgb2gHcpQ`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Mouse Dell [`ASSET:FWMyk255SOW7Tgsqn@GYUA`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:C8ecLTiyS8Ws9gyAjN4EcQ`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Mouse Dell [`ASSET:3DdbPFNZSFSM69nqdSRuCg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | RAPOO Keyboard [`ASSET:Yq9ucSstTkeILoZobYfudg`] | Corporate Headquarters:Reception
+| [green]#New Asset# | Rolling Chair [`ASSET:keQqKRsbQfSZ3NPPTBDxLg`] | Corporate Headquarters:Director's Office
+| [green]#New Asset# | Keyboard Dell [`ASSET:EAA@vIMmQd2uyqip28RltA`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Keyboard Dell [`ASSET:n@Izu6QaTw6J6snBvYh7Uw`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Keyboard Dell [`ASSET:IY7iMg9DT6aKC@YkVagV2g`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:TWhp5wqpRf6QuEHy3jV8HA`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Logitech Keyboard [`ASSET:C6RCc9n0QZqXPRot8u#nMA`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Desktop Computers [`ASSET:tvfkuPL0TMym#bfVK#l8Uw`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Small Rolling Chair [`ASSET:fTUDpYyQQ9mJtPydk2gevg`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:ALnInskgQtyP24JC4T@zrw`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Keyboard Dell [`ASSET:i#XzjxWoTDShudIhYJydrQ`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Rolling Chair [`ASSET:IWONuEUoTwCZSU8cgDn#dQ`] | Corporate Headquarters:Director's Office
+| [green]#New Asset# | HP Mouse [`ASSET:APhTK9AFQWijlPxljMeM#w`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Keyboard Dell [`ASSET:lDScZ9mmQjen62bwnqbIaA`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Desktop Computers [`ASSET:LDRPoTzHSMCx5a3riU9qGA`] | Corporate Headquarters:Director's Office
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:KlNfdMfXSCqxbKN4calpYg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:S48Pg#ktRQCsjEWuScjbBw`] | Corporate Headquarters:Director's Office
+| [green]#New Asset# | Small Rolling Chair [`ASSET:2bUOkFqkTBCmKx9UdRrVVg`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Desktop Computers [`ASSET:t5U44V56QcKEisY#8j6@IQ`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Logitech Mouse [`ASSET:zbJNbig2S@WVGGXYR7b57A`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:27bdbFBIQ0acCRC0qz5HTQ`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Samsung LCD Monitor [`ASSET:hHJdBY@eRkWXnB@HRQhtrQ`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:#OM7YYcDSUmNafTsKT#7ew`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:BhWEaFXQQESli1ODfEAdMg`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Rolling Chair [`ASSET:qjIW0mtATfqJ4oL8vw#oCA`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:0QcoLeoJQ3asi4yhu#FySg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:Mgc8AW7xSTuoECoXFoQ#sg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Mouse Dell [`ASSET:8@VE6yqPTwWsxdROvBrMUw`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:53#i@S3BTuSjMIyhgOsImw`] | Corporate Headquarters:Reception
+| [green]#New Asset# | Desktop Computers [`ASSET:mSc4rgVPTuaIF862QH3igw`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Keyboard Dell [`ASSET:1Pn0ZuI5QlWgcvPvvNDzPA`] | Corporate Headquarters:Director's Office
+| [green]#New Asset# | Ergonomic Rolling Chair [`ASSET:683LIkNlSUuV2lPOfapW3Q`] | Corporate Headquarters:Director's Office
+| [green]#New Asset# | Keyboard Dell [`ASSET:GhvkNUJTS8Sw7tuaHXLcFg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Keyboard Dell [`ASSET:hxsskR@0RZWsYsIYe5j4GA`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:iEPxrQmnSMq5QKD8fhnUfw`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:AB@Rpt0jQueWJbFMsG7lPA`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:0PhmI93LRYe@u9coGRwoHw`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Keyboard Dell [`ASSET:4E1zB7i3TuW96Fc1RkBHMg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:a6E2e3qYSYWIODVuhSUBIQ`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:KlgjCN2zQDqYvzkWN4VqGw`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Mouse Dell [`ASSET:fgoqyvYhRyKU8MaO9GlaOg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Small Rolling Chair [`ASSET:#J4W9eDNTE#uqPXl#FAHOQ`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Desktop Computers [`ASSET:#CnuNyFCSg#VuKP0oWbRdg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Logitech Keyboard [`ASSET:qv0KVcs0Rj#sVNzEOSiCtg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Mouse Dell [`ASSET:evcMdIhsS9SSn2chQn0Chg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Mouse Dell [`ASSET:nPciHaOlSBaHYCuqMh0YQA`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Mouse Dell [`ASSET:aPRITG8ZRgqpC2hEK2sNSQ`] | Corporate Headquarters:Director's Office
+| [green]#New Asset# | Mouse Dell [`ASSET:qLEho9hNQmCyzZ7LTOHmPQ`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:uCl30VPbSo#62TzpZrjbFQ`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:pTZ#f2woS5qvtd86fpaRwA`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:gd6riCCHRcGh8b1KkIwjng`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Mouse Dell [`ASSET:jFIGPOynSfOlgHdfkXp8Hg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Small Rolling Chair [`ASSET:WLET2HoTRjix7EXGuAD##Q`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Keyboard Dell [`ASSET:3F767t4iSn#CvfMQB47Ggg`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Mouse Dell [`ASSET:fUsXMUZDS12kQFXmcBJZ0A`] | Corporate Headquarters:Director's Office
+| [green]#New Asset# | Rolling Chair [`ASSET:xDoo19zsSr2jLqE4QAMSHQ`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Rolling Chair [`ASSET:e8xiKCZZSeCTMCei#Bs2sg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Keyboard Dell [`ASSET:6bg5HNXeQEGyZzxqM6xBNg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:KxyfoK8AT6qlSKaWXEYFcA`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:PNcQQw9vRtGrteHQZwWSaw`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:ZB2yPSDGSpicnhNweVkSgA`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Rolling Chair [`ASSET:1#Voqt7YQ@qzRQsMD39bMQ`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Keyboard Dell [`ASSET:FwUIXqFSQ46dCRMdCgngeQ`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:0@MM#GHoRNaywJNAktt1PA`] | Corporate Headquarters:Workplace
+|======
+
+=== 18 Apr '15
+*Progress*:
+
+progress::42[color="yellow", caption="6 / 14 Locations"]
+*Missed Locations*: Innovation Center:Entrance hall, Innovation center:Room-2, Innovation center:storage, Innovation Center:HW Room, Innovation Center:Room-1, Innovation center:Class room mini, Innovation Center:HR room, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | Desktop Computers [`ASSET:slbdSldAS9aTzq8136tCFg`] | Corporate Headquarters:Mini-conference room
+| [green]#New Asset# | Rolling Chair [`ASSET:Bfeb#S9@ROW4eaZXiJFG@A`] | Corporate Headquarters:Reception
+| [green]#New Asset# | Mouse Dell [`ASSET:nlMek3r9QNem70zkFaEalA`] | Corporate Headquarters:Classroom
+| [green]#New Asset# | Keyboard Dell [`ASSET:WlWtboroRrSohMB10i7fMw`] | Corporate Headquarters:Mini-conference room
+| [green]#New Asset# | Unknown [`ASSET:XknQTvlKRD#k6bfqaYHJbg`] | Corporate Headquarters:Mini-conference room
+| [green]#New Asset# | Desktop Computers [`ASSET:NxFpU2GPRMSiFiSvVgMBSg`] | Corporate Headquarters:Classroom
+| [green]#New Asset# | LCD Projector [`ASSET:xlTk75o#QDe@IJ275AYDQw`] | Corporate Headquarters:Classroom
+| [green]#New Asset# | Mouse Dell [`ASSET:MgFL@zekQCaTo9Yz2ItZYQ`] | Corporate Headquarters:Mini-conference room
+| [green]#New Asset# | Logitech Keyboard [`ASSET:t2MxF50zQQGw4xh@1rdrNA`] | Corporate Headquarters:Classroom
+| [green]#New Asset# | Desktop Computers [`ASSET:qjhBSsfARBGfVdSR2hc8pA`] | Corporate Headquarters:Director's Office
+| [green]#New Asset# | Desktop Computers [`ASSET:qO#3HlQcTQOW6nBcZVeo1g`] | Corporate Headquarters:Director's Office
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:qsD1TQ9OSJKdu1GJ5PneWw`] | Corporate Headquarters:Director's Office to Corporate Headquarters:Workplace
+|======
+
+=== 02 May '15
+*Progress*:
+
+progress::42[color="yellow", caption="6 / 14 Locations"]
+*Missed Locations*: Innovation Center:Entrance hall, Innovation center:Room-2, Innovation center:storage, Innovation Center:HW Room, Innovation Center:Room-1, Innovation center:Class room mini, Innovation Center:HR room, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | Rolling Chair [`ASSET:1jN9wR#TR3aKD#VWIpVK7w`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Lexmark Printer [`ASSET:IkhgrBFlSFS4SWybOWvH0g`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:l@iLuOLuRn2fbCZWtQap7w`] | Corporate Headquarters:Director's Office
+| [green]#New Asset# | Desktop Computers [`ASSET:y5zMJaeCR52eGyAdSkHC4g`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Rolling Chair [`ASSET:adgEXEtJSwu@bTTQ9OBE4Q`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:KfICkE3XSbS@H0dUQI6gKw`] | Corporate Headquarters:Director's Office
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:czhenT93TGWGL@QXowO2pQ`] | Corporate Headquarters:Mini-conference room to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:#J4W9eDNTE#uqPXl#FAHOQ`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:e8xiKCZZSeCTMCei#Bs2sg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+|======
+
+=== 23 May '15
+*Progress*:
+
+progress::42[color="yellow", caption="6 / 14 Locations"]
+*Missed Locations*: Innovation Center:Entrance hall, Innovation center:Room-2, Innovation center:storage, Innovation Center:HW Room, Innovation Center:Room-1, Innovation center:Class room mini, Innovation Center:HR room, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | Casio Calculator [`ASSET:nxjdDOO3Tk6MW6TV@HpBhg`] | Corporate Headquarters:Director's Office
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:@0uj1acJRZ#IC8mt7T4I9A`] | Corporate Headquarters:Workplace to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:WlWtboroRrSohMB10i7fMw`] | Corporate Headquarters:Mini-conference room to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Logitech Keyboard [`ASSET:t2MxF50zQQGw4xh@1rdrNA`] | Corporate Headquarters:Classroom to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:T0iOsv95QUigEVeTQh3sXQ`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:9h6RsWrnSqml9UukSEGimQ`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | RAPOO Keyboard [`ASSET:Yq9ucSstTkeILoZobYfudg`] | Corporate Headquarters:Reception to Corporate Headquarters:Classroom
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:BhWEaFXQQESli1ODfEAdMg`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Logitech Keyboard [`ASSET:qv0KVcs0Rj#sVNzEOSiCtg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Reception
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:e8xiKCZZSeCTMCei#Bs2sg`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:1#Voqt7YQ@qzRQsMD39bMQ`] | Corporate Headquarters:Workplace to Corporate Headquarters:Director's Office
+|======
+
+=== 30 May '15
+*Progress*:
+
+progress::42[color="yellow", caption="6 / 14 Locations"]
+*Missed Locations*: Innovation Center:Entrance hall, Innovation center:Room-2, Innovation center:storage, Innovation Center:HW Room, Innovation Center:Room-1, Innovation center:Class room mini, Innovation Center:HR room, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [red]#Missing Asset# | Casio Calculator [`ASSET:nxjdDOO3Tk6MW6TV@HpBhg`] | Corporate Headquarters:Director's Office
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:@vdDczTRSqe3O9yeKe9IQQ`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:9h6RsWrnSqml9UukSEGimQ`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+|======
+
+=== 05 Jun '15
+*Progress*:
+
+progress::71[color="lime", caption="10 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:storage, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:QiGf6ldGSLWagB4YXPobCw`] | Innovation Center:HW Room
+| [green]#New Asset# | Mouse Dell [`ASSET:2UCWxXluQc2NbJRV_XOvag`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Desktop Computers [`ASSET:lFnUZFKfS7iQLD8L4F5a9A`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Rolling Chair [`ASSET:b0dZnVR_SjqXttKVgdwGXA`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Desktop Computers [`ASSET:D1856XHbSVy5NLx9O7HiwQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Netgear wireless router [`ASSET:yXtSlOS1Saqfeuyz9dQ5Bw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Desktop Computers [`ASSET:ljIuo0kRSHq4g4G-k6Gy8A`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:0qevAf67QD2MfHBUvkv72w`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Ergonomic Rolling Chair [`ASSET:uHMu9ICGRV#gNah@WdA#Qg`] | Innovation Center:HR room
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:QaO5NT1dRV6JcTqfGg7vSA`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Desktop Computers [`ASSET:7veeimgGRb20JYYPndjMXA`] | Innovation Center:HW Room
+| [green]#New Asset# | Keyboard Dell [`ASSET:ZaTwOM@WTMGpunxPmJ53yQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Desktop Computers [`ASSET:H_Td9XTBTMezDBeag9blvg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Wireless Router [`ASSET:NtV1afB1RuWHryVZqcmyyQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Rolling Chair [`ASSET:TYPZqVCKTgatg2c2M5fnxw`] | Innovation Center:HW Room
+| [green]#New Asset# | Netgear wireless router [`ASSET:wECVyTLvRbiO0myNig6EKg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Rolling Chair [`ASSET:RD5CeAjaR3avbEmjTn_iBQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Wireless Router [`ASSET:y@vPPwXjR0ewRIoALyilmQ`] | Innovation Center:HW Room
+| [green]#New Asset# | Keyboard Dell [`ASSET:IZEfb6IZRrK0MKEEAj#xnw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Ergonomic Rolling Chair [`ASSET:oYjLEOh_TnyU-SlAw1Xh7A`] | Innovation Center:HR room
+| [green]#New Asset# | Netgear wireless router [`ASSET:05skGnugRKyO3zjLSsY61A`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:rjVJSH0aSuuNrwtQ7yETwA`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Ergonomic Rolling Chair [`ASSET:rK8hTqUsTQ2NU-2YJXRh0A`] | Innovation Center:HR room
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:hcuiCMvSSnmjuirH5uhNeA`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:fiv-91PqSbmFsC_6928aPQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Mouse Dell [`ASSET:JAhXzjVgTb2TPENEahMLhw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Rolling Chair [`ASSET:P9o1Y1PsSk#sQcfknn2n7w`] | Innovation Center:Room-1
+| [green]#New Asset# | Desktop Computers [`ASSET:ebUjRwwCQ5a8W1YwmqsntQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | USB Printer [`ASSET:i20f798RSryQscgam2Jtgw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Desktop Computers [`ASSET:f9PCXgHRSyCl2prxQSmF9g`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Wireless Router [`ASSET:zkIueUpRR1yljLmyU9NUTA`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Mouse Dell [`ASSET:rMoGB03rR8WmmgKxyFfrXw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Rolling Chair [`ASSET:oNTXrc0jTxyUS7q0RxX57w`] | Innovation Center:HW Room
+| [green]#New Asset# | Rolling Chair [`ASSET:dI32e1IvTwW1xvZo0cJyuQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Keyboard Dell [`ASSET:8liZXj3vR@2ce8ecgmDJaQ`] | Innovation Center:HR room
+| [green]#New Asset# | Netgear wireless router [`ASSET:VDMdydl0Tl2@OeTqU2JqQQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Wireless Router [`ASSET:yeGDLw4kSICvax@gOxyb4Q`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Keyboard Dell [`ASSET:on7_PZ1eT7GFvOkNMYglQg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:9mRqxUX6Q#OmqZ@@PfyG1w`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Keyboard Dell [`ASSET:GoTm473uQLq47ywKVYmPYg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:d7@lzIqzSEGe6EYZfKI@qw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Keyboard Dell [`ASSET:jPq7HTOqS@Own#0aazZ#tg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Mouse Dell [`ASSET:te3wYKYxTKaC3sfu#90@zg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Rolling Chair [`ASSET:uPdzWwWGSPSKVM3NFSMRMA`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Rolling Chair [`ASSET:w6bOfQFBQIGu0o6CwgjMMw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Desktop Computers [`ASSET:3vJ1a5b0Qlq2Gxp_DzigIg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Wireless Router [`ASSET:DhD9M#YoQ0SkDrH4HVWH#w`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Keyboard Dell [`ASSET:0T73yg6MRiiNGww7Q8ZePw`] | Innovation Center:HW Room
+| [green]#New Asset# | Rolling Chair [`ASSET:7VY86Ah-S82PcTzpkc-svg`] | Innovation Center:Room-1
+| [green]#New Asset# | Mouse Dell [`ASSET:SPqUA1SMR9ayt10TWUG57g`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Rolling Chair [`ASSET:NQb7PmUNTFSU9KSPEcDAhg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Mouse Dell [`ASSET:x1zdY9DLRhiAb-9cQ6uORw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Mouse Dell [`ASSET:GOF71KjsRSaCwDX1Y49q7Q`] | Innovation Center:HW Room
+| [green]#New Asset# | Desktop Computers [`ASSET:h4I8wZ#WQkGknB17cKnz1w`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Rolling Chair [`ASSET:o1pG6D7jQEC0k-eaYERDEg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Netgear wireless router [`ASSET:GJ7tp9#yQYeSXELdnEuJow`] | Innovation Center:HW Room
+| [green]#New Asset# | Wireless Router [`ASSET:lC4EBwR_QR-4Do9gn004Yw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Rolling Chair [`ASSET:shYIwG8wQO-Yws9n53jcBg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Keyboard Dell [`ASSET:3TibaQjeSH68L73eTxrTQQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Keyboard Dell [`ASSET:Faw68LFkQNSc4TJr6ZHQ8A`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Desktop Computers [`ASSET:BSXUtaIVSi6-R6HVVSlclg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Mouse Dell [`ASSET:1F#K2LuNRfOn1#Tn075kIQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Mouse Dell [`ASSET:jxwl6UpJQPOp5ND6-uTydw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:swLknpuRS6SMcc431JQFKg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:nh3tc4pXTOSgXLpmNAl7mA`] | Innovation Center:HW Room
+| [green]#New Asset# | Desktop Computers [`ASSET:Bhp7qloKSXuWOrS5avOwuQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:eeB96Hy5QzSY@TkX15ud1g`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:9KZ6Nu##R3mSUqQiuk88Zw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Mouse Dell [`ASSET:91dI70qsSWGro2pyhObneg`] | Innovation Center:HW Room
+| [green]#New Asset# | Rolling Chair [`ASSET:Y3Of@Bg6RS2IcxdXHnPYYg`] | Innovation Center:Room-1
+| [green]#New Asset# | Ergonomic Rolling Chair [`ASSET:Dkujff4wTIWU--aUmyqMJQ`] | Innovation Center:HR room
+| [green]#New Asset# | Mouse Dell [`ASSET:eRqJv5E9TQ6orBYz8WYviw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Keyboard Dell [`ASSET:MrvfqO4mS0yUegKajpgUcg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Keyboard Dell [`ASSET:7XwOcroTRjisSPmzdBqQPA`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:AOFtSbbRT3yhkXsjcB485g`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Ergonomic Rolling Chair [`ASSET:jhgopN9dRSesiu2kDi5YIw`] | Innovation Center:HR room
+| [green]#New Asset# | Keyboard Dell [`ASSET:jBdWRUHPT02tXq1XUOuNGA`] | Innovation Center:HW Room
+| [green]#New Asset# | Wireless Router [`ASSET:Pqjtp@TjQzmRgKyJEaYEGQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Keyboard Dell [`ASSET:dF4KkAPrTHauCUh5z_V9PQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Rolling Chair [`ASSET:Z7Nf5cuzRPO3kG5Oo78LyA`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Rolling Chair [`ASSET:7PcIXl0VR8G1jIU6Zp6b1Q`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Ergonomic Rolling Chair [`ASSET:c_64zYApS1ag-NGwHo0MxA`] | Innovation Center:HR room
+| [green]#New Asset# | Desktop Computers [`ASSET:A7ULhlOxQqWL2d2kupp6YQ`] | Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:qsD1TQ9OSJKdu1GJ5PneWw`] | Corporate Headquarters:Workplace to Corporate Headquarters:Reception
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:#J4W9eDNTE#uqPXl#FAHOQ`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+|======
+
+=== 13 Jun '15
+*Progress*:
+
+progress::71[color="lime", caption="10 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:storage, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:j#mWUbZfTBa9rW4NKjT6WA`] | Corporate Headquarters:Lab to Corporate Headquarters:Reception
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:o1pG6D7jQEC0k-eaYERDEg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:P9o1Y1PsSk#sQcfknn2n7w`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:dtXyXF31QL#TfXX0nbR0Kg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Reception
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:TYPZqVCKTgatg2c2M5fnxw`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:KlNfdMfXSCqxbKN4calpYg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:3DdbPFNZSFSM69nqdSRuCg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Reception
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:ycfHbdaISFC@gTd74fSWNA`] | Corporate Headquarters:Workplace to Corporate Headquarters:Reception
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:shYIwG8wQO-Yws9n53jcBg`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+|======
+
+=== 20 Jun '15
+*Progress*:
+
+progress::71[color="lime", caption="10 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:storage, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Y3Of@Bg6RS2IcxdXHnPYYg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+|======
+
+=== 27 Jun '15
+*Progress*:
+
+progress::71[color="lime", caption="10 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:storage, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | Mouse Dell [`ASSET:0FR-krKAQwumgj3HvS2bqw`] | Corporate Headquarters:Reception
+| [green]#New Asset# | Mouse Dell [`ASSET:GS8XKoPsRSqs9Q0aZf7nLg`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Rolling Chair [`ASSET:fdNi0UhqQiGGv1LfLI124w`] | Corporate Headquarters:Reception
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:o1pG6D7jQEC0k-eaYERDEg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:IWONuEUoTwCZSU8cgDn#dQ`] | Corporate Headquarters:Director's Office to Corporate Headquarters:Workplace
+|======
+
+=== 04 Jul '15
+*Progress*:
+
+progress::71[color="lime", caption="10 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:storage, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:TYPZqVCKTgatg2c2M5fnxw`] | Innovation Center:Entrance hall to Innovation Center:HR room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7VY86Ah-S82PcTzpkc-svg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+|======
+
+=== 11 Jul '15
+*Progress*:
+
+progress::71[color="lime", caption="10 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:storage, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | Mouse Dell [`ASSET:lDUJ0yirQ7qPPEs@H3YcKg`] | Corporate Headquarters:Classroom
+| [red]#Missing Asset# | Mouse Dell [`ASSET:nlMek3r9QNem70zkFaEalA`] | Corporate Headquarters:Classroom
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:o1pG6D7jQEC0k-eaYERDEg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7VY86Ah-S82PcTzpkc-svg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:P9o1Y1PsSk#sQcfknn2n7w`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:TYPZqVCKTgatg2c2M5fnxw`] | Innovation Center:HR room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:dI32e1IvTwW1xvZo0cJyuQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:2bUOkFqkTBCmKx9UdRrVVg`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+|======
+
+=== 17 Jul '15
+*Progress*:
+
+progress::71[color="lime", caption="10 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:storage, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:b0dZnVR_SjqXttKVgdwGXA`] | Innovation Center:Entrance hall to Innovation Center:HR room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:o1pG6D7jQEC0k-eaYERDEg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7PcIXl0VR8G1jIU6Zp6b1Q`] | Innovation Center:Entrance hall to Innovation Center:HR room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:P9o1Y1PsSk#sQcfknn2n7w`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:TYPZqVCKTgatg2c2M5fnxw`] | Innovation Center:Entrance hall to Innovation Center:HR room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:dI32e1IvTwW1xvZo0cJyuQ`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:2bUOkFqkTBCmKx9UdRrVVg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7VY86Ah-S82PcTzpkc-svg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+|======
+
+=== 25 Jul '15
+*Progress*:
+
+progress::78[color="lime", caption="11 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | NEC LCD Monitor [`ASSET:N4iQYh0aTUuCvaARax8V5Q`] | Innovation center:storage
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:KUsOQWYESd2155YrQ971vQ`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Transcend USB [`ASSET:bOnalX6ES9ChSDJwCmJlzQ`] | Corporate Headquarters:Reception
+| [green]#New Asset# | Philips Monitor [`ASSET:eL3DQEUHQNaq45Abz2Nn1A`] | Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:oNTXrc0jTxyUS7q0RxX57w`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7PcIXl0VR8G1jIU6Zp6b1Q`] | Innovation Center:HR room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:w6bOfQFBQIGu0o6CwgjMMw`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:P9o1Y1PsSk#sQcfknn2n7w`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Logitech Keyboard [`ASSET:t2MxF50zQQGw4xh@1rdrNA`] | Corporate Headquarters:Workplace to Corporate Headquarters:Classroom
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:l@iLuOLuRn2fbCZWtQap7w`] | Corporate Headquarters:Director's Office to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Philips Monitor [`ASSET:GbzjXLUyTfCn15VoRDiS8A`] | Corporate Headquarters:Workplace to Innovation center:storage
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:C8ecLTiyS8Ws9gyAjN4EcQ`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:b0dZnVR_SjqXttKVgdwGXA`] | Innovation Center:HR room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | RAPOO Keyboard [`ASSET:Yq9ucSstTkeILoZobYfudg`] | Corporate Headquarters:Classroom to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:TYPZqVCKTgatg2c2M5fnxw`] | Innovation Center:HR room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:ALnInskgQtyP24JC4T@zrw`] | Corporate Headquarters:Lab to Innovation center:storage
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:#OM7YYcDSUmNafTsKT#7ew`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:0@MM#GHoRNaywJNAktt1PA`] | Corporate Headquarters:Workplace to Innovation center:storage
+|======
+
+=== 01 Aug '15
+*Progress*:
+
+progress::78[color="lime", caption="11 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:JweQzcYbRP#8PhQbYuoqOA`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Dell LCD Monitor [`ASSET:PNcQQw9vRtGrteHQZwWSaw`] | Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:w6bOfQFBQIGu0o6CwgjMMw`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Z7Nf5cuzRPO3kG5Oo78LyA`] | Innovation Center:Entrance hall to Innovation Center:HR room
+|======
+
+=== 08 Aug '15
+*Progress*:
+
+progress::78[color="lime", caption="11 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:T0iOsv95QUigEVeTQh3sXQ`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:oNTXrc0jTxyUS7q0RxX57w`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+|======
+
+=== 17 Aug '15
+*Progress*:
+
+progress::78[color="lime", caption="11 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:PNcQQw9vRtGrteHQZwWSaw`] | Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:oNTXrc0jTxyUS7q0RxX57w`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:dI32e1IvTwW1xvZo0cJyuQ`] | Innovation Center:Entrance hall to Innovation Center:HR room
+|======
+
+=== 22 Aug '15
+*Progress*:
+
+progress::78[color="lime", caption="11 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | Mouse Dell [`ASSET:hzA3wZIzQ7Czbvf9lofISw`] | Corporate Headquarters:Reception
+| [green]#New Asset# | Keyboard Dell [`ASSET:Loca8PI4RzCRDN8c86de9g`] | Corporate Headquarters:Reception
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:oYjLEOh_TnyU-SlAw1Xh7A`] | Innovation Center:HR room to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:w6bOfQFBQIGu0o6CwgjMMw`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | RAPOO Mouse [`ASSET:wczqLmC4RZqRH9TC3ri7TA`] | Corporate Headquarters:Reception to Innovation center:storage
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:P9o1Y1PsSk#sQcfknn2n7w`] | Innovation Center:HW Room to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:NQb7PmUNTFSU9KSPEcDAhg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Z7Nf5cuzRPO3kG5Oo78LyA`] | Innovation Center:HR room to Innovation Center:HW Room
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:uHMu9ICGRV#gNah@WdA#Qg`] | Innovation Center:HR room to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:TYPZqVCKTgatg2c2M5fnxw`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:dI32e1IvTwW1xvZo0cJyuQ`] | Innovation Center:HR room to Innovation Center:HW Room
+| [olive]#Moved Asset# | Logitech Keyboard [`ASSET:qv0KVcs0Rj#sVNzEOSiCtg`] | Corporate Headquarters:Reception to Innovation center:storage
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:8liZXj3vR@2ce8ecgmDJaQ`] | Innovation Center:HR room to Corporate Headquarters:Reception
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:shYIwG8wQO-Yws9n53jcBg`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+|======
+
+=== 29 Aug '15
+*Progress*:
+
+progress::78[color="lime", caption="11 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:IZEfb6IZRrK0MKEEAj#xnw`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Netgear wireless router [`ASSET:05skGnugRKyO3zjLSsY61A`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:dF4KkAPrTHauCUh5z_V9PQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:o1pG6D7jQEC0k-eaYERDEg`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Netgear wireless router [`ASSET:VDMdydl0Tl2@OeTqU2JqQQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:te3wYKYxTKaC3sfu#90@zg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:ebUjRwwCQ5a8W1YwmqsntQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Logitech Keyboard [`ASSET:t2MxF50zQQGw4xh@1rdrNA`] | Corporate Headquarters:Classroom to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7VY86Ah-S82PcTzpkc-svg`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:eRqJv5E9TQ6orBYz8WYviw`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Z7Nf5cuzRPO3kG5Oo78LyA`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:uHMu9ICGRV#gNah@WdA#Qg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | RAPOO Keyboard [`ASSET:Yq9ucSstTkeILoZobYfudg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Classroom
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:NxFpU2GPRMSiFiSvVgMBSg`] | Corporate Headquarters:Classroom to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:D1856XHbSVy5NLx9O7HiwQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Wireless Router [`ASSET:zkIueUpRR1yljLmyU9NUTA`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:dI32e1IvTwW1xvZo0cJyuQ`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:ZaTwOM@WTMGpunxPmJ53yQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:3vJ1a5b0Qlq2Gxp_DzigIg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:3TibaQjeSH68L73eTxrTQQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:eeB96Hy5QzSY@TkX15ud1g`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:d7@lzIqzSEGe6EYZfKI@qw`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:ljIuo0kRSHq4g4G-k6Gy8A`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:rMoGB03rR8WmmgKxyFfrXw`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:8liZXj3vR@2ce8ecgmDJaQ`] | Corporate Headquarters:Reception to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:AOFtSbbRT3yhkXsjcB485g`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Wireless Router [`ASSET:DhD9M#YoQ0SkDrH4HVWH#w`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:1F#K2LuNRfOn1#Tn075kIQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:9KZ6Nu##R3mSUqQiuk88Zw`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+|======
+
+=== 05 Sep '15
+*Progress*:
+
+progress::78[color="lime", caption="11 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:oYjLEOh_TnyU-SlAw1Xh7A`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:o1pG6D7jQEC0k-eaYERDEg`] | Innovation Center:HW Room to Innovation Center:Room-1
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:Dkujff4wTIWU--aUmyqMJQ`] | Innovation Center:HR room to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7VY86Ah-S82PcTzpkc-svg`] | Innovation Center:HW Room to Innovation Center:HR room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:w6bOfQFBQIGu0o6CwgjMMw`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7PcIXl0VR8G1jIU6Zp6b1Q`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Z7Nf5cuzRPO3kG5Oo78LyA`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:b0dZnVR_SjqXttKVgdwGXA`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:uHMu9ICGRV#gNah@WdA#Qg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:rK8hTqUsTQ2NU-2YJXRh0A`] | Innovation Center:HR room to Innovation Center:Room-1
+| [olive]#Moved Asset# | Transcend USB [`ASSET:bOnalX6ES9ChSDJwCmJlzQ`] | Corporate Headquarters:Reception to Corporate Headquarters:Classroom
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:uPdzWwWGSPSKVM3NFSMRMA`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+|======
+
+=== 12 Sep '15
+*Progress*:
+
+progress::78[color="lime", caption="11 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:C8ecLTiyS8Ws9gyAjN4EcQ`] | Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:jhgopN9dRSesiu2kDi5YIw`] | Innovation Center:HR room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:oYjLEOh_TnyU-SlAw1Xh7A`] | Innovation Center:Entrance hall to Innovation Center:HR room
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:Dkujff4wTIWU--aUmyqMJQ`] | Innovation Center:Room-1 to Innovation Center:HR room
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:QiGf6ldGSLWagB4YXPobCw`] | Innovation Center:HW Room to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:D1856XHbSVy5NLx9O7HiwQ`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Philips Monitor [`ASSET:GbzjXLUyTfCn15VoRDiS8A`] | Innovation center:storage to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Z7Nf5cuzRPO3kG5Oo78LyA`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:c_64zYApS1ag-NGwHo0MxA`] | Innovation Center:HR room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:b0dZnVR_SjqXttKVgdwGXA`] | Innovation Center:Room-1 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:oNTXrc0jTxyUS7q0RxX57w`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:uHMu9ICGRV#gNah@WdA#Qg`] | Innovation Center:Room-1 to Innovation Center:HR room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:TYPZqVCKTgatg2c2M5fnxw`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Wireless Router [`ASSET:zkIueUpRR1yljLmyU9NUTA`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:ZaTwOM@WTMGpunxPmJ53yQ`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:ALnInskgQtyP24JC4T@zrw`] | Innovation center:storage to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:d7@lzIqzSEGe6EYZfKI@qw`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Y3Of@Bg6RS2IcxdXHnPYYg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:rK8hTqUsTQ2NU-2YJXRh0A`] | Innovation Center:Room-1 to Innovation Center:HR room
+| [olive]#Moved Asset# | Transcend USB [`ASSET:bOnalX6ES9ChSDJwCmJlzQ`] | Corporate Headquarters:Classroom to Corporate Headquarters:Reception
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:uPdzWwWGSPSKVM3NFSMRMA`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7VY86Ah-S82PcTzpkc-svg`] | Innovation Center:HR room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:1F#K2LuNRfOn1#Tn075kIQ`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:PNcQQw9vRtGrteHQZwWSaw`] | Corporate Headquarters:Workplace to Innovation center:storage
+|======
+
+=== 19 Sep '15
+*Progress*:
+
+progress::78[color="lime", caption="11 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [red]#Missing Asset# | Desktop Computers [`ASSET:qjhBSsfARBGfVdSR2hc8pA`] | Corporate Headquarters:Director's Office
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:RD5CeAjaR3avbEmjTn_iBQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7PcIXl0VR8G1jIU6Zp6b1Q`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:w6bOfQFBQIGu0o6CwgjMMw`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:b0dZnVR_SjqXttKVgdwGXA`] | Innovation Center:HW Room to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:oNTXrc0jTxyUS7q0RxX57w`] | Innovation Center:Room-1 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Y3Of@Bg6RS2IcxdXHnPYYg`] | Innovation Center:Room-1 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:8liZXj3vR@2ce8ecgmDJaQ`] | Corporate Headquarters:Mini-conference room to Innovation Center:HR room
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:Dkujff4wTIWU--aUmyqMJQ`] | Innovation Center:HR room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:shYIwG8wQO-Yws9n53jcBg`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+|======
+
+=== 26 Sep '15
+*Progress*:
+
+progress::78[color="lime", caption="11 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:RD5CeAjaR3avbEmjTn_iBQ`] | Innovation Center:Room-1 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:oNTXrc0jTxyUS7q0RxX57w`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:o1pG6D7jQEC0k-eaYERDEg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:Dkujff4wTIWU--aUmyqMJQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:w6bOfQFBQIGu0o6CwgjMMw`] | Innovation Center:Room-1 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:c_64zYApS1ag-NGwHo0MxA`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:shYIwG8wQO-Yws9n53jcBg`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+|======
+
+=== 03 Oct '15
+*Progress*:
+
+progress::78[color="lime", caption="11 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7PcIXl0VR8G1jIU6Zp6b1Q`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:NQb7PmUNTFSU9KSPEcDAhg`] | Innovation Center:Room-1 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:shYIwG8wQO-Yws9n53jcBg`] | Innovation Center:Entrance hall to Innovation Center:HR room
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:rK8hTqUsTQ2NU-2YJXRh0A`] | Innovation Center:HR room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:Dkujff4wTIWU--aUmyqMJQ`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:T0iOsv95QUigEVeTQh3sXQ`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+|======
+
+=== 10 Oct '15
+*Progress*:
+
+progress::78[color="lime", caption="11 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:jhgopN9dRSesiu2kDi5YIw`] | Innovation Center:Entrance hall to Innovation Center:HR room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:RD5CeAjaR3avbEmjTn_iBQ`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:oNTXrc0jTxyUS7q0RxX57w`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:P9o1Y1PsSk#sQcfknn2n7w`] | Innovation Center:Room-1 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:c_64zYApS1ag-NGwHo0MxA`] | Innovation Center:Room-1 to Innovation Center:HR room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:b0dZnVR_SjqXttKVgdwGXA`] | Innovation Center:Room-1 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Y3Of@Bg6RS2IcxdXHnPYYg`] | Innovation Center:HW Room to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:shYIwG8wQO-Yws9n53jcBg`] | Innovation Center:HR room to Innovation Center:Entrance hall
+|======
+
+=== 17 Oct '15
+*Progress*:
+
+progress::78[color="lime", caption="11 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:oNTXrc0jTxyUS7q0RxX57w`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:o1pG6D7jQEC0k-eaYERDEg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7PcIXl0VR8G1jIU6Zp6b1Q`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7VY86Ah-S82PcTzpkc-svg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:w6bOfQFBQIGu0o6CwgjMMw`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:P9o1Y1PsSk#sQcfknn2n7w`] | Innovation Center:HW Room to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Z7Nf5cuzRPO3kG5Oo78LyA`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:rK8hTqUsTQ2NU-2YJXRh0A`] | Innovation Center:Entrance hall to Innovation Center:HR room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:shYIwG8wQO-Yws9n53jcBg`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+|======
+
+=== 24 Oct '15
+*Progress*:
+
+progress::78[color="lime", caption="11 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini, Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:RD5CeAjaR3avbEmjTn_iBQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:oNTXrc0jTxyUS7q0RxX57w`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:P9o1Y1PsSk#sQcfknn2n7w`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7VY86Ah-S82PcTzpkc-svg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:b0dZnVR_SjqXttKVgdwGXA`] | Innovation Center:HW Room to Innovation Center:Room-1
+|======
+
+=== 31 Oct '15
+*Progress*:
+
+progress::85[color="lime", caption="12 / 14 Locations"]
+*Missed Locations*: Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:SUzQX4uMQGWd7cpelQ5GEg`] | Innovation Center:Room-1
+| [green]#New Asset# | Netgear wireless router [`ASSET:OE7ZMqbMQBuv9SjFjeJREw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Keyboard Dell [`ASSET:Y@By7lXPTba4mvhihrn9xQ`] | Innovation Center:Room-1
+| [green]#New Asset# | Mouse Dell [`ASSET:mQfo1gU9S7G6cES9iMtsAg`] | Innovation Center:Room-1
+| [green]#New Asset# | Keyboard Dell [`ASSET:qjJ7jCI4S260DtQqQTSUQw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Desktop Computers [`ASSET:pjP@1vtdSUK6A7eIgwkXmA`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Desktop Computers [`ASSET:TpnD3cG7QI#t8N#wz15PDA`] | Corporate Headquarters:Director's Office
+| [green]#New Asset# | Wireless Router [`ASSET:YNf##ZlFTJWq4O59W0um#Q`] | Innovation Center:Room-1
+| [green]#New Asset# | Wireless Router [`ASSET:PEHEkYglTuqdaKDj6diuKw`] | Innovation Center:Room-1
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:J0CqtijMTU#jGJQi@cY1ow`] | Innovation Center:Room-1
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:fssSxkwOTHaTnOH6LmSOwQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Desktop Computers [`ASSET:H7T7CtXzQGCdoJvELc6HCQ`] | Innovation Center:Room-1
+| [green]#New Asset# | Desktop Computers [`ASSET:JyVxCvlfRGWlx5VGpXKaYg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Keyboard Dell [`ASSET:hsZDybJmR9#fnbS1oP#hwg`] | Innovation Center:Room-1
+| [green]#New Asset# | Mouse Dell [`ASSET:dRnhmtKiRQuid6JkzYc4Vw`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:quPC@sYTSzK2CQ1qIbxYJA`] | Innovation Center:Room-1
+| [green]#New Asset# | Rolling Chair [`ASSET:FmZBfeWWQjGoLZmylvVLYA`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Mouse Dell [`ASSET:wGrsBGMUQMqiMs80wsz79w`] | Innovation Center:Room-1
+| [green]#New Asset# | Mouse Dell [`ASSET:riyQ1dV9THWbIdQ0X4Z@ig`] | Innovation Center:Room-1
+| [green]#New Asset# | Netgear wireless router [`ASSET:RpsIrPdpT5#eq2ePBkZBZQ`] | Innovation Center:Room-1
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:I6BoOauITHSooRDIoTQo0Q`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:Djdh13eNQmi6QoKLaxVEPg`] | Innovation Center:Room-1
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:R@TvfUMtTs#XYp6#aq2Bgw`] | Innovation Center:Room-1
+| [green]#New Asset# | Netgear wireless router [`ASSET:ox73Z6FnQ@u8o@3a1QFPLg`] | Innovation Center:Room-1
+| [green]#New Asset# | Mouse Dell [`ASSET:jN3YFTlHRMemXREtAgVQYA`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Mouse Dell [`ASSET:ygsTR05gS2OFFjgNG8C6Pw`] | Innovation Center:Room-1
+| [green]#New Asset# | Mouse Dell [`ASSET:pI8AmnfPRiGw9SmLLGQOiw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Training Chair [`ASSET:ZSddmx1vQaCmJXcUZ1@jJw`] | Innovation center:Class room mini
+| [green]#New Asset# | Netgear wireless router [`ASSET:LSRM3WzSS0WSbmBmHW7tkw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Desktop Computers [`ASSET:loioknmETb26FaPr#Nk9Zw`] | Innovation Center:Room-1
+| [green]#New Asset# | Desktop Computers [`ASSET:j8LTpB7gRpSIZyZ0@97YbQ`] | Innovation Center:Room-1
+| [green]#New Asset# | Keyboard Dell [`ASSET:yOzrEGP9TnycbVXDjnXWew`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Training Chair [`ASSET:PejKSy6iQkSkT217b8KRxQ`] | Innovation center:Class room mini
+| [green]#New Asset# | Training Chair [`ASSET:xaUwbVj7TuKdfKFrmOF2CA`] | Innovation center:Class room mini
+| [green]#New Asset# | Rolling Chair [`ASSET:MSLnqxKiRRGz7JI1HG9IUw`] | Innovation Center:Room-1
+| [green]#New Asset# | Desktop Computers [`ASSET:zhBv6bomTfWDPas1nB2dKA`] | Innovation Center:Room-1
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:wm6aKMkYRDC00Wtf6mS@ig`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Rolling Chair [`ASSET:7FX6gf59STSqJFqRQX0Xfg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Training Chair [`ASSET:Dl2Pijn8QsazhgIzPMr6Uw`] | Innovation center:Class room mini
+| [green]#New Asset# | Mouse Dell [`ASSET:1NqvvoPfTYi03h#dGXwX0w`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Wireless Router [`ASSET:3hANyNfzRky6aEl#8lNswQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Training Chair [`ASSET:VswJJ49MRZadYdFKZZ7KnQ`] | Innovation center:Class room mini
+| [green]#New Asset# | Desktop Computers [`ASSET:cwhSjFToRDG#TiPzWj6Rmg`] | Innovation Center:Room-1
+| [green]#New Asset# | Mouse Dell [`ASSET:5h@ExN2tSv#NQT3fzdt8jQ`] | Innovation Center:Room-1
+| [green]#New Asset# | Keyboard Dell [`ASSET:iVw2M1rNSwaNsmdfsl1lcg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Keyboard Dell [`ASSET:T6nZpT0JRqKPhaNGrD8xFg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:hp7hkySbRKGdMqaIvbYTsw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Mouse Dell [`ASSET:@omWDDtdRSCxqupVCL7UAQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Training Chair [`ASSET:3MexAQ3pSFGCIUfVceyP0A`] | Innovation center:Class room mini
+| [green]#New Asset# | Keyboard Dell [`ASSET:5qMGIlyxQ9CeYSA3Dt57RQ`] | Innovation Center:Room-1
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:SCux7JQ0ScaLrM#gvu2zRw`] | Innovation Center:Room-1
+| [green]#New Asset# | Training Chair [`ASSET:iZEDNWS#S02NJNA2AOJzmw`] | Innovation center:Class room mini
+| [green]#New Asset# | Rolling Chair [`ASSET:jW7fO9uBRwuPWmb3FL4mkg`] | Innovation Center:Room-1
+| [green]#New Asset# | Mouse Dell [`ASSET:Ym#Z4#cLSK#@PsY4lKkkuw`] | Innovation Center:Room-1
+| [green]#New Asset# | Rolling Chair [`ASSET:Hx0H4YdCRSGNmkaUCVQEKg`] | Innovation Center:Room-1
+| [green]#New Asset# | Training Chair [`ASSET:Kc#JOSxDQs2oznkXpUDraA`] | Innovation center:Class room mini
+| [green]#New Asset# | Keyboard Dell [`ASSET:dX@Y7QadSmqQi3zLxWigLA`] | Innovation Center:Room-1
+| [green]#New Asset# | Wireless Router [`ASSET:oDDthtV5SiSwtCjXyL8Vzg`] | Innovation Center:Room-1
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:IzPi8DzPScqzbO8S1Bvshw`] | Innovation Center:Room-1
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:PbyN5LiyTG63Rc1TQKsQkw`] | Innovation Center:Room-1
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:0sgtJWxnTvKZPsUwd6aTOw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Mouse Dell [`ASSET:N44IBAcUQ5ugezuFczCwLw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Keyboard Dell [`ASSET:CSQJ4x6RSKmBIDhjF7WUKQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Training Chair [`ASSET:Ml0M3lRxQ7i5SIVlwSjZyw`] | Innovation center:Class room mini
+| [green]#New Asset# | Rolling Chair [`ASSET:Abg3zziwSqiCVqNxrAR@uw`] | Innovation Center:Room-1
+| [green]#New Asset# | Desktop Computers [`ASSET:LfKPRW@9Swu1@tbPMEEMcg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Wireless Router [`ASSET:SED6alObQFyOWP1DU4eqIw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Desktop Computers [`ASSET:vCTWsOCNSdKk1lFsCy3Epg`] | Innovation Center:Room-1
+| [green]#New Asset# | Keyboard Dell [`ASSET:C#CDP2ghQxiyAC69MHnmsQ`] | Innovation Center:Room-1
+| [green]#New Asset# | Mouse Dell [`ASSET:lq3jyOPoScWtxqm3QIs7rA`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Desktop Computers [`ASSET:7p6DvuKUTKa3nMatDlzn#g`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Wireless Router [`ASSET:zengTWDZTwiO5vg0ehkEAg`] | Innovation Center:Room-1
+| [green]#New Asset# | Desktop Computers [`ASSET:MvRhzwwqRgmNMF7638vegg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Keyboard Dell [`ASSET:sv7lJ1DOQDmu8LZi0Wk6ow`] | Innovation Center:Room-1
+| [green]#New Asset# | Keyboard Dell [`ASSET:db1tpiH0Q6ORWZn6f8wdvA`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Mouse Dell [`ASSET:Py51gZCzTTGMYFK1WpuPyw`] | Innovation Center:Room-1
+| [green]#New Asset# | Wireless Router [`ASSET:e9UbVW2HTGuun3vST0LXoQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Keyboard Dell [`ASSET:j7sZKKjuRRaPgHaxVaBiGQ`] | Innovation Center:Room-1
+| [green]#New Asset# | Rolling Chair [`ASSET:EfPPu3M0QFa2ipZ85j6Big`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Mouse Dell [`ASSET:5aZ7SsPmTCiOsmTivtUpjQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Rolling Chair [`ASSET:5xPQqBbJT5mTb1zweNRKmQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Wireless Router [`ASSET:MluV90kpSsy3tkfmIGAuYg`] | Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:RD5CeAjaR3avbEmjTn_iBQ`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:T0iOsv95QUigEVeTQh3sXQ`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:9mRqxUX6Q#OmqZ@@PfyG1w`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:BSXUtaIVSi6-R6HVVSlclg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:o1pG6D7jQEC0k-eaYERDEg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7VY86Ah-S82PcTzpkc-svg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Netgear wireless router [`ASSET:wECVyTLvRbiO0myNig6EKg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:f9PCXgHRSyCl2prxQSmF9g`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:jPq7HTOqS@Own#0aazZ#tg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Training Chair [`ASSET:bT9ntFjlRgKjKe0aHdfJwQ`] | Corporate Headquarters:Classroom to Innovation center:Class room mini
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:x1zdY9DLRhiAb-9cQ6uORw`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:b0dZnVR_SjqXttKVgdwGXA`] | Innovation Center:Room-1 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:TYPZqVCKTgatg2c2M5fnxw`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Training Chair [`ASSET:myhaXVtwQDWWFXID90shBQ`] | Corporate Headquarters:Classroom to Innovation center:Class room mini
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:uPdzWwWGSPSKVM3NFSMRMA`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Z7Nf5cuzRPO3kG5Oo78LyA`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Training Chair [`ASSET:h6KkG9MzQjGnTv17alFJKQ`] | Corporate Headquarters:Classroom to Innovation center:Class room mini
+|======
+
+=== 06 Nov '15
+*Progress*:
+
+progress::85[color="lime", caption="12 / 14 Locations"]
+*Missed Locations*: Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:o1pG6D7jQEC0k-eaYERDEg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:UfEqJxZrTWSHEypkjrXShw`] | Corporate Headquarters:Workplace to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:56jCK@raSBaUpuN7gq1ELA`] | Corporate Headquarters:Workplace to Innovation Center:Room-1
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:T0iOsv95QUigEVeTQh3sXQ`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7VY86Ah-S82PcTzpkc-svg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7PcIXl0VR8G1jIU6Zp6b1Q`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7FX6gf59STSqJFqRQX0Xfg`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:8liZXj3vR@2ce8ecgmDJaQ`] | Innovation Center:HR room to Innovation center:Class room mini
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:shYIwG8wQO-Yws9n53jcBg`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:BSXUtaIVSi6-R6HVVSlclg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+|======
+
+=== 13 Nov '15
+*Progress*:
+
+progress::85[color="lime", caption="12 / 14 Locations"]
+*Missed Locations*: Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:9mRqxUX6Q#OmqZ@@PfyG1w`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:UfEqJxZrTWSHEypkjrXShw`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:Dkujff4wTIWU--aUmyqMJQ`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:T6nZpT0JRqKPhaNGrD8xFg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Netgear wireless router [`ASSET:wECVyTLvRbiO0myNig6EKg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:f9PCXgHRSyCl2prxQSmF9g`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:jPq7HTOqS@Own#0aazZ#tg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:x1zdY9DLRhiAb-9cQ6uORw`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:lq3jyOPoScWtxqm3QIs7rA`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:ALnInskgQtyP24JC4T@zrw`] | Innovation Center:Entrance hall to Innovation center:storage
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:jW7fO9uBRwuPWmb3FL4mkg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+|======
+
+=== 20 Nov '15
+*Progress*:
+
+progress::85[color="lime", caption="12 / 14 Locations"]
+*Missed Locations*: Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | Mini pc dell [`ASSET:R6Vu3wQMQhOBznowgAu8HQ`] | Corporate Headquarters:Classroom
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:b0dZnVR_SjqXttKVgdwGXA`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:Dkujff4wTIWU--aUmyqMJQ`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:o1pG6D7jQEC0k-eaYERDEg`] | Innovation Center:Room-1 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:jW7fO9uBRwuPWmb3FL4mkg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:ALnInskgQtyP24JC4T@zrw`] | Innovation center:storage to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:UfEqJxZrTWSHEypkjrXShw`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+|======
+
+=== 27 Nov '15
+*Progress*:
+
+progress::85[color="lime", caption="12 / 14 Locations"]
+*Missed Locations*: Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | Netgear wireless router [`ASSET:YHdtdGDpSNeoIIirxJAi#g`] | Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:jW7fO9uBRwuPWmb3FL4mkg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:5xPQqBbJT5mTb1zweNRKmQ`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:UfEqJxZrTWSHEypkjrXShw`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:lDUJ0yirQ7qPPEs@H3YcKg`] | Corporate Headquarters:Classroom to Corporate Headquarters:Workplace
+|======
+
+=== 21 Dec '15
+*Progress*:
+
+progress::85[color="lime", caption="12 / 14 Locations"]
+*Missed Locations*: Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | Mini pc dell [`ASSET:0SHKAoH6Rluz1sIt9u8@oQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Mini pc dell [`ASSET:rJHGuMcuQ1KL5NeyW3#54Q`] | Innovation center:Class room mini
+| [green]#New Asset# | Netgear wireless router [`ASSET:vFDk2mWpTYK2jPjPA86E6A`] | Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:w6bOfQFBQIGu0o6CwgjMMw`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:3U9UKI2gT@addy58jD2iQQ`] | Corporate Headquarters:Workplace to Corporate Headquarters:Director's Office
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:o1pG6D7jQEC0k-eaYERDEg`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:keQqKRsbQfSZ3NPPTBDxLg`] | Corporate Headquarters:Director's Office to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:IWONuEUoTwCZSU8cgDn#dQ`] | Corporate Headquarters:Workplace to Corporate Headquarters:Director's Office
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:jW7fO9uBRwuPWmb3FL4mkg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7FX6gf59STSqJFqRQX0Xfg`] | Innovation Center:HW Room to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:1#Voqt7YQ@qzRQsMD39bMQ`] | Corporate Headquarters:Director's Office to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:QiGf6ldGSLWagB4YXPobCw`] | Corporate Headquarters:Workplace to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:EfPPu3M0QFa2ipZ85j6Big`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Philips Monitor [`ASSET:GbzjXLUyTfCn15VoRDiS8A`] | Innovation Center:HW Room to Innovation center:storage
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:fTUDpYyQQ9mJtPydk2gevg`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Y3Of@Bg6RS2IcxdXHnPYYg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:adgEXEtJSwu@bTTQ9OBE4Q`] | Corporate Headquarters:Workplace to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:NoSHHOb@Teip2gQQqG5Oeg`] | Corporate Headquarters:Mini-conference room to Corporate Headquarters:Workplace
+|======
+
+=== 02 Jan '16
+*Progress*:
+
+progress::85[color="lime", caption="12 / 14 Locations"]
+*Missed Locations*: Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [red]#Missing Asset# | Dell LCD Monitor [`ASSET:S48Pg#ktRQCsjEWuScjbBw`] | Corporate Headquarters:Director's Office
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:uPdzWwWGSPSKVM3NFSMRMA`] | Innovation Center:Room-1 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:OJ4oNrP0TNKUVixrHFJU3g`] | Corporate Headquarters:Mini-conference room to Corporate Headquarters:Reception
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:NQb7PmUNTFSU9KSPEcDAhg`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:qsD1TQ9OSJKdu1GJ5PneWw`] | Corporate Headquarters:Reception to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:UfEqJxZrTWSHEypkjrXShw`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+|======
+
+=== 09 Jan '16
+*Progress*:
+
+progress::85[color="lime", caption="12 / 14 Locations"]
+*Missed Locations*: Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:jCSawTKXRKqqUFgb2gHcpQ`] | Corporate Headquarters:Lab to Corporate Headquarters:Classroom
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:T6nZpT0JRqKPhaNGrD8xFg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:FWMyk255SOW7Tgsqn@GYUA`] | Corporate Headquarters:Workplace to Corporate Headquarters:Classroom
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:sVf@1P1FQl6k#qOAjJqIsA`] | Corporate Headquarters:Workplace to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:UfEqJxZrTWSHEypkjrXShw`] | Innovation Center:HW Room to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:dI32e1IvTwW1xvZo0cJyuQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:lDUJ0yirQ7qPPEs@H3YcKg`] | Corporate Headquarters:Workplace to Innovation Center:Room-1
+|======
+
+=== 22 Jan '16
+*Progress*:
+
+progress::85[color="lime", caption="12 / 14 Locations"]
+*Missed Locations*: Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:S48Pg#ktRQCsjEWuScjbBw`] | Corporate Headquarters:Director's Office
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:2bUOkFqkTBCmKx9UdRrVVg`] | Corporate Headquarters:Lab to Corporate Headquarters:Classroom
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:N44IBAcUQ5ugezuFczCwLw`] | Innovation Center:Entrance hall to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:T0iOsv95QUigEVeTQh3sXQ`] | Corporate Headquarters:Lab to Corporate Headquarters:Classroom
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:4E1zB7i3TuW96Fc1RkBHMg`] | Corporate Headquarters:Workplace to Innovation Center:Room-1
+|======
+
+=== 29 Jan '16
+*Progress*:
+
+progress::85[color="lime", caption="12 / 14 Locations"]
+*Missed Locations*: Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:w6bOfQFBQIGu0o6CwgjMMw`] | Innovation Center:HW Room to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:UfEqJxZrTWSHEypkjrXShw`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:dI32e1IvTwW1xvZo0cJyuQ`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+|======
+
+=== 05 Feb '16
+*Progress*:
+
+progress::85[color="lime", caption="12 / 14 Locations"]
+*Missed Locations*: Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:w6bOfQFBQIGu0o6CwgjMMw`] | Innovation Center:Room-1 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:2bUOkFqkTBCmKx9UdRrVVg`] | Corporate Headquarters:Classroom to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Training Chair [`ASSET:myhaXVtwQDWWFXID90shBQ`] | Innovation center:Class room mini to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:jCSawTKXRKqqUFgb2gHcpQ`] | Corporate Headquarters:Classroom to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:o1pG6D7jQEC0k-eaYERDEg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Training Chair [`ASSET:Kc#JOSxDQs2oznkXpUDraA`] | Innovation center:Class room mini to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:FmZBfeWWQjGoLZmylvVLYA`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:NQb7PmUNTFSU9KSPEcDAhg`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Training Chair [`ASSET:VswJJ49MRZadYdFKZZ7KnQ`] | Innovation center:Class room mini to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Training Chair [`ASSET:Dw@ocXfsRU64BLyCcDOEuQ`] | Corporate Headquarters:Classroom to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Training Chair [`ASSET:3MexAQ3pSFGCIUfVceyP0A`] | Innovation center:Class room mini to Corporate Headquarters:Classroom
+| [olive]#Moved Asset# | Training Chair [`ASSET:iZEDNWS#S02NJNA2AOJzmw`] | Innovation center:Class room mini to Corporate Headquarters:Classroom
+| [olive]#Moved Asset# | Training Chair [`ASSET:o##ZV8xgQgmdV5nMm3y#yA`] | Corporate Headquarters:Classroom to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Training Chair [`ASSET:ZSddmx1vQaCmJXcUZ1@jJw`] | Innovation center:Class room mini to Corporate Headquarters:Classroom
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7PcIXl0VR8G1jIU6Zp6b1Q`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Training Chair [`ASSET:Ml0M3lRxQ7i5SIVlwSjZyw`] | Innovation center:Class room mini to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Training Chair [`ASSET:Dl2Pijn8QsazhgIzPMr6Uw`] | Innovation center:Class room mini to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Training Chair [`ASSET:Z8EBbnttTW2xyncpxDlTBQ`] | Corporate Headquarters:Classroom to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Training Chair [`ASSET:h6KkG9MzQjGnTv17alFJKQ`] | Innovation center:Class room mini to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:oNTXrc0jTxyUS7q0RxX57w`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:T0iOsv95QUigEVeTQh3sXQ`] | Corporate Headquarters:Classroom to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Training Chair [`ASSET:bT9ntFjlRgKjKe0aHdfJwQ`] | Innovation center:Class room mini to Corporate Headquarters:Mini-conference room
+|======
+
+=== 12 Feb '16
+*Progress*:
+
+progress::85[color="lime", caption="12 / 14 Locations"]
+*Missed Locations*: Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:P9o1Y1PsSk#sQcfknn2n7w`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Training Chair [`ASSET:myhaXVtwQDWWFXID90shBQ`] | Corporate Headquarters:Mini-conference room to Innovation center:Class room mini
+| [olive]#Moved Asset# | Training Chair [`ASSET:Kc#JOSxDQs2oznkXpUDraA`] | Corporate Headquarters:Mini-conference room to Innovation center:Class room mini
+| [olive]#Moved Asset# | Training Chair [`ASSET:VswJJ49MRZadYdFKZZ7KnQ`] | Corporate Headquarters:Mini-conference room to Innovation center:Class room mini
+| [olive]#Moved Asset# | Training Chair [`ASSET:Dw@ocXfsRU64BLyCcDOEuQ`] | Corporate Headquarters:Mini-conference room to Innovation center:Class room mini
+| [olive]#Moved Asset# | Training Chair [`ASSET:o##ZV8xgQgmdV5nMm3y#yA`] | Corporate Headquarters:Mini-conference room to Innovation center:Class room mini
+| [olive]#Moved Asset# | Training Chair [`ASSET:Ml0M3lRxQ7i5SIVlwSjZyw`] | Corporate Headquarters:Mini-conference room to Innovation center:Class room mini
+| [olive]#Moved Asset# | Training Chair [`ASSET:Dl2Pijn8QsazhgIzPMr6Uw`] | Corporate Headquarters:Mini-conference room to Innovation center:Class room mini
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Y3Of@Bg6RS2IcxdXHnPYYg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Training Chair [`ASSET:Z8EBbnttTW2xyncpxDlTBQ`] | Corporate Headquarters:Mini-conference room to Innovation center:Class room mini
+| [olive]#Moved Asset# | Training Chair [`ASSET:h6KkG9MzQjGnTv17alFJKQ`] | Corporate Headquarters:Mini-conference room to Innovation center:Class room mini
+| [olive]#Moved Asset# | Training Chair [`ASSET:bT9ntFjlRgKjKe0aHdfJwQ`] | Corporate Headquarters:Mini-conference room to Innovation center:Class room mini
+|======
+
+=== 19 Feb '16
+*Progress*:
+
+progress::85[color="lime", caption="12 / 14 Locations"]
+*Missed Locations*: Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [red]#Missing Asset# | Transcend USB [`ASSET:bOnalX6ES9ChSDJwCmJlzQ`] | Corporate Headquarters:Reception
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:xVp6yWgUTbmBnI8v4z#sbg`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:P9o1Y1PsSk#sQcfknn2n7w`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | USB Printer [`ASSET:i20f798RSryQscgam2Jtgw`] | Innovation Center:Entrance hall to Innovation Center:HR room
+| [olive]#Moved Asset# | Netgear wireless router [`ASSET:YHdtdGDpSNeoIIirxJAi#g`] | Innovation Center:Room-1 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:clZaPSY7RnShPxoGeWLGzA`] | Corporate Headquarters:Workplace to Corporate Headquarters:Director's Office
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:EfPPu3M0QFa2ipZ85j6Big`] | Innovation Center:Room-1 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Netgear wireless router [`ASSET:vFDk2mWpTYK2jPjPA86E6A`] | Innovation Center:Entrance hall to Innovation Center:HR room
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:fTUDpYyQQ9mJtPydk2gevg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:sVf@1P1FQl6k#qOAjJqIsA`] | Innovation Center:Room-1 to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:0QcoLeoJQ3asi4yhu#FySg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:4E1zB7i3TuW96Fc1RkBHMg`] | Innovation Center:Room-1 to Corporate Headquarters:Workplace
+|======
+
+=== 04 Mar '16
+*Progress*:
+
+progress::85[color="lime", caption="12 / 14 Locations"]
+*Missed Locations*: Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:JweQzcYbRP#8PhQbYuoqOA`] | Corporate Headquarters:Workplace to Innovation center:storage
+| [olive]#Moved Asset# | USB Printer [`ASSET:i20f798RSryQscgam2Jtgw`] | Innovation Center:HR room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Netgear wireless router [`ASSET:YHdtdGDpSNeoIIirxJAi#g`] | Innovation Center:HW Room to Innovation Center:Room-1
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:y5zMJaeCR52eGyAdSkHC4g`] | Corporate Headquarters:Workplace to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:QiGf6ldGSLWagB4YXPobCw`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:EfPPu3M0QFa2ipZ85j6Big`] | Innovation Center:HW Room to Innovation Center:Room-1
+| [olive]#Moved Asset# | Netgear wireless router [`ASSET:vFDk2mWpTYK2jPjPA86E6A`] | Innovation Center:HR room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:fTUDpYyQQ9mJtPydk2gevg`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:GOF71KjsRSaCwDX1Y49q7Q`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:ALnInskgQtyP24JC4T@zrw`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:jBdWRUHPT02tXq1XUOuNGA`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:A7ULhlOxQqWL2d2kupp6YQ`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:lq3jyOPoScWtxqm3QIs7rA`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+|======
+
+=== 18 Mar '16
+*Progress*:
+
+progress::85[color="lime", caption="12 / 14 Locations"]
+*Missed Locations*: Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:3U9UKI2gT@addy58jD2iQQ`] | Corporate Headquarters:Director's Office to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:y5zMJaeCR52eGyAdSkHC4g`] | Innovation Center:Entrance hall to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:QiGf6ldGSLWagB4YXPobCw`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:aPRITG8ZRgqpC2hEK2sNSQ`] | Corporate Headquarters:Director's Office to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:GOF71KjsRSaCwDX1Y49q7Q`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Abg3zziwSqiCVqNxrAR@uw`] | Innovation Center:Room-1 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:jBdWRUHPT02tXq1XUOuNGA`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:A7ULhlOxQqWL2d2kupp6YQ`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+|======
+
+=== 01 Apr '16
+*Progress*:
+
+progress::85[color="lime", caption="12 / 14 Locations"]
+*Missed Locations*: Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:Mgc8AW7xSTuoECoXFoQ#sg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Z7Nf5cuzRPO3kG5Oo78LyA`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:NxFpU2GPRMSiFiSvVgMBSg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:UfEqJxZrTWSHEypkjrXShw`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:56jCK@raSBaUpuN7gq1ELA`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+|======
+
+=== 15 Apr '16
+*Progress*:
+
+progress::85[color="lime", caption="12 / 14 Locations"]
+*Missed Locations*: Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:w6bOfQFBQIGu0o6CwgjMMw`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:b0dZnVR_SjqXttKVgdwGXA`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:FmZBfeWWQjGoLZmylvVLYA`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:NQb7PmUNTFSU9KSPEcDAhg`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:Mgc8AW7xSTuoECoXFoQ#sg`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:clZaPSY7RnShPxoGeWLGzA`] | Corporate Headquarters:Director's Office to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:5xPQqBbJT5mTb1zweNRKmQ`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:qsD1TQ9OSJKdu1GJ5PneWw`] | Corporate Headquarters:Workplace to Corporate Headquarters:Director's Office
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:ALnInskgQtyP24JC4T@zrw`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:oNTXrc0jTxyUS7q0RxX57w`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:sVf@1P1FQl6k#qOAjJqIsA`] | Corporate Headquarters:Workplace to Innovation Center:Room-1
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:4E1zB7i3TuW96Fc1RkBHMg`] | Corporate Headquarters:Workplace to Innovation Center:Room-1
+|======
+
+=== 06 May '16
+*Progress*:
+
+progress::85[color="lime", caption="12 / 14 Locations"]
+*Missed Locations*: Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:xOXoyjChRXiSy8So4qr5gg`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7PcIXl0VR8G1jIU6Zp6b1Q`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:5xPQqBbJT5mTb1zweNRKmQ`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:fTUDpYyQQ9mJtPydk2gevg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:lq3jyOPoScWtxqm3QIs7rA`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+|======
+
+=== 30 Sep '16
+*Progress*:
+
+progress::85[color="lime", caption="12 / 14 Locations"]
+*Missed Locations*: Innovation center:Room-2, Innovation center:Conference Room
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | Mouse Dell [`ASSET:5eC7uGBVQBm3Y3TZ0KSaww`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:PqW38Fk5Ttabik0RxgHCWw`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Mouse Dell [`ASSET:Mnz8R1UETyOLckWJYftpsA`] | Corporate Headquarters:Lab
+| [red]#Missing Asset# | Training Chair [`ASSET:Dw@ocXfsRU64BLyCcDOEuQ`] | Innovation center:Class room mini
+| [red]#Missing Asset# | Keyboard Dell [`ASSET:6bg5HNXeQEGyZzxqM6xBNg`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Mouse Dell [`ASSET:nPciHaOlSBaHYCuqMh0YQA`] | Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Wireless Router [`ASSET:lC4EBwR_QR-4Do9gn004Yw`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:xVp6yWgUTbmBnI8v4z#sbg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:MvRhzwwqRgmNMF7638vegg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:D1856XHbSVy5NLx9O7HiwQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:tT7@ijDVQ0Kg6@PXf7m2xQ`] | Corporate Headquarters:Lab to Innovation center:storage
+| [olive]#Moved Asset# | Wireless Router [`ASSET:zengTWDZTwiO5vg0ehkEAg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:b0dZnVR_SjqXttKVgdwGXA`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:czhenT93TGWGL@QXowO2pQ`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:P9o1Y1PsSk#sQcfknn2n7w`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:wm6aKMkYRDC00Wtf6mS@ig`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:2bUOkFqkTBCmKx9UdRrVVg`] | Corporate Headquarters:Lab to Innovation Center:HR room
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:BhWEaFXQQESli1ODfEAdMg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Classroom
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:sv7lJ1DOQDmu8LZi0Wk6ow`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:d7@lzIqzSEGe6EYZfKI@qw`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:J0CqtijMTU#jGJQi@cY1ow`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:iEPxrQmnSMq5QKD8fhnUfw`] | Corporate Headquarters:Workplace to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:#J4W9eDNTE#uqPXl#FAHOQ`] | Corporate Headquarters:Lab to Innovation Center:HR room
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:Dkujff4wTIWU--aUmyqMJQ`] | Innovation Center:Entrance hall to Innovation Center:HR room
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:db1tpiH0Q6ORWZn6f8wdvA`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:ZB2yPSDGSpicnhNweVkSgA`] | Corporate Headquarters:Lab to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:jCSawTKXRKqqUFgb2gHcpQ`] | Corporate Headquarters:Lab to Innovation Center:HR room
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:xOXoyjChRXiSy8So4qr5gg`] | Corporate Headquarters:Workplace to Innovation Center:HR room
+| [olive]#Moved Asset# | Wireless Router [`ASSET:PEHEkYglTuqdaKDj6diuKw`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:H7T7CtXzQGCdoJvELc6HCQ`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:wGrsBGMUQMqiMs80wsz79w`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:R@TvfUMtTs#XYp6#aq2Bgw`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:o1pG6D7jQEC0k-eaYERDEg`] | Innovation Center:Room-1 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:HJmSKkeDTqulDO1UkBeAHA`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:Ncbn4@UkRSaJDg9qMX5Vpg`] | Corporate Headquarters:Lab to Innovation Center:HR room
+| [olive]#Moved Asset# | Philips Monitor [`ASSET:eL3DQEUHQNaq45Abz2Nn1A`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:QaO5NT1dRV6JcTqfGg7vSA`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:FmZBfeWWQjGoLZmylvVLYA`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Wireless Router [`ASSET:yeGDLw4kSICvax@gOxyb4Q`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:cwhSjFToRDG#TiPzWj6Rmg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:iVw2M1rNSwaNsmdfsl1lcg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Classroom
+| [olive]#Moved Asset# | Netgear wireless router [`ASSET:YHdtdGDpSNeoIIirxJAi#g`] | Innovation Center:Room-1 to Innovation Center:HR room
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:3DdbPFNZSFSM69nqdSRuCg`] | Corporate Headquarters:Reception to Corporate Headquarters:Director's Office
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:TWhp5wqpRf6QuEHy3jV8HA`] | Corporate Headquarters:Lab to Innovation center:storage
+| [olive]#Moved Asset# | Wireless Router [`ASSET:zkIueUpRR1yljLmyU9NUTA`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:slbdSldAS9aTzq8136tCFg`] | Corporate Headquarters:Mini-conference room to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Samsung LCD Monitor [`ASSET:hHJdBY@eRkWXnB@HRQhtrQ`] | Corporate Headquarters:Lab to Innovation center:storage
+| [olive]#Moved Asset# | Wireless Router [`ASSET:e9UbVW2HTGuun3vST0LXoQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:fiv-91PqSbmFsC_6928aPQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:Mgc8AW7xSTuoECoXFoQ#sg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Wireless Router [`ASSET:MluV90kpSsy3tkfmIGAuYg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:7XwOcroTRjisSPmzdBqQPA`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:y5zMJaeCR52eGyAdSkHC4g`] | Corporate Headquarters:Workplace to Innovation Center:HW Room
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:9mRqxUX6Q#OmqZ@@PfyG1w`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:C#CDP2ghQxiyAC69MHnmsQ`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:BDQcXJ7IQNmiUvwnWAxJ1w`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:j7sZKKjuRRaPgHaxVaBiGQ`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:h0BUk05uSSufpHIHcsaeCw`] | Corporate Headquarters:Mini-conference room to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7PcIXl0VR8G1jIU6Zp6b1Q`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:EfPPu3M0QFa2ipZ85j6Big`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Logitech Keyboard [`ASSET:t2MxF50zQQGw4xh@1rdrNA`] | Corporate Headquarters:Workplace to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:5xPQqBbJT5mTb1zweNRKmQ`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:jPq7HTOqS@Own#0aazZ#tg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:x1zdY9DLRhiAb-9cQ6uORw`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:PWciKGR4Rwqh63ixAolKnA`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:VEaPcJgyQROCTbYpgJiNbA`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:vCTWsOCNSdKk1lFsCy3Epg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:C8ecLTiyS8Ws9gyAjN4EcQ`] | Corporate Headquarters:Workplace to Innovation center:storage
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:loioknmETb26FaPr#Nk9Zw`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:NxFpU2GPRMSiFiSvVgMBSg`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Netgear wireless router [`ASSET:wECVyTLvRbiO0myNig6EKg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:tvfkuPL0TMym#bfVK#l8Uw`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:fTUDpYyQQ9mJtPydk2gevg`] | Corporate Headquarters:Lab to Innovation Center:HR room
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:mQfo1gU9S7G6cES9iMtsAg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:TYPZqVCKTgatg2c2M5fnxw`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:Py51gZCzTTGMYFK1WpuPyw`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Abg3zziwSqiCVqNxrAR@uw`] | Innovation Center:HW Room to Innovation Center:Room-1
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:Y@By7lXPTba4mvhihrn9xQ`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:mSc4rgVPTuaIF862QH3igw`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Y3Of@Bg6RS2IcxdXHnPYYg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:h4I8wZ#WQkGknB17cKnz1w`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:SCux7JQ0ScaLrM#gvu2zRw`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | LCD Projector [`ASSET:xlTk75o#QDe@IJ275AYDQw`] | Corporate Headquarters:Classroom to Innovation Center:HW Room
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:1F#K2LuNRfOn1#Tn075kIQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:PbyN5LiyTG63Rc1TQKsQkw`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:BSXUtaIVSi6-R6HVVSlclg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:5h@ExN2tSv#NQT3fzdt8jQ`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:Ym#Z4#cLSK#@PsY4lKkkuw`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:5qMGIlyxQ9CeYSA3Dt57RQ`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | RAPOO Keyboard [`ASSET:Yq9ucSstTkeILoZobYfudg`] | Corporate Headquarters:Classroom to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:5aZ7SsPmTCiOsmTivtUpjQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Wireless Router [`ASSET:YNf##ZlFTJWq4O59W0um#Q`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Wireless Router [`ASSET:oDDthtV5SiSwtCjXyL8Vzg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:f9PCXgHRSyCl2prxQSmF9g`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:T0iOsv95QUigEVeTQh3sXQ`] | Corporate Headquarters:Lab to Innovation Center:HR room
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:on7_PZ1eT7GFvOkNMYglQg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:9h6RsWrnSqml9UukSEGimQ`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:2UCWxXluQc2NbJRV_XOvag`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:Djdh13eNQmi6QoKLaxVEPg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:dI32e1IvTwW1xvZo0cJyuQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:ZaTwOM@WTMGpunxPmJ53yQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:IzPi8DzPScqzbO8S1Bvshw`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:KlgjCN2zQDqYvzkWN4VqGw`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:#CnuNyFCSg#VuKP0oWbRdg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:shYIwG8wQO-Yws9n53jcBg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:WLET2HoTRjix7EXGuAD##Q`] | Corporate Headquarters:Lab to Innovation Center:HR room
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:jxwl6UpJQPOp5ND6-uTydw`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+|======
+
+=== 31 May '17
+*Progress*:
+
+progress::100[color="lime", caption="14 / 14 Locations"]
+
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | NEC LCD Monitor [`ASSET:N4iQYh0aTUuCvaARax8V5Q`] | Innovation Center:HR room
+| [green]#New Asset# | Rolling Chair [`ASSET:qEITQWkfQnCSDj6zyqYmrg`] | Corporate Headquarters:Lab
+| [green]#New Asset# | HP Laserjet Printer [`ASSET:LBggxZLRTYSDF0qUTe8tmw`] | Innovation Center:HR room
+| [green]#New Asset# | Mouse Dell [`ASSET:jJqA3eufSP2mWMbzs8oTxA`] | Innovation center:Room-2
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:SBCKo@inTsadRUGqcelXFQ`] | Corporate Headquarters:Director's Office
+| [green]#New Asset# | Mouse Dell [`ASSET:FhqPI4T3TN6sWudnk2qQxw`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Mouse Dell [`ASSET:rXkPYgpdTtGzbI4pskda6Q`] | Innovation center:storage
+| [green]#New Asset# | Rolling Chair [`ASSET:h99epj4NQueyWK5#BvDiOA`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Mini pc dell [`ASSET:6eXOa1vkQhyqlU5J@@Z5hA`] | Innovation center:Room-2
+| [green]#New Asset# | Rolling Chair [`ASSET:n9ZRhU9wRhO3hsydgWn8BQ`] | Innovation center:Class room mini
+| [green]#New Asset# | Keyboard Dell [`ASSET:d3DGPYauRxKMYOYz@7SdHA`] | Innovation center:Room-2
+| [green]#New Asset# | Wireless Router [`ASSET:1nBygHhYQ82voTssnoJ4#A`] | Innovation center:Room-2
+| [green]#New Asset# | Mouse Dell [`ASSET:7uyfaoJ1STW9KLI2xi6STQ`] | Innovation center:Room-2
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:ZAd#6paSRmKhD71YTOVdwg`] | Innovation center:Room-2
+| [green]#New Asset# | Keyboard Dell [`ASSET:dHM2DSqGTFisLfj7cqAIWw`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Mouse Dell [`ASSET:XBlfO6TOQP#T0w4O1#MzQg`] | Innovation center:Room-2
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:uY7mFhh0SP2axlEL4jasfg`] | Innovation center:Room-2
+| [green]#New Asset# | Rolling Chair [`ASSET:cU1Q@exZTiea2UNVMwLnNQ`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Wireless Router [`ASSET:lsl7cuAOQjOHWkKLOd4Srg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Mouse Dell [`ASSET:IjkzAZU1R9yITI7X8pDhBA`] | Innovation Center:HR room
+| [green]#New Asset# | Wireless Router [`ASSET:cEICW7hQTVmhmszFfNpkyA`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Rolling Chair [`ASSET:KIDTG6wvTzWTvx2DTYZrFQ`] | Innovation center:Conference Room
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:i3DPvXIaRQWKv57Uhhx93Q`] | Innovation Center:HR room
+| [green]#New Asset# | Rolling Chair [`ASSET:pFtj9JRESy6vJ#RuYOkVIg`] | Innovation center:Class room mini
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:@fQ8On4FT9uCZFWIJAq9Sw`] | Innovation center:Room-2
+| [green]#New Asset# | Desktop Computers [`ASSET:zP3n9liaSJeoXcEfxpCrwQ`] | Innovation Center:HR room
+| [green]#New Asset# | Rolling Chair [`ASSET:NzFiylBWQpmDl4pKaPl9nQ`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Rolling Chair [`ASSET:fdNi0UhqQiGGv1LfLI124w`] | Corporate Headquarters:Lab
+| [green]#New Asset# | Netgear wireless router [`ASSET:a1bwS2K1TiqHh79AhR#Ajg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Mouse Dell [`ASSET:QMRa7OnpQ7GpAsb3lVpTKQ`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Wireless Router [`ASSET:ADUPOwy8TT6@u3AsNRo1YQ`] | Innovation center:Room-2
+| [green]#New Asset# | Mouse Dell [`ASSET:jQXR2rtpQP685lpAcp3pLg`] | Innovation Center:HR room
+| [green]#New Asset# | Rolling Chair [`ASSET:1DcnhadgSxKMHJN4t@CxOA`] | Corporate Headquarters:Classroom
+| [green]#New Asset# | Keyboard Dell [`ASSET:3cnc8KkaSFOoMbRrojsxig`] | Innovation center:Room-2
+| [green]#New Asset# | Rolling Chair [`ASSET:LFWrN6rMQ4Gp4tSLzskOLg`] | Innovation center:Conference Room
+| [green]#New Asset# | Mouse Dell [`ASSET:@hDBzVKiTViZ5K3rSbogaQ`] | Innovation Center:HR room
+| [green]#New Asset# | Desktop Computers [`ASSET:cLr5VyMmQD#1eMDLhlXPpg`] | Innovation Center:HR room
+| [green]#New Asset# | Mouse Dell [`ASSET:o@m1SbCxTXK1pzswuh9e1A`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Rolling Chair [`ASSET:MC#oLSBhR7Ghx21NSGYVsg`] | Corporate Headquarters:Classroom
+| [green]#New Asset# | Keyboard Dell [`ASSET:3bdghK#yRx2DLPb42mC6fQ`] | Innovation center:Room-2
+| [green]#New Asset# | Rolling Chair [`ASSET:fNNdw1c4Qf2fx4HeXGN5Ig`] | Innovation center:Conference Room
+| [green]#New Asset# | Keyboard Dell [`ASSET:fNc8mHUOTn6RuhTcJUjAAg`] | Innovation Center:HR room
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:#VamRzTYQSyRy9RdAz08Gw`] | Innovation center:Room-2
+| [green]#New Asset# | Rolling Chair [`ASSET:Y2SY0edmTHWxpCEhK2HmJA`] | Innovation Center:Room-1
+| [green]#New Asset# | Wireless Router [`ASSET:qpyM8jpSQjGeivOQhe6NnA`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:yUDAC6OOTL6QsLeszXtA#A`] | Innovation Center:HR room
+| [green]#New Asset# | Netgear wireless router [`ASSET:0v1d8OWCRkWGqQq@32yLJw`] | Innovation center:Room-2
+| [green]#New Asset# | Desktop Computers [`ASSET:zgBo5CgfT#y8ki5biOoodQ`] | Innovation center:Room-2
+| [green]#New Asset# | Desktop Computers [`ASSET:zJWuzoCiRgWCtjL5nS1cBw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Keyboard Dell [`ASSET:F36kadG2SbCm2d1@XPcuCQ`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:7jiSsMGbSNua@Pj21NFF9g`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Mouse Dell [`ASSET:LOP9aM7SSqKIGeyxhEyfng`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Wireless Router [`ASSET:olgIZpv4RsCENLmLuN2lHQ`] | Innovation center:Room-2
+| [green]#New Asset# | Mouse Dell [`ASSET:CzYyUrb3RCem2ML#GIw3RA`] | Innovation center:Room-2
+| [green]#New Asset# | Rolling Chair [`ASSET:RXp8UxjCSZ6amJqo1vfSGA`] | Innovation center:Conference Room
+| [green]#New Asset# | Keyboard Dell [`ASSET:4fN@K@qYQNeJTReiQWqNVA`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Mouse Dell [`ASSET:zyym8OlKTLi7CkEz5XVkCw`] | Innovation center:Room-2
+| [green]#New Asset# | Wireless Router [`ASSET:IGH3e2stQP2ZRA7vXP5MxQ`] | Innovation center:Room-2
+| [green]#New Asset# | Desktop Computers [`ASSET:xfXhVNpwSS2sBAmy2eXNRg`] | Innovation center:Room-2
+| [green]#New Asset# | Rolling Chair [`ASSET:U3ZqRBlDR2OLFA1cUBnFtg`] | Innovation center:Conference Room
+| [green]#New Asset# | Mouse Dell [`ASSET:G1jqZwgaSweSOxO0xiW35A`] | Innovation center:Room-2
+| [green]#New Asset# | Mouse Dell [`ASSET:atjkDMZ5SE684lr1#Qg0wQ`] | Innovation center:Room-2
+| [green]#New Asset# | Keyboard Dell [`ASSET:5p#zMnTxSCCGQZKRCSLyLg`] | Innovation center:Room-2
+| [green]#New Asset# | Desktop Computers [`ASSET:yIBhK1N6R4W4euN#HOZd@w`] | Innovation center:Room-2
+| [green]#New Asset# | Rolling Chair [`ASSET:Z0kISTeFSG6T12Ntpn32fw`] | Corporate Headquarters:Classroom
+| [green]#New Asset# | Keyboard Dell [`ASSET:pZl5bttgRCSxe2VmQE5wzg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:gnQf0E@AQnGtFID7bozzuw`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Wireless Router [`ASSET:q0oIX43QRIy9YHJuL9POEA`] | Innovation center:Room-2
+| [green]#New Asset# | Desktop Computers [`ASSET:Y72gOo8rTuuTxbwkt3YMRQ`] | Innovation center:Room-2
+| [green]#New Asset# | Keyboard Dell [`ASSET:6q2@938SQLKqUwD@LiU1UA`] | Innovation center:Room-2
+| [green]#New Asset# | Keyboard Dell [`ASSET:Ni9@z#nCSS20hb6Id5d66A`] | Innovation center:Room-2
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:3#4b1yJlQgKwiC1FP6SX7g`] | Innovation center:Room-2
+| [green]#New Asset# | Wireless Router [`ASSET:A0Ao2hsLRpai@D5t@jYn8Q`] | Innovation Center:HR room
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:dyueS@WRRPqZQt1LQsjjww`] | Innovation center:Room-2
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:qIp@HNBRR8iv#2qd@6BIxg`] | Innovation center:Room-2
+| [green]#New Asset# | Rolling Chair [`ASSET:iogy1@kzSeu#KDOTfdYDtQ`] | Innovation center:Conference Room
+| [green]#New Asset# | Rolling Chair [`ASSET:zpVbYNALQ4KBt#1orveV9w`] | Innovation Center:Room-1
+| [green]#New Asset# | Rolling Chair [`ASSET:FGzcESX8R72l5hemzfTNVg`] | Corporate Headquarters:Classroom
+| [green]#New Asset# | Mouse Dell [`ASSET:e#mukdbPSty4owVVR6pqug`] | Innovation center:Room-2
+| [green]#New Asset# | Desktop Computers [`ASSET:NkluVk4jTPivRwIHPsPu0Q`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:WhWhfI0vRRyIjj9ldaRqjQ`] | Innovation Center:HW Room
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:4Dd#rtCjQyKH@Td@er41YQ`] | Innovation Center:HW Room
+| [green]#New Asset# | Rolling Chair [`ASSET:SHpvuXwYTpeo4bb31iWbZA`] | Innovation center:Room-2
+| [green]#New Asset# | Desktop Computers [`ASSET:zP5TQrDTQISbPSwm2dKN9A`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Desktop Computers [`ASSET:bs0WGmA0R8y3hYkSXoyb9A`] | Innovation center:Room-2
+| [green]#New Asset# | Desktop Computers [`ASSET:tpU#bGevSQ#GvOKxWD9#Sw`] | Innovation center:Room-2
+| [green]#New Asset# | Keyboard Dell [`ASSET:KQqMo#o1SFi46XcIvbSAFA`] | Innovation Center:HR room
+| [green]#New Asset# | Rolling Chair [`ASSET:ssfK2TwgT16OHiAxOnnnRQ`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Mouse Dell [`ASSET:ao@ztRLKQiSbnCx3D@4j6g`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Keyboard Dell [`ASSET:JLzL6siqRlqrH99iJ256mQ`] | Innovation center:Room-2
+| [green]#New Asset# | Keyboard Dell [`ASSET:3bjDpGqYTvi1W4qKFayKfQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Wireless Router [`ASSET:hHGBRopkQGaSjnuDKKOoYg`] | Innovation center:Room-2
+| [green]#New Asset# | Wireless Router [`ASSET:3IgN7ArBTvOSsVBRifZ8iw`] | Innovation center:Room-2
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:t7ND7osVS0uB2PFkYK1YUg`] | Innovation center:Room-2
+| [green]#New Asset# | Mouse Dell [`ASSET:QSsdH@smS0GI2gW1KsMBoA`] | Innovation Center:Room-1
+| [green]#New Asset# | Wireless Router [`ASSET:LjVco1PCTde#EdS9Wuqskg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Rolling Chair [`ASSET:rwuobpSLTgKLlOe9bIY5mw`] | Corporate Headquarters:Classroom
+| [green]#New Asset# | Keyboard Dell [`ASSET:nbF@1eJNR2umGtcN5wD7LA`] | Innovation center:Room-2
+| [green]#New Asset# | Unknown [`ASSET:XknQTvlKRD#k6bfqaYHJbg`] | Innovation center:storage
+| [green]#New Asset# | Desktop Computers [`ASSET:w51cYlZ1TY#7rcbLc7Pjrg`] | Innovation center:Room-2
+| [green]#New Asset# | Rolling Chair [`ASSET:s0dgmbntQ0GBckrSK9llxQ`] | Innovation center:Conference Room
+| [green]#New Asset# | Rolling Chair [`ASSET:riBnOfmXR5STRgagSBeLzg`] | Innovation center:Room-2
+| [red]#Missing Asset# | Training Chair [`ASSET:VswJJ49MRZadYdFKZZ7KnQ`] | Innovation center:Class room mini
+| [red]#Missing Asset# | Dell LCD Monitor [`ASSET:nh3tc4pXTOSgXLpmNAl7mA`] | Innovation Center:HW Room
+| [red]#Missing Asset# | Training Chair [`ASSET:h6KkG9MzQjGnTv17alFJKQ`] | Innovation center:Class room mini
+| [red]#Missing Asset# | Dell LCD Monitor [`ASSET:J0CqtijMTU#jGJQi@cY1ow`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Mouse Dell [`ASSET:fUsXMUZDS12kQFXmcBJZ0A`] | Corporate Headquarters:Director's Office
+| [red]#Missing Asset# | LCD Projector [`ASSET:xlTk75o#QDe@IJ275AYDQw`] | Innovation Center:HW Room
+| [red]#Missing Asset# | Dell LCD Monitor [`ASSET:KfICkE3XSbS@H0dUQI6gKw`] | Corporate Headquarters:Director's Office
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:N@WgV@KeS5WCUQg1BbhPIA`] | Corporate Headquarters:Workplace to Corporate Headquarters:Classroom
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:xVp6yWgUTbmBnI8v4z#sbg`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:Rw4P7YyMSqi3vvFzBEoYng`] | Corporate Headquarters:Workplace to Innovation center:storage
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:GS8XKoPsRSqs9Q0aZf7nLg`] | Corporate Headquarters:Workplace to Innovation center:storage
+| [olive]#Moved Asset# | RAPOO Keyboard [`ASSET:wtwKoTuvSYWcLxvqBr#urw`] | Corporate Headquarters:Reception to Innovation Center:HR room
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:dtXyXF31QL#TfXX0nbR0Kg`] | Corporate Headquarters:Reception to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Wireless Router [`ASSET:zengTWDZTwiO5vg0ehkEAg`] | Innovation Center:Entrance hall to Innovation center:Room-2
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:czhenT93TGWGL@QXowO2pQ`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:IY7iMg9DT6aKC@YkVagV2g`] | Corporate Headquarters:Workplace to Innovation center:storage
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:ALnInskgQtyP24JC4T@zrw`] | Innovation Center:Room-1 to Innovation center:storage
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:53#i@S3BTuSjMIyhgOsImw`] | Corporate Headquarters:Reception to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:2bUOkFqkTBCmKx9UdRrVVg`] | Innovation Center:HR room to Innovation center:Room-2
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:BhWEaFXQQESli1ODfEAdMg`] | Corporate Headquarters:Classroom to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:sv7lJ1DOQDmu8LZi0Wk6ow`] | Innovation Center:Entrance hall to Innovation Center:HR room
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:GhvkNUJTS8Sw7tuaHXLcFg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:iEPxrQmnSMq5QKD8fhnUfw`] | Corporate Headquarters:Mini-conference room to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:0PhmI93LRYe@u9coGRwoHw`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | USB Printer [`ASSET:i20f798RSryQscgam2Jtgw`] | Innovation Center:Entrance hall to Innovation center:storage
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:#J4W9eDNTE#uqPXl#FAHOQ`] | Innovation Center:HR room to Innovation Center:HW Room
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:Dkujff4wTIWU--aUmyqMJQ`] | Innovation Center:HR room to Innovation center:storage
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:jFIGPOynSfOlgHdfkXp8Hg`] | Corporate Headquarters:Workplace to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:ZB2yPSDGSpicnhNweVkSgA`] | Innovation Center:Entrance hall to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:jCSawTKXRKqqUFgb2gHcpQ`] | Innovation Center:HR room to Innovation center:Class room mini
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:xOXoyjChRXiSy8So4qr5gg`] | Innovation Center:HR room to Corporate Headquarters:Reception
+| [olive]#Moved Asset# | Wireless Router [`ASSET:PEHEkYglTuqdaKDj6diuKw`] | Innovation Center:Entrance hall to Innovation center:Room-2
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:H7T7CtXzQGCdoJvELc6HCQ`] | Innovation Center:Entrance hall to Innovation center:Room-2
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:SPePUH#uT@St88PVoYzqkw`] | Corporate Headquarters:Reception to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:1jN9wR#TR3aKD#VWIpVK7w`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:@0uj1acJRZ#IC8mt7T4I9A`] | Corporate Headquarters:Mini-conference room to Innovation center:storage
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:e8xiKCZZSeCTMCei#Bs2sg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:o1pG6D7jQEC0k-eaYERDEg`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:Ncbn4@UkRSaJDg9qMX5Vpg`] | Innovation Center:HR room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:OJ4oNrP0TNKUVixrHFJU3g`] | Corporate Headquarters:Reception to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:FmZBfeWWQjGoLZmylvVLYA`] | Innovation Center:HW Room to Innovation Center:Room-1
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:evcMdIhsS9SSn2chQn0Chg`] | Corporate Headquarters:Workplace to Innovation Center:Room-1
+| [olive]#Moved Asset# | Netgear wireless router [`ASSET:YHdtdGDpSNeoIIirxJAi#g`] | Innovation Center:HR room to Innovation Center:Room-1
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:rK8hTqUsTQ2NU-2YJXRh0A`] | Innovation Center:HR room to Innovation center:storage
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:0FR-krKAQwumgj3HvS2bqw`] | Corporate Headquarters:Reception to Innovation center:storage
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:t5U44V56QcKEisY#8j6@IQ`] | Corporate Headquarters:Lab to Innovation Center:HR room
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:TOmlnqJhQcK@n1qTBa#s#g`] | Corporate Headquarters:Workplace to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Samsung LCD Monitor [`ASSET:hHJdBY@eRkWXnB@HRQhtrQ`] | Innovation center:storage to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:Mgc8AW7xSTuoECoXFoQ#sg`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:jW7fO9uBRwuPWmb3FL4mkg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Wireless Router [`ASSET:MluV90kpSsy3tkfmIGAuYg`] | Innovation Center:Entrance hall to Innovation Center:HR room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Z7Nf5cuzRPO3kG5Oo78LyA`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:1#Voqt7YQ@qzRQsMD39bMQ`] | Corporate Headquarters:Mini-conference room to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:N44IBAcUQ5ugezuFczCwLw`] | Corporate Headquarters:Workplace to Innovation center:storage
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:AyGRcuudSdKdU3u@ZW4c#A`] | Corporate Headquarters:Lab to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:C#CDP2ghQxiyAC69MHnmsQ`] | Innovation Center:Entrance hall to Innovation center:Room-2
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:h0BUk05uSSufpHIHcsaeCw`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:QiGf6ldGSLWagB4YXPobCw`] | Innovation Center:HW Room to Innovation Center:HR room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:EfPPu3M0QFa2ipZ85j6Big`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:aPRITG8ZRgqpC2hEK2sNSQ`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:OgbqdD7ZQ2#NCBPM31zByQ`] | Corporate Headquarters:Workplace to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:qsD1TQ9OSJKdu1GJ5PneWw`] | Corporate Headquarters:Director's Office to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:oYjLEOh_TnyU-SlAw1Xh7A`] | Innovation Center:HR room to Innovation center:storage
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:P5RRyKXoQGec8NfkPpsF4w`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:VEaPcJgyQROCTbYpgJiNbA`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:c_64zYApS1ag-NGwHo0MxA`] | Innovation Center:HR room to Innovation center:storage
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:FWMyk255SOW7Tgsqn@GYUA`] | Corporate Headquarters:Classroom to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:0QcoLeoJQ3asi4yhu#FySg`] | Corporate Headquarters:Lab to Innovation Center:HR room
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:NxFpU2GPRMSiFiSvVgMBSg`] | Corporate Headquarters:Workplace to Innovation Center:HR room
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:tvfkuPL0TMym#bfVK#l8Uw`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:fTUDpYyQQ9mJtPydk2gevg`] | Innovation Center:HR room to Innovation Center:HW Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:MSLnqxKiRRGz7JI1HG9IUw`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:qjIW0mtATfqJ4oL8vw#oCA`] | Corporate Headquarters:Workplace to Corporate Headquarters:Director's Office
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:Py51gZCzTTGMYFK1WpuPyw`] | Innovation Center:Entrance hall to Innovation center:Room-2
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:mSc4rgVPTuaIF862QH3igw`] | Corporate Headquarters:Lab to Innovation center:storage
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Y3Of@Bg6RS2IcxdXHnPYYg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:fgoqyvYhRyKU8MaO9GlaOg`] | Corporate Headquarters:Workplace to Innovation Center:HW Room
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:PbyN5LiyTG63Rc1TQKsQkw`] | Innovation Center:Entrance hall to Innovation Center:HR room
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:VfYdLzHJSiix7uj@ZgXZ@g`] | Corporate Headquarters:Reception to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:oNTXrc0jTxyUS7q0RxX57w`] | Innovation Center:HW Room to Innovation Center:Room-1
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:sVf@1P1FQl6k#qOAjJqIsA`] | Innovation Center:Room-1 to Innovation center:storage
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:adgEXEtJSwu@bTTQ9OBE4Q`] | Corporate Headquarters:Mini-conference room to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:5h@ExN2tSv#NQT3fzdt8jQ`] | Innovation Center:Entrance hall to Innovation Center:HR room
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:Ym#Z4#cLSK#@PsY4lKkkuw`] | Innovation Center:Entrance hall to Innovation center:Room-2
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:5qMGIlyxQ9CeYSA3Dt57RQ`] | Innovation Center:Entrance hall to Innovation center:Room-2
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:uHMu9ICGRV#gNah@WdA#Qg`] | Innovation Center:HR room to Innovation center:storage
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:UfEqJxZrTWSHEypkjrXShw`] | Innovation Center:Room-1 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:loioknmETb26FaPr#Nk9Zw`] | Innovation Center:Entrance hall to Innovation center:Room-2
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:5aZ7SsPmTCiOsmTivtUpjQ`] | Innovation Center:Room-1 to Innovation center:storage
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:rH3hvMnDSG6kLsEcHllkSQ`] | Corporate Headquarters:Workplace to Innovation Center:HR room
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:ycfHbdaISFC@gTd74fSWNA`] | Corporate Headquarters:Reception to Innovation Center:HR room
+| [olive]#Moved Asset# | HP Keyboard [`ASSET:J0npzpofQmmzO1PO0Wz9EQ`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:Ui0w2nStT12mllnaRebETw`] | Corporate Headquarters:Workplace to Innovation center:storage
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:9h6RsWrnSqml9UukSEGimQ`] | Corporate Headquarters:Lab to Innovation center:storage
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:MgFL@zekQCaTo9Yz2ItZYQ`] | Corporate Headquarters:Mini-conference room to Innovation center:storage
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:Djdh13eNQmi6QoKLaxVEPg`] | Innovation Center:Entrance hall to Innovation center:Room-2
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:dI32e1IvTwW1xvZo0cJyuQ`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:CYAYEmHpRSioK7t6Gj1QdQ`] | Corporate Headquarters:Mini-conference room to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:lq3jyOPoScWtxqm3QIs7rA`] | Innovation Center:Room-1 to Innovation center:storage
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:IzPi8DzPScqzbO8S1Bvshw`] | Innovation Center:Entrance hall to Innovation center:Room-2
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Bfeb#S9@ROW4eaZXiJFG@A`] | Corporate Headquarters:Reception to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:AB@Rpt0jQueWJbFMsG7lPA`] | Corporate Headquarters:Lab to Innovation center:storage
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:4E1zB7i3TuW96Fc1RkBHMg`] | Innovation Center:Room-1 to Innovation center:storage
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:T0iOsv95QUigEVeTQh3sXQ`] | Innovation Center:HR room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:#CnuNyFCSg#VuKP0oWbRdg`] | Corporate Headquarters:Lab to Innovation center:storage
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:lDUJ0yirQ7qPPEs@H3YcKg`] | Innovation Center:Room-1 to Innovation center:storage
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:WLET2HoTRjix7EXGuAD##Q`] | Innovation Center:HR room to Innovation Center:Room-1
+| [olive]#Moved Asset# | Ergonomic Rolling Chair [`ASSET:jhgopN9dRSesiu2kDi5YIw`] | Innovation Center:HR room to Innovation center:storage
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:FwUIXqFSQ46dCRMdCgngeQ`] | Corporate Headquarters:Workplace to Innovation center:storage
+|======
+
+=== 13 Mar '19
+*Progress*:
+
+progress::100[color="lime", caption="14 / 14 Locations"]
+*Missed Locations*: Innovation center:Class room mini
+
+[role="table table-striped"]
+|======
+| [green]#New Asset# | Keyboard Dell [`ASSET:QlQY@kywR7O5KVTRCtRSFQ`] | Innovation center:Room-2
+| [green]#New Asset# | Desktop Computers [`ASSET:so5@2#RfS4#qEoMRvvq4sA`] | Innovation center:Conference Room
+| [green]#New Asset# | Netgear wireless router [`ASSET:Gclw#vjrQN6f#N6X@8zm1Q`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:tffY1gNxTE#bt95tPjLbPA`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Unknown [`ASSET:jJ9tzo8hS4SU97FXO3mjpQ`] | Innovation center:Room-2
+| [green]#New Asset# | Keyboard Dell [`ASSET:3HWFh4AnSuWdERKmprPxwQ`] | Innovation Center:Room-1
+| [green]#New Asset# | Keyboard Dell [`ASSET:cr5vp6nITbWNYcP0rGhzFQ`] | Innovation Center:Room-1
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:Opd2NjaeTaauxxTFMRaFgg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:LCRd9E@hSmGcBKquMsYfyw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:8mEWT@zuQOmqb75DAkPUPQ`] | Innovation Center:Room-1
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:TySXqhONScCsPSO1n7jW5w`] | Innovation Center:Room-1
+| [green]#New Asset# | Mouse Dell [`ASSET:5qha9WQ#Qxy05fnWXilrQA`] | Innovation Center:Room-1
+| [green]#New Asset# | Mouse Dell [`ASSET:l2nRfYZ2SKGyi3TI#KahwQ`] | Innovation Center:Room-1
+| [green]#New Asset# | Unknown [`ASSET:50s2AEGoQkyb5LJcdXLvkQ`] | Innovation center:Conference Room
+| [green]#New Asset# | Mouse Dell [`ASSET:ca@pZTYkQBioMHOxbgPkoQ`] | Innovation Center:Room-1
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:ugZsnIawSzqYErVypmdyNg`] | Innovation Center:Room-1
+| [green]#New Asset# | Mouse Dell [`ASSET:ocCVlf2xR56uwMVkRRf0vA`] | Innovation Center:Room-1
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:QTel3KdeRuaeXt45erR4wg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Mouse Dell [`ASSET:9A#tRqztQRCWhuKt4NzZZg`] | Innovation center:Room-2
+| [green]#New Asset# | Wireless Router [`ASSET:uD0S7NF4Rs2YLtDOZOOFhg`] | Innovation Center:HW Room
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:SPzSrMOUQhSTOFDiJJdUmw`] | Innovation Center:Room-1
+| [green]#New Asset# | Mouse Dell [`ASSET:NO3@@bDjQomUeLtZQ2QP@A`] | Innovation Center:Room-1
+| [green]#New Asset# | Mouse Dell [`ASSET:fUsXMUZDS12kQFXmcBJZ0A`] | Unknown
+| [green]#New Asset# | Keyboard Dell [`ASSET:ceRUWblHRdKKKu3@W0@c0Q`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:zgqSQodLRJm1MVIZexK1jg`] | Innovation center:Room-2
+| [green]#New Asset# | Keyboard Dell [`ASSET:DjbEIuNTTJiyQE9Wgc3hAQ`] | Innovation Center:Room-1
+| [green]#New Asset# | Unknown [`ASSET:HXhwyydzRPGdPfgxwILJ#w`] | Innovation center:Room-2
+| [green]#New Asset# | Mouse Dell [`ASSET:tWCFJ470TX2Xe4MpIGyc4A`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:bSuGwjQBQSOhRnmsRK6f9g`] | Innovation Center:Room-1
+| [green]#New Asset# | Keyboard Dell [`ASSET:ehp1#oWTSiaeS2InBqid5g`] | Innovation Center:Room-1
+| [green]#New Asset# | Unknown [`ASSET:2vcqGDanQyeDMPrqGXhdQQ`] | Innovation Center:HR room
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:NQ0qbGfgQXqGPCXqE1I1Wg`] | Innovation Center:Room-1
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:vRrTKt#2TKy1XH1Dl1Ek0w`] | Innovation Center:Room-1
+| [green]#New Asset# | Rolling Chair [`ASSET:GR0JZTUgSeyMLwAtMlXH6Q`] | Innovation center:Conference Room
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:@lVoe0YfSZaEf8#GrQeHxA`] | Innovation Center:Room-1
+| [green]#New Asset# | Keyboard Dell [`ASSET:L2BKPj#YRASLga0YnhqlOw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Unknown [`ASSET:VRL3pNLyTxyYXsiSqG3JFw`] | Innovation center:Conference Room
+| [green]#New Asset# | Keyboard Dell [`ASSET:oXt0BzQSRTCVtIYmlbpWCw`] | Innovation Center:Room-1
+| [green]#New Asset# | Keyboard Dell [`ASSET:SBhD5UOLRdmfzrBJrEzS6A`] | Innovation Center:Room-1
+| [green]#New Asset# | Unknown [`ASSET:zR7kPkZ9Rie5KTx@#Fao8Q`] | Innovation center:Conference Room
+| [green]#New Asset# | Rolling Chair [`ASSET:P3IZQdnHQGmm51rBNLkkHA`] | Innovation Center:Room-1
+| [green]#New Asset# | Mouse Dell [`ASSET:zKUHvRyyS7#5fpsds0Ye1A`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Keyboard Dell [`ASSET:H30WKKbqRPymYr2v6RFFHQ`] | Innovation Center:Room-1
+| [green]#New Asset# | Rolling Chair [`ASSET:2lcDr2PrS4mLvZBhhF35hA`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Mouse Dell [`ASSET:z4gLBG@bSdG4fzCFuEgnPA`] | Innovation Center:Room-1
+| [green]#New Asset# | Unknown [`ASSET:xno2cqSZQiiXEN16DhZrZg`] | Innovation Center:HR room
+| [green]#New Asset# | Netgear wireless router [`ASSET:TgNKUPwuSSKzbozV0bF6zw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Netgear wireless router [`ASSET:yMJgYhV2TC2GzRSZcjDoMQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:7YFlOOh8SEOkb@Boi#tEhQ`] | Innovation Center:Room-1
+| [green]#New Asset# | Mouse Dell [`ASSET:j0X1YCSKSIi0ggz#q0ioQQ`] | Innovation Center:Room-1
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:doZetbnKQMKUliNJdYdlgQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Desktop Computers [`ASSET:E#MIdjNKRtWrUVK#jrTwXw`] | Innovation center:Room-2
+| [green]#New Asset# | Mouse Dell [`ASSET:E31upJyrRiOe0fIspN8wrw`] | Innovation Center:Room-1
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:OgGUEs#jQUa6V94K9iFc7Q`] | Innovation Center:Room-1
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:3RFlu#obRgeo6C8CDhWeIg`] | Innovation center:Room-2
+| [green]#New Asset# | Desktop Computers [`ASSET:uWZkrmKHRSaDckgfM@nyvQ`] | Innovation center:Room-2
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:i2OKICqKS6GsQmopOLsjFg`] | Innovation center:Room-2
+| [green]#New Asset# | Mouse Dell [`ASSET:aQvmUjrCS7#ISm3WOzqhEQ`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:DEGT9#CaQeOD6#3AFPQaLQ`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Mouse Dell [`ASSET:6EFPsnPCRmeXZcF58TjThw`] | Innovation Center:Room-1
+| [green]#New Asset# | Dell LCD Monitor [`ASSET:#VRuLUIiRMeDyuqW@E92Sg`] | Corporate Headquarters:Workplace
+| [green]#New Asset# | Unknown [`ASSET:TWhwxCuJQRWYjXhmi@4#HA`] | Innovation center:Conference Room
+| [green]#New Asset# | Unknown [`ASSET:1AxJ57ONSnehDMKtSll9sg`] | Innovation center:Conference Room
+| [green]#New Asset# | Keyboard Dell [`ASSET:kp39GzRgTRKU7SMBFSPQSQ`] | Innovation center:Room-2
+| [green]#New Asset# | Unknown [`ASSET:waFQzuSGS6uhDkdEyTRj3A`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Mouse Dell [`ASSET:eogdPcz0R1aG1kCQSkYSrw`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Keyboard Dell [`ASSET:vLAVgbV9R9unhHUlZpvr8g`] | Innovation Center:Room-1
+| [green]#New Asset# | Keyboard Dell [`ASSET:jJCIc7crQtOsM@qMakN6zg`] | Innovation Center:Room-1
+| [green]#New Asset# | Keyboard Dell [`ASSET:6bg5HNXeQEGyZzxqM6xBNg`] | Corporate Headquarters:Director's Office
+| [green]#New Asset# | Mouse Dell [`ASSET:0iCj87EmSSSfBjy@svVRMg`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Netgear wireless router [`ASSET:jYXkYM3oRqSzoeyIH3iEGA`] | Innovation Center:Entrance hall
+| [green]#New Asset# | Mouse Dell [`ASSET:T9iHePyeSemrwVCSQc0RtA`] | Innovation Center:Room-1
+| [green]#New Asset# | Keyboard Dell [`ASSET:ULChDlCvQEa9RenvelNFkQ`] | Innovation Center:Room-1
+| [green]#New Asset# | Desktop Computers [`ASSET:X5#fKIkYQIKQjTNuHap7Vw`] | Innovation center:Room-2
+| [green]#New Asset# | Keyboard Dell [`ASSET:fcL-c6hzSJib1fn0jrHwMg`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Desktop Computers [`ASSET:lFnUZFKfS7iQLD8L4F5a9A`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Desktop Computers [`ASSET:pjP@1vtdSUK6A7eIgwkXmA`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Dell LCD Monitor [`ASSET:j#mWUbZfTBa9rW4NKjT6WA`] | Corporate Headquarters:Reception
+| [red]#Missing Asset# | Dell LCD Monitor [`ASSET:KUsOQWYESd2155YrQ971vQ`] | Corporate Headquarters:Lab
+| [red]#Missing Asset# | Dell LCD Monitor [`ASSET:fssSxkwOTHaTnOH6LmSOwQ`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | HP Laserjet Printer [`ASSET:LBggxZLRTYSDF0qUTe8tmw`] | Innovation Center:HR room
+| [red]#Missing Asset# | Ergonomic Rolling Chair [`ASSET:oYjLEOh_TnyU-SlAw1Xh7A`] | Innovation center:storage
+| [red]#Missing Asset# | Rolling Chair [`ASSET:1jN9wR#TR3aKD#VWIpVK7w`] | Corporate Headquarters:Lab
+| [red]#Missing Asset# | Mouse Dell [`ASSET:FhqPI4T3TN6sWudnk2qQxw`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Wireless Router [`ASSET:olgIZpv4RsCENLmLuN2lHQ`] | Innovation center:Room-2
+| [red]#Missing Asset# | Rolling Chair [`ASSET:h99epj4NQueyWK5#BvDiOA`] | Corporate Headquarters:Lab
+| [red]#Missing Asset# | Desktop Computers [`ASSET:f9PCXgHRSyCl2prxQSmF9g`] | Innovation Center:Room-1
+| [red]#Missing Asset# | Keyboard Dell [`ASSET:@0uj1acJRZ#IC8mt7T4I9A`] | Innovation center:storage
+| [red]#Missing Asset# | Small Rolling Chair [`ASSET:xOXoyjChRXiSy8So4qr5gg`] | Corporate Headquarters:Reception
+| [red]#Missing Asset# | Rolling Chair [`ASSET:3U9UKI2gT@addy58jD2iQQ`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Training Chair [`ASSET:Z8EBbnttTW2xyncpxDlTBQ`] | Innovation center:Class room mini
+| [red]#Missing Asset# | Mini pc dell [`ASSET:R6Vu3wQMQhOBznowgAu8HQ`] | Corporate Headquarters:Classroom
+| [red]#Missing Asset# | Rolling Chair [`ASSET:qsD1TQ9OSJKdu1GJ5PneWw`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Rolling Chair [`ASSET:clZaPSY7RnShPxoGeWLGzA`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Mouse Dell [`ASSET:SPqUA1SMR9ayt10TWUG57g`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Wireless Router [`ASSET:PEHEkYglTuqdaKDj6diuKw`] | Innovation center:Room-2
+| [red]#Missing Asset# | Wireless Router [`ASSET:NtV1afB1RuWHryVZqcmyyQ`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Wireless Router [`ASSET:lC4EBwR_QR-4Do9gn004Yw`] | Innovation Center:Room-1
+| [red]#Missing Asset# | Training Chair [`ASSET:Kc#JOSxDQs2oznkXpUDraA`] | Innovation center:Class room mini
+| [red]#Missing Asset# | Wireless Router [`ASSET:1nBygHhYQ82voTssnoJ4#A`] | Innovation center:Room-2
+| [red]#Missing Asset# | Rolling Chair [`ASSET:UfEqJxZrTWSHEypkjrXShw`] | Innovation Center:HW Room
+| [red]#Missing Asset# | Mouse Dell [`ASSET:#S54@D6QQ7ysDpJi#XLpiw`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Small Rolling Chair [`ASSET:Ncbn4@UkRSaJDg9qMX5Vpg`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Desktop Computers [`ASSET:loioknmETb26FaPr#Nk9Zw`] | Innovation center:Room-2
+| [red]#Missing Asset# | Mouse Dell [`ASSET:IjkzAZU1R9yITI7X8pDhBA`] | Innovation Center:HR room
+| [red]#Missing Asset# | Rolling Chair [`ASSET:56jCK@raSBaUpuN7gq1ELA`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Keyboard Dell [`ASSET:C#CDP2ghQxiyAC69MHnmsQ`] | Innovation center:Room-2
+| [red]#Missing Asset# | Rolling Chair [`ASSET:cU1Q@exZTiea2UNVMwLnNQ`] | Corporate Headquarters:Lab
+| [red]#Missing Asset# | Keyboard Dell [`ASSET:MrvfqO4mS0yUegKajpgUcg`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Desktop Computers [`ASSET:MvRhzwwqRgmNMF7638vegg`] | Innovation Center:Room-1
+| [red]#Missing Asset# | Keyboard Dell [`ASSET:j7sZKKjuRRaPgHaxVaBiGQ`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Wireless Router [`ASSET:cEICW7hQTVmhmszFfNpkyA`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Mouse Dell [`ASSET:5aZ7SsPmTCiOsmTivtUpjQ`] | Innovation center:storage
+| [red]#Missing Asset# | Rolling Chair [`ASSET:KIDTG6wvTzWTvx2DTYZrFQ`] | Innovation center:Conference Room
+| [red]#Missing Asset# | Rolling Chair [`ASSET:h0BUk05uSSufpHIHcsaeCw`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Rolling Chair [`ASSET:7PcIXl0VR8G1jIU6Zp6b1Q`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Rolling Chair [`ASSET:pFtj9JRESy6vJ#RuYOkVIg`] | Innovation center:Class room mini
+| [red]#Missing Asset# | Keyboard Dell [`ASSET:qjJ7jCI4S260DtQqQTSUQw`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Wireless Router [`ASSET:YNf##ZlFTJWq4O59W0um#Q`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Logitech Mouse [`ASSET:0p8PvPIRQXqTWmOu0HJ7vQ`] | Corporate Headquarters:Lab
+| [red]#Missing Asset# | Training Chair [`ASSET:Ml0M3lRxQ7i5SIVlwSjZyw`] | Innovation center:Class room mini
+| [red]#Missing Asset# | Desktop Computers [`ASSET:JyVxCvlfRGWlx5VGpXKaYg`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Rolling Chair [`ASSET:xDoo19zsSr2jLqE4QAMSHQ`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Rolling Chair [`ASSET:fdNi0UhqQiGGv1LfLI124w`] | Corporate Headquarters:Lab
+| [red]#Missing Asset# | Rolling Chair [`ASSET:FmZBfeWWQjGoLZmylvVLYA`] | Innovation Center:Room-1
+| [red]#Missing Asset# | Mini pc dell [`ASSET:rJHGuMcuQ1KL5NeyW3#54Q`] | Innovation center:Class room mini
+| [red]#Missing Asset# | Mouse Dell [`ASSET:aPRITG8ZRgqpC2hEK2sNSQ`] | Corporate Headquarters:Lab
+| [red]#Missing Asset# | Dell LCD Monitor [`ASSET:rjVJSH0aSuuNrwtQ7yETwA`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | RAPOO Mouse [`ASSET:wczqLmC4RZqRH9TC3ri7TA`] | Innovation center:storage
+| [red]#Missing Asset# | Wireless Router [`ASSET:ADUPOwy8TT6@u3AsNRo1YQ`] | Innovation center:Room-2
+| [red]#Missing Asset# | Mouse Dell [`ASSET:pI8AmnfPRiGw9SmLLGQOiw`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Rolling Chair [`ASSET:OgbqdD7ZQ2#NCBPM31zByQ`] | Corporate Headquarters:Mini-conference room
+| [red]#Missing Asset# | Training Chair [`ASSET:PejKSy6iQkSkT217b8KRxQ`] | Innovation center:Class room mini
+| [red]#Missing Asset# | Rolling Chair [`ASSET:n9ZRhU9wRhO3hsydgWn8BQ`] | Innovation center:Class room mini
+| [red]#Missing Asset# | Ergonomic Rolling Chair [`ASSET:VuutSsi6RIaeIPuSd1YDIA`] | Corporate Headquarters:Reception
+| [red]#Missing Asset# | Rolling Chair [`ASSET:qjIW0mtATfqJ4oL8vw#oCA`] | Corporate Headquarters:Director's Office
+| [red]#Missing Asset# | Logitech Keyboard [`ASSET:t2MxF50zQQGw4xh@1rdrNA`] | Innovation Center:HW Room
+| [red]#Missing Asset# | Small Rolling Chair [`ASSET:T0iOsv95QUigEVeTQh3sXQ`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Rolling Chair [`ASSET:5xPQqBbJT5mTb1zweNRKmQ`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Keyboard Dell [`ASSET:3cnc8KkaSFOoMbRrojsxig`] | Innovation center:Room-2
+| [red]#Missing Asset# | Rolling Chair [`ASSET:LFWrN6rMQ4Gp4tSLzskOLg`] | Innovation center:Conference Room
+| [red]#Missing Asset# | Training Chair [`ASSET:bT9ntFjlRgKjKe0aHdfJwQ`] | Innovation center:Class room mini
+| [red]#Missing Asset# | Mouse Dell [`ASSET:Rw4P7YyMSqi3vvFzBEoYng`] | Innovation center:storage
+| [red]#Missing Asset# | Mouse Dell [`ASSET:GS8XKoPsRSqs9Q0aZf7nLg`] | Innovation center:storage
+| [red]#Missing Asset# | Rolling Chair [`ASSET:NQb7PmUNTFSU9KSPEcDAhg`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Mouse Dell [`ASSET:@hDBzVKiTViZ5K3rSbogaQ`] | Innovation Center:HR room
+| [red]#Missing Asset# | Mouse Dell [`ASSET:o@m1SbCxTXK1pzswuh9e1A`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Rolling Chair [`ASSET:fNNdw1c4Qf2fx4HeXGN5Ig`] | Innovation center:Conference Room
+| [red]#Missing Asset# | Keyboard Dell [`ASSET:fNc8mHUOTn6RuhTcJUjAAg`] | Innovation Center:HR room
+| [red]#Missing Asset# | Mouse Dell [`ASSET:Ui0w2nStT12mllnaRebETw`] | Innovation center:storage
+| [red]#Missing Asset# | RAPOO Keyboard [`ASSET:wtwKoTuvSYWcLxvqBr#urw`] | Innovation Center:HR room
+| [red]#Missing Asset# | Desktop Computers [`ASSET:LfKPRW@9Swu1@tbPMEEMcg`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Desktop Computers [`ASSET:vCTWsOCNSdKk1lFsCy3Epg`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Philips Monitor [`ASSET:GbzjXLUyTfCn15VoRDiS8A`] | Innovation center:storage
+| [red]#Missing Asset# | Desktop Computers [`ASSET:zgBo5CgfT#y8ki5biOoodQ`] | Innovation center:Room-2
+| [red]#Missing Asset# | Desktop Computers [`ASSET:zJWuzoCiRgWCtjL5nS1cBw`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Netgear wireless router [`ASSET:YHdtdGDpSNeoIIirxJAi#g`] | Innovation Center:Room-1
+| [red]#Missing Asset# | Wireless Router [`ASSET:oDDthtV5SiSwtCjXyL8Vzg`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Ergonomic Rolling Chair [`ASSET:c_64zYApS1ag-NGwHo0MxA`] | Innovation center:storage
+| [red]#Missing Asset# | Mouse Dell [`ASSET:FWMyk255SOW7Tgsqn@GYUA`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Mouse Dell [`ASSET:2UCWxXluQc2NbJRV_XOvag`] | Innovation Center:Room-1
+| [red]#Missing Asset# | Dell LCD Monitor [`ASSET:uCl30VPbSo#62TzpZrjbFQ`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Mouse Dell [`ASSET:LOP9aM7SSqKIGeyxhEyfng`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Mouse Dell [`ASSET:rXkPYgpdTtGzbI4pskda6Q`] | Innovation center:storage
+| [red]#Missing Asset# | RAPOO Keyboard [`ASSET:Yq9ucSstTkeILoZobYfudg`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Rolling Chair [`ASSET:RXp8UxjCSZ6amJqo1vfSGA`] | Innovation center:Conference Room
+| [red]#Missing Asset# | Rolling Chair [`ASSET:keQqKRsbQfSZ3NPPTBDxLg`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Dell LCD Monitor [`ASSET:I6BoOauITHSooRDIoTQo0Q`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Rolling Chair [`ASSET:P9o1Y1PsSk#sQcfknn2n7w`] | Innovation Center:Room-1
+| [red]#Missing Asset# | Mouse Dell [`ASSET:0FR-krKAQwumgj3HvS2bqw`] | Innovation center:storage
+| [red]#Missing Asset# | Desktop Computers [`ASSET:tvfkuPL0TMym#bfVK#l8Uw`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Small Rolling Chair [`ASSET:fTUDpYyQQ9mJtPydk2gevg`] | Innovation Center:HW Room
+| [red]#Missing Asset# | Desktop Computers [`ASSET:j8LTpB7gRpSIZyZ0@97YbQ`] | Innovation Center:Room-1
+| [red]#Missing Asset# | Keyboard Dell [`ASSET:4fN@K@qYQNeJTReiQWqNVA`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Mouse Dell [`ASSET:zyym8OlKTLi7CkEz5XVkCw`] | Innovation center:Room-2
+| [red]#Missing Asset# | Rolling Chair [`ASSET:MSLnqxKiRRGz7JI1HG9IUw`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Desktop Computers [`ASSET:Mgc8AW7xSTuoECoXFoQ#sg`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Wireless Router [`ASSET:IGH3e2stQP2ZRA7vXP5MxQ`] | Innovation center:Room-2
+| [red]#Missing Asset# | Rolling Chair [`ASSET:CYAYEmHpRSioK7t6Gj1QdQ`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Rolling Chair [`ASSET:IWONuEUoTwCZSU8cgDn#dQ`] | Corporate Headquarters:Director's Office
+| [red]#Missing Asset# | Rolling Chair [`ASSET:U3ZqRBlDR2OLFA1cUBnFtg`] | Innovation center:Conference Room
+| [red]#Missing Asset# | Keyboard Dell [`ASSET:ZaTwOM@WTMGpunxPmJ53yQ`] | Innovation Center:Room-1
+| [red]#Missing Asset# | Rolling Chair [`ASSET:ssfK2TwgT16OHiAxOnnnRQ`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Small Rolling Chair [`ASSET:WLET2HoTRjix7EXGuAD##Q`] | Innovation Center:Room-1
+| [red]#Missing Asset# | Training Chair [`ASSET:Dl2Pijn8QsazhgIzPMr6Uw`] | Innovation center:Class room mini
+| [red]#Missing Asset# | Desktop Computers [`ASSET:yIBhK1N6R4W4euN#HOZd@w`] | Innovation center:Room-2
+| [red]#Missing Asset# | Keyboard Dell [`ASSET:3TibaQjeSH68L73eTxrTQQ`] | Innovation Center:Room-1
+| [red]#Missing Asset# | Mouse Dell [`ASSET:gl2IqghoQQC4L6C7bBxNEA`] | Corporate Headquarters:Lab
+| [red]#Missing Asset# | Rolling Chair [`ASSET:adgEXEtJSwu@bTTQ9OBE4Q`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Training Chair [`ASSET:o##ZV8xgQgmdV5nMm3y#yA`] | Innovation center:Class room mini
+| [red]#Missing Asset# | Wireless Router [`ASSET:q0oIX43QRIy9YHJuL9POEA`] | Innovation center:Room-2
+| [red]#Missing Asset# | Rolling Chair [`ASSET:NoSHHOb@Teip2gQQqG5Oeg`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Rolling Chair [`ASSET:tze784RQQdylYGxP8aekkQ`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Mouse Dell [`ASSET:jQXR2rtpQP685lpAcp3pLg`] | Innovation Center:HR room
+| [red]#Missing Asset# | Keyboard Dell [`ASSET:sv7lJ1DOQDmu8LZi0Wk6ow`] | Innovation Center:HR room
+| [red]#Missing Asset# | Wireless Router [`ASSET:Pqjtp@TjQzmRgKyJEaYEGQ`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Wireless Router [`ASSET:A0Ao2hsLRpai@D5t@jYn8Q`] | Innovation Center:HR room
+| [red]#Missing Asset# | Mouse Dell [`ASSET:91dI70qsSWGro2pyhObneg`] | Innovation Center:HW Room
+| [red]#Missing Asset# | Rolling Chair [`ASSET:iogy1@kzSeu#KDOTfdYDtQ`] | Innovation center:Conference Room
+| [red]#Missing Asset# | Mouse Dell [`ASSET:Mnz8R1UETyOLckWJYftpsA`] | Corporate Headquarters:Lab
+| [red]#Missing Asset# | Mouse Dell [`ASSET:8@VE6yqPTwWsxdROvBrMUw`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Ergonomic Rolling Chair [`ASSET:683LIkNlSUuV2lPOfapW3Q`] | Corporate Headquarters:Director's Office
+| [red]#Missing Asset# | Mouse Dell [`ASSET:e#mukdbPSty4owVVR6pqug`] | Innovation center:Room-2
+| [red]#Missing Asset# | Desktop Computers [`ASSET:7veeimgGRb20JYYPndjMXA`] | Innovation Center:HW Room
+| [red]#Missing Asset# | Rolling Chair [`ASSET:SHpvuXwYTpeo4bb31iWbZA`] | Innovation center:Room-2
+| [red]#Missing Asset# | Mouse Dell [`ASSET:5h@ExN2tSv#NQT3fzdt8jQ`] | Innovation Center:HR room
+| [red]#Missing Asset# | Training Chair [`ASSET:myhaXVtwQDWWFXID90shBQ`] | Innovation center:Class room mini
+| [red]#Missing Asset# | Ergonomic Rolling Chair [`ASSET:rK8hTqUsTQ2NU-2YJXRh0A`] | Innovation center:storage
+| [red]#Missing Asset# | Wireless Router [`ASSET:MluV90kpSsy3tkfmIGAuYg`] | Innovation Center:HR room
+| [red]#Missing Asset# | Desktop Computers [`ASSET:H_Td9XTBTMezDBeag9blvg`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Mouse Dell [`ASSET:ao@ztRLKQiSbnCx3D@4j6g`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Dell LCD Monitor [`ASSET:a6E2e3qYSYWIODVuhSUBIQ`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Training Chair [`ASSET:xaUwbVj7TuKdfKFrmOF2CA`] | Innovation center:Class room mini
+| [red]#Missing Asset# | Mouse Dell [`ASSET:fgoqyvYhRyKU8MaO9GlaOg`] | Innovation Center:HW Room
+| [red]#Missing Asset# | Mouse Dell [`ASSET:Ym#Z4#cLSK#@PsY4lKkkuw`] | Innovation center:Room-2
+| [red]#Missing Asset# | Wireless Router [`ASSET:hHGBRopkQGaSjnuDKKOoYg`] | Innovation center:Room-2
+| [red]#Missing Asset# | Wireless Router [`ASSET:3IgN7ArBTvOSsVBRifZ8iw`] | Innovation center:Room-2
+| [red]#Missing Asset# | Keyboard Dell [`ASSET:8liZXj3vR@2ce8ecgmDJaQ`] | Innovation center:Class room mini
+| [red]#Missing Asset# | Small Rolling Chair [`ASSET:#J4W9eDNTE#uqPXl#FAHOQ`] | Innovation Center:HW Room
+| [red]#Missing Asset# | Ergonomic Rolling Chair [`ASSET:Dkujff4wTIWU--aUmyqMJQ`] | Innovation center:storage
+| [red]#Missing Asset# | Mouse Dell [`ASSET:lDUJ0yirQ7qPPEs@H3YcKg`] | Innovation center:storage
+| [red]#Missing Asset# | Ergonomic Rolling Chair [`ASSET:jhgopN9dRSesiu2kDi5YIw`] | Innovation center:storage
+| [red]#Missing Asset# | Mini pc dell [`ASSET:0SHKAoH6Rluz1sIt9u8@oQ`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Mouse Dell [`ASSET:evcMdIhsS9SSn2chQn0Chg`] | Innovation Center:Room-1
+| [red]#Missing Asset# | Ergonomic Rolling Chair [`ASSET:uHMu9ICGRV#gNah@WdA#Qg`] | Innovation center:storage
+| [red]#Missing Asset# | Mouse Dell [`ASSET:ygsTR05gS2OFFjgNG8C6Pw`] | Innovation Center:Room-1
+| [red]#Missing Asset# | Dell LCD Monitor [`ASSET:0sgtJWxnTvKZPsUwd6aTOw`] | Innovation Center:Entrance hall
+| [red]#Missing Asset# | Keyboard Dell [`ASSET:KQqMo#o1SFi46XcIvbSAFA`] | Innovation Center:HR room
+| [red]#Missing Asset# | Rolling Chair [`ASSET:e8xiKCZZSeCTMCei#Bs2sg`] | Corporate Headquarters:Mini-conference room
+| [red]#Missing Asset# | Rolling Chair [`ASSET:s0dgmbntQ0GBckrSK9llxQ`] | Innovation center:Conference Room
+| [red]#Missing Asset# | Dell LCD Monitor [`ASSET:KxyfoK8AT6qlSKaWXEYFcA`] | Corporate Headquarters:Workplace
+| [red]#Missing Asset# | Small Rolling Chair [`ASSET:jCSawTKXRKqqUFgb2gHcpQ`] | Innovation center:Class room mini
+| [red]#Missing Asset# | Rolling Chair [`ASSET:riBnOfmXR5STRgagSBeLzg`] | Innovation center:Room-2
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:WlWtboroRrSohMB10i7fMw`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:qEITQWkfQnCSDj6zyqYmrg`] | Corporate Headquarters:Lab to Corporate Headquarters:Classroom
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:N@WgV@KeS5WCUQg1BbhPIA`] | Corporate Headquarters:Classroom to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Logitech Keyboard [`ASSET:5@8sq1TETVa6g90FkgxQqg`] | Corporate Headquarters:Workplace to Innovation center:storage
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:dRnhmtKiRQuid6JkzYc4Vw`] | Corporate Headquarters:Workplace to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:TOmlnqJhQcK@n1qTBa#s#g`] | Innovation Center:Entrance hall to Innovation center:storage
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:dtXyXF31QL#TfXX0nbR0Kg`] | Corporate Headquarters:Lab to Innovation center:storage
+| [olive]#Moved Asset# | Netgear wireless router [`ASSET:RpsIrPdpT5#eq2ePBkZBZQ`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:RD5CeAjaR3avbEmjTn_iBQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Wireless Router [`ASSET:y@vPPwXjR0ewRIoALyilmQ`] | Innovation Center:HW Room to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:IZEfb6IZRrK0MKEEAj#xnw`] | Innovation Center:Room-1 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:NzFiylBWQpmDl4pKaPl9nQ`] | Corporate Headquarters:Lab to Corporate Headquarters:Classroom
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:3DdbPFNZSFSM69nqdSRuCg`] | Corporate Headquarters:Director's Office to Innovation center:storage
+| [olive]#Moved Asset# | Netgear wireless router [`ASSET:0v1d8OWCRkWGqQq@32yLJw`] | Innovation center:Room-2 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:T6swVJr@StOov@bd1xidoA`] | Corporate Headquarters:Director's Office to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Mini pc dell [`ASSET:6eXOa1vkQhyqlU5J@@Z5hA`] | Innovation center:Room-2 to Unknown
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:KlgjCN2zQDqYvzkWN4VqGw`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:4D#ehrShRCOFMKRbSiRqoA`] | Corporate Headquarters:Director's Office to Innovation center:Conference Room
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:9mRqxUX6Q#OmqZ@@PfyG1w`] | Innovation Center:Room-1 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:d8wb#essTsq2PeGdgRAb7w`] | Corporate Headquarters:Workplace to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:dF4KkAPrTHauCUh5z_V9PQ`] | Innovation Center:Room-1 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:0T73yg6MRiiNGww7Q8ZePw`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:rMoGB03rR8WmmgKxyFfrXw`] | Innovation Center:Room-1 to Innovation center:storage
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:EUX6Ag9jQGm4fWgLf5BFYg`] | Corporate Headquarters:Workplace to Corporate Headquarters:Director's Office
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:h4I8wZ#WQkGknB17cKnz1w`] | Innovation Center:Room-1 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Netgear wireless router [`ASSET:GJ7tp9#yQYeSXELdnEuJow`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:HJmSKkeDTqulDO1UkBeAHA`] | Corporate Headquarters:Lab to Corporate Headquarters:Reception
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:dX@Y7QadSmqQi3zLxWigLA`] | Innovation Center:Room-1 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Netgear wireless router [`ASSET:VDMdydl0Tl2@OeTqU2JqQQ`] | Innovation Center:Room-1 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:ZAd#6paSRmKhD71YTOVdwg`] | Innovation center:Room-2 to Unknown
+| [olive]#Moved Asset# | Wireless Router [`ASSET:SED6alObQFyOWP1DU4eqIw`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:xVp6yWgUTbmBnI8v4z#sbg`] | Corporate Headquarters:Workplace to Innovation center:storage
+| [olive]#Moved Asset# | Logitech Keyboard [`ASSET:OQ8gzOb6R#mCDCVFwg1@sA`] | Corporate Headquarters:Lab to Innovation center:storage
+| [olive]#Moved Asset# | Philips Monitor [`ASSET:eL3DQEUHQNaq45Abz2Nn1A`] | Corporate Headquarters:Lab to Innovation center:storage
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:jBdWRUHPT02tXq1XUOuNGA`] | Innovation Center:HW Room to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:@vdDczTRSqe3O9yeKe9IQQ`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:SCux7JQ0ScaLrM#gvu2zRw`] | Innovation Center:Entrance hall to Innovation center:Room-2
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:QaO5NT1dRV6JcTqfGg7vSA`] | Innovation Center:Room-1 to Unknown
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:EfPPu3M0QFa2ipZ85j6Big`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:wGrsBGMUQMqiMs80wsz79w`] | Innovation Center:Entrance hall to Innovation center:storage
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:Y72gOo8rTuuTxbwkt3YMRQ`] | Innovation center:Room-2 to Innovation Center:HR room
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:riyQ1dV9THWbIdQ0X4Z@ig`] | Innovation Center:Room-1 to Innovation center:Conference Room
+| [olive]#Moved Asset# | HP Keyboard [`ASSET:J0npzpofQmmzO1PO0Wz9EQ`] | Corporate Headquarters:Workplace to Innovation center:storage
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:ozsrAvD@SvaU@IpoH94zZw`] | Corporate Headquarters:Workplace to Innovation center:storage
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:ebUjRwwCQ5a8W1YwmqsntQ`] | Innovation Center:Room-1 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:zhBv6bomTfWDPas1nB2dKA`] | Innovation Center:Room-1 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:KlNfdMfXSCqxbKN4calpYg`] | Corporate Headquarters:Lab to Unknown
+| [olive]#Moved Asset# | Wireless Router [`ASSET:yeGDLw4kSICvax@gOxyb4Q`] | Innovation Center:Room-1 to Unknown
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:on7_PZ1eT7GFvOkNMYglQg`] | Innovation Center:Room-1 to Unknown
+| [olive]#Moved Asset# | Wireless Router [`ASSET:3hANyNfzRky6aEl#8lNswQ`] | Innovation Center:Entrance hall to Innovation Center:HW Room
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:cwhSjFToRDG#TiPzWj6Rmg`] | Innovation Center:Entrance hall to Innovation center:Room-2
+| [olive]#Moved Asset# | Logitech Keyboard [`ASSET:0B50t9fkQ2q9V4zRtKXQSQ`] | Corporate Headquarters:Lab to Innovation center:storage
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:iVw2M1rNSwaNsmdfsl1lcg`] | Corporate Headquarters:Classroom to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:QSsdH@smS0GI2gW1KsMBoA`] | Innovation Center:Room-1 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:x1zdY9DLRhiAb-9cQ6uORw`] | Innovation Center:Room-1 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:7CwJGk@lTjeWXZuhhM9mnw`] | Corporate Headquarters:Lab to Innovation center:storage
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:jW7fO9uBRwuPWmb3FL4mkg`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:ycfHbdaISFC@gTd74fSWNA`] | Innovation Center:HR room to Innovation center:storage
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:3bdghK#yRx2DLPb42mC6fQ`] | Innovation center:Room-2 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:P5RRyKXoQGec8NfkPpsF4w`] | Corporate Headquarters:Lab to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | HP Mouse [`ASSET:#5ar7hPnTpaEuG7R4rboBA`] | Corporate Headquarters:Lab to Innovation center:storage
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:PWciKGR4Rwqh63ixAolKnA`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:VEaPcJgyQROCTbYpgJiNbA`] | Corporate Headquarters:Workplace to Innovation center:storage
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Abg3zziwSqiCVqNxrAR@uw`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:eRqJv5E9TQ6orBYz8WYviw`] | Innovation Center:Room-1 to Unknown
+| [olive]#Moved Asset# | Wireless Router [`ASSET:zengTWDZTwiO5vg0ehkEAg`] | Innovation center:Room-2 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:fiv-91PqSbmFsC_6928aPQ`] | Innovation Center:Room-1 to Unknown
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:7p6DvuKUTKa3nMatDlzn#g`] | Innovation Center:Entrance hall to Innovation center:Room-2
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:A7ULhlOxQqWL2d2kupp6YQ`] | Innovation Center:HW Room to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:SUzQX4uMQGWd7cpelQ5GEg`] | Innovation Center:Room-1 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:eeB96Hy5QzSY@TkX15ud1g`] | Innovation Center:Room-1 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:czhenT93TGWGL@QXowO2pQ`] | Corporate Headquarters:Workplace to Corporate Headquarters:Mini-conference room
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:EAA@vIMmQd2uyqip28RltA`] | Corporate Headquarters:Lab to Innovation center:storage
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:9KZ6Nu##R3mSUqQiuk88Zw`] | Innovation Center:Room-1 to Unknown
+| [olive]#Moved Asset# | Netgear wireless router [`ASSET:wECVyTLvRbiO0myNig6EKg`] | Innovation Center:Room-1 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:IY7iMg9DT6aKC@YkVagV2g`] | Innovation center:storage to Unknown
+| [olive]#Moved Asset# | Logitech Keyboard [`ASSET:C6RCc9n0QZqXPRot8u#nMA`] | Corporate Headquarters:Lab to Innovation center:storage
+| [olive]#Moved Asset# | Netgear wireless router [`ASSET:05skGnugRKyO3zjLSsY61A`] | Innovation Center:Room-1 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:D1856XHbSVy5NLx9O7HiwQ`] | Innovation Center:Room-1 to Unknown
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:TYPZqVCKTgatg2c2M5fnxw`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Wireless Router [`ASSET:zkIueUpRR1yljLmyU9NUTA`] | Innovation Center:Room-1 to Unknown
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:dI32e1IvTwW1xvZo0cJyuQ`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:jFIGPOynSfOlgHdfkXp8Hg`] | Innovation Center:Entrance hall to Innovation center:storage
+| [olive]#Moved Asset# | HP Mouse [`ASSET:APhTK9AFQWijlPxljMeM#w`] | Corporate Headquarters:Lab to Innovation center:storage
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:jxwl6UpJQPOp5ND6-uTydw`] | Innovation Center:Room-1 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:lDScZ9mmQjen62bwnqbIaA`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:d7@lzIqzSEGe6EYZfKI@qw`] | Innovation Center:Room-1 to Unknown
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:GOF71KjsRSaCwDX1Y49q7Q`] | Innovation Center:HW Room to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Small Rolling Chair [`ASSET:2bUOkFqkTBCmKx9UdRrVVg`] | Innovation center:Room-2 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:AOFtSbbRT3yhkXsjcB485g`] | Innovation Center:Room-1 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Logitech Mouse [`ASSET:zbJNbig2S@WVGGXYR7b57A`] | Corporate Headquarters:Lab to Innovation center:storage
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:Faw68LFkQNSc4TJr6ZHQ8A`] | Innovation Center:Entrance hall to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:jPq7HTOqS@Own#0aazZ#tg`] | Innovation Center:Room-1 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:#OM7YYcDSUmNafTsKT#7ew`] | Corporate Headquarters:Lab to Corporate Headquarters:Reception
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:CSQJ4x6RSKmBIDhjF7WUKQ`] | Innovation Center:Entrance hall to Innovation center:storage
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:BhWEaFXQQESli1ODfEAdMg`] | Corporate Headquarters:Workplace to Innovation center:storage
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:lq3jyOPoScWtxqm3QIs7rA`] | Innovation center:storage to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:WhWhfI0vRRyIjj9ldaRqjQ`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:Py51gZCzTTGMYFK1WpuPyw`] | Innovation center:Room-2 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Wireless Router [`ASSET:e9UbVW2HTGuun3vST0LXoQ`] | Innovation Center:Room-1 to Innovation Center:HW Room
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:IzPi8DzPScqzbO8S1Bvshw`] | Innovation center:Room-2 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:dyueS@WRRPqZQt1LQsjjww`] | Innovation center:Room-2 to Innovation Center:HR room
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:qIp@HNBRR8iv#2qd@6BIxg`] | Innovation center:Room-2 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:zpVbYNALQ4KBt#1orveV9w`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:quPC@sYTSzK2CQ1qIbxYJA`] | Innovation Center:Room-1 to Unknown
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:wm6aKMkYRDC00Wtf6mS@ig`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:ljIuo0kRSHq4g4G-k6Gy8A`] | Innovation Center:Room-1 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:1Pn0ZuI5QlWgcvPvvNDzPA`] | Corporate Headquarters:Director's Office to Innovation center:storage
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:4Dd#rtCjQyKH@Td@er41YQ`] | Innovation Center:HW Room to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:hsZDybJmR9#fnbS1oP#hwg`] | Innovation Center:Room-1 to Unknown
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:GhvkNUJTS8Sw7tuaHXLcFg`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Y3Of@Bg6RS2IcxdXHnPYYg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:0PhmI93LRYe@u9coGRwoHw`] | Corporate Headquarters:Lab to Corporate Headquarters:Workplace
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:3vJ1a5b0Qlq2Gxp_DzigIg`] | Innovation Center:Room-1 to Unknown
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:7FX6gf59STSqJFqRQX0Xfg`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:F36kadG2SbCm2d1@XPcuCQ`] | Corporate Headquarters:Workplace to Innovation center:storage
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:1NqvvoPfTYi03h#dGXwX0w`] | Innovation Center:Entrance hall to Unknown
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:db1tpiH0Q6ORWZn6f8wdvA`] | Innovation Center:Room-1 to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:te3wYKYxTKaC3sfu#90@zg`] | Innovation Center:Room-1 to Innovation center:storage
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:uPdzWwWGSPSKVM3NFSMRMA`] | Innovation Center:HW Room to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Wireless Router [`ASSET:DhD9M#YoQ0SkDrH4HVWH#w`] | Innovation Center:Room-1 to Unknown
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:w6bOfQFBQIGu0o6CwgjMMw`] | Innovation Center:Entrance hall to Innovation Center:Room-1
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:qLEho9hNQmCyzZ7LTOHmPQ`] | Corporate Headquarters:Workplace to Innovation center:storage
+| [olive]#Moved Asset# | Dell LCD Monitor [`ASSET:gd6riCCHRcGh8b1KkIwjng`] | Corporate Headquarters:Workplace to Corporate Headquarters:Lab
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:1F#K2LuNRfOn1#Tn075kIQ`] | Innovation Center:Room-1 to Unknown
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:Bhp7qloKSXuWOrS5avOwuQ`] | Innovation Center:Entrance hall to Unknown
+| [olive]#Moved Asset# | Mouse Dell [`ASSET:N44IBAcUQ5ugezuFczCwLw`] | Innovation center:storage to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:3F767t4iSn#CvfMQB47Ggg`] | Corporate Headquarters:Lab to Innovation center:storage
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:7XwOcroTRjisSPmzdBqQPA`] | Innovation Center:Room-1 to Unknown
+| [olive]#Moved Asset# | Desktop Computers [`ASSET:BSXUtaIVSi6-R6HVVSlclg`] | Innovation Center:Room-1 to Unknown
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:Tqo6XdxKRSaT14di8RF6LA`] | Corporate Headquarters:Mini-conference room to Corporate Headquarters:Director's Office
+| [olive]#Moved Asset# | Rolling Chair [`ASSET:1#Voqt7YQ@qzRQsMD39bMQ`] | Corporate Headquarters:Workplace to Innovation Center:Entrance hall
+| [olive]#Moved Asset# | Netgear wireless router [`ASSET:ox73Z6FnQ@u8o@3a1QFPLg`] | Innovation Center:Room-1 to Innovation center:Conference Room
+| [olive]#Moved Asset# | Keyboard Dell [`ASSET:5p#zMnTxSCCGQZKRCSLyLg`] | Innovation center:Room-2 to Innovation center:Conference Room
+|======
+
